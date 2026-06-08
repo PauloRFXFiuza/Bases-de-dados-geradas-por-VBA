@@ -1,0 +1,739 @@
+ID;Nome Completo;Data Nasc.;Idade;Endereço;CEP;Município;UF;RG;CPF;Nome da Mãe;Nome do Pai;Etnia;Profissão;Estado Civil;Possui Filhos?;Qtd Filhos
+1;Henrique Mangabeira Chaves;28/03/1974;52;Rua Setembro, 1635;40060-001;Salvador;BA;8444661489;078176872411;Fernanda Laranjeira Mangabeira;Aparicio Evangelista Chaves;Branca;Administrador;Divorciado(a);Não;0
+2;Aline Medeiros Caldeira;24/06/1961;65;Av. Hermes da Fonseca, 3562;59020-000;Natal;RN;6895481988;584617318422;Cleusa Aranha Medeiros;Gabriel Coimbra Caldeira;Branca;Enfermeiro;União Estável;Sim;1
+3;Cleide Gomes Freire;18/01/1996;30;Rua Tancredo Neves, 1249;68920-000;Laranjal do Jari;AP;2103606431;131867045358;Alana Barreto Gomes;Rafael Baptista Freire;Parda;Economista;Solteiro(a);Não;0
+4;Gabriel Rocha Meireles;12/12/1978;48;Av. Juracy Magalhães, 1292;45023-490;Vitória da Conquista;BA;3622423320;736842003133;Ione Assuncao Rocha;Emerson Pastrocinio Meireles;Indígena;Médico Pediatra;Solteiro(a);Sim;1
+5;Flavio Paiva Feitosa;27/01/1997;29;Av. Marcelino Pires, 3455;79800-001;Dourados;MS;4950740568;289767789596;Ivone Moraes Paiva;Gaston Cardoso Feitosa;Branca;Veterinário;União Estável;Sim;1
+6;Beto Duarte Delgado;03/08/1977;49;Av. Amazonas, 2864;78700-050;Rondonópolis;MT;3480006471;003435378790;Isaura Andrade Duarte;Biel Marinho Delgado;Parda;Administrador;Casado(a);Sim;2
+7;Chantal Jardim Naves;22/06/1987;39;Av. Bucar Neto, 2045;64800-000;Floriano;PI;3179919307;607141586234;Letícia Branco Jardim;Fred Cordeiro Naves;Branca;Chef de Cozinha;Divorciado(a);Sim;1
+8;Flavio Avila Figueira;19/11/2000;26;Av. Frei Serafim, 702;64001-020;Teresina;PI;4483854332;331326699109;Isaura Mascarenhas Avila;Bento Filgueiras Figueira;Branca;Veterinário;União Estável;Não;0
+9;Dirce Dantas Noronha;05/04/1964;62;Av. Presidente Vargas, 1827;75901-001;Rio Verde;GO;4816620740;610418367833;Ingrid Ribeiro Dantas;Frederico Mello Noronha;Branca;Fisioterapeuta;Viúvo(a);Não;0
+10;Cassiano Carneiro Freire;26/09/2001;25;Av. Guilherme Schell, 2801;92200-630;Canoas;RS;2320141618;182727981270;Erica Antunes Carneiro;Enzo Paschoal Freire;Parda;Administrador;Divorciado(a);Sim;3
+11;Cássia Pinto Soares;11/11/1961;65;Av. Dr. Yvens Cordeiro, 761;69375-000;Rorainópolis;RR;4268967275;833143317845;Elisângela Evangelista Pinto;Ineu Ornellas Soares;Branca;Administrador;Divorciado(a);Não;0
+12;Conceição Malta Cabral;09/06/2000;26;Rua Tancredo Neves, 2754;68920-000;Laranjal do Jari;AP;0133503294;647215964565;Glaucia Meireles Malta;Euzebio Faria Cabral;Branca;Administrador;União Estável;Não;0
+13;Jasper Araujo Ferreira;08/09/1999;27;Largo Dom Fernando Gomes, 3580;57300-040;Arapiraca;AL;1379491776;955233526063;Celina Lagos Araujo;Marcos Gama Ferreira;Preta;Farmacêutico;União Estável;Não;0
+14;Giovanni Gusmao Padilha;21/06/2005;21;Av. Constantino Nery, 1482;69050-000;Manaus;AM;5833741296;017551020892;Elisabete Palma Gusmao;Hortencio Silva Padilha;Branca;Auxiliar Técnico;União Estável;Não;0
+15;Eduardo Aranha Branco;19/06/1979;47;Av. Frei Serafim, 1961;64001-020;Teresina;PI;5734724390;014157815470;Amanda Diniz Aranha;Benicio Lima Branco;Parda;Chef de Cozinha;Casado(a);Não;0
+16;Letícia Assuncao Pastrocinio;07/01/2008;18;Av. Brasil, 565;87013-000;Maringá;PR;6354850875;756648805514;Elaine Evangelista Assuncao;Alberto Freitas Pastrocinio;Preta;Contador;Solteiro(a);Sim;1
+17;Erick Azevedo Meireles;15/12/1968;58;Av. Paulista, 1547;01310-100;São Paulo;SP;1723446766;557275120360;Célia Avila Azevedo;Geraldo Palma Meireles;Preta;Eletricista;Solteiro(a);Sim;1
+18;Gilmar Freire Marinho;21/04/1997;29;Av. Goiás, 2151;75020-010;Anápolis;GO;6028533002;847632191613;Amélia Moita Freire;Everaldo Monteiro Marinho;Preta;Chef de Cozinha;União Estável;Sim;2
+19;Adalberto Negrao Neves;03/12/1975;51;Av. Brasil, 2522;87013-000;Maringá;PR;5262832468;152572923643;Astrid Xavier Negrao;Erick Paes Neves;Branca;Engenheiro Civil;União Estável;Sim;1
+20;Daniel Lozano Neves;22/10/1970;56;Av. Ceará, 797;69900-001;Rio Branco;AC;5265242178;604003521998;Coralina Gusmao Lozano;Everton Goulart Neves;Parda;Contador;Viúvo(a);Sim;2
+21;Célia Madureira Nunes;10/06/2001;25;Av. Paulista, 2783;01310-100;São Paulo;SP;8961116647;013325045318;Cássia Ornellas Madureira;Iuri Laranjeira Nunes;Parda;Biólogo;Casado(a);Sim;1
+22;Aurora Moraes Barros;25/12/2004;22;Av. Agamenon Magalhães, 1070;55012-290;Caruaru;PE;6194448933;642209758539;Daiana Garcez Moraes;Ineu Borges Barros;Preta;Eletricista;Viúvo(a);Sim;3
+23;Gertrudes Frota Camargo;13/03/2007;19;Av. Antônio Trajano, 1153;79601-001;Três Lagoas;MS;7905310780;074683398281;Heloísa Lins Frota;Cassiano Caceres Camargo;Preta;Psicóloga;Divorciado(a);Não;0
+24;Haroldo Geraldo Ladeira;02/10/2006;20;Av. Historiador Rubens de Mendonça, 2668;78008-000;Cuiabá;MT;6545840243;165002316618;Eunice Padilha Geraldo;Gaspar Xavier Ladeira;Preta;Chef de Cozinha;Solteiro(a);Não;0
+25;Francisca Lousada Aranha;28/12/2003;23;Av. Parque, 2404;69100-043;Itacoatiara;AM;1678216654;965949471342;Eneida Bueno Lousada;Frederico Duarte Aranha;Parda;Analista de Sistemas;Viúvo(a);Não;0
+26;Heitor Paranhos Vieira;24/12/1972;54;Av. Guararapes, 560;56302-000;Petrolina;PE;8018423569;652169054828;Renata Cantanhede Paranhos;Gisvaldo Rodrigues Vieira;Branca;Analista de Sistemas;Divorciado(a);Não;0
+27;Andrea Neto Holanda;02/08/1991;35;Av. Soares Lopes, 2326;45654-000;Ilhéus;BA;4500667622;209720902724;Angelica Mendonca Neto;Elias Laranjeira Holanda;Parda;Economista;União Estável;Sim;1
+28;Ana Santos Paixao;26/09/2004;22;Rodovia BR-316, 803;67013-000;Ananindeua;PA;5231346866;541989410831;Fabiana Negrao Santos;Gilson Moreira Paixao;Parda;Administrador;Divorciado(a);Não;0
+29;Alejandro Moreira Castello;01/08/2005;21;Av. Nereu Ramos, 3923;65606-010;Caxias;MA;4251760874;631631225973;Maria Moura Moreira;Ivanilson Mangabeira Castello;Parda;Farmacêutico;Solteiro(a);Sim;7
+30;Deise Lucena Costa;24/06/1996;30;Av. das Figueiras, 1779;78550-000;Sinop;MT;2969668397;601782393208;Cora Teixeira Lucena;Guto Nogueira Costa;Amarela;Administrador;Solteiro(a);Sim;1
+31;Carina Duarte Henriques;24/07/1984;42;Av. Amazonas, 2030;69151-000;Parintins;AM;5041015730;987752572940;Carmem Mangabeira Duarte;Casemiro Nascimento Henriques;Preta;Biólogo;Divorciado(a);Não;0
+32;Dario Faustino Noronha;15/04/1972;54;Av. Higienópolis, 2620;86020-080;Londrina;PR;1012907707;695570678623;Érika Jordao Faustino;Jader Neves Noronha;Preta;Farmacêutico;Casado(a);Sim;3
+33;Chantal Mascarenhas Lozano;12/09/2008;18;Via W3 Sul, 1436;70340-000;Brasília;DF;0510034169;623600524107;Alexia Marques Mascarenhas;Edilson Lopes Lozano;Preta;Arquiteta;Casado(a);Sim;1
+34;Iomar Ribeiro Ferreira;16/12/2000;26;Largo Dom Fernando Gomes, 3125;57300-040;Arapiraca;AL;0974699771;597062113329;Eloá Pastore Ribeiro;Chico Borges Ferreira;Branca;Veterinário;União Estável;Não;0
+35;Juliana Andrade Pastrocinio;10/05/1994;32;Av. Higienópolis, 3506;86020-080;Londrina;PR;1701201020;297262090331;Debora Antunes Andrade;Jamil Campos Pastrocinio;Branca;Psicóloga;Solteiro(a);Sim;1
+36;Gledson Santos Moita;12/10/2005;21;Rua São Pedro, 2956;63010-010;Juazeiro do Norte;CE;4401209773;746396285287;Candida Giacomini Santos;Dante Mata Moita;Branca;Chef de Cozinha;Viúvo(a);Não;0
+37;Jeferson Malta Moreira;14/07/1962;64;Rua XV de Novembro, 2274;89010-001;Blumenau;SC;2127563665;298805501277;Elisabete Giacomini Malta;Haroldo Magalhaes Moreira;Parda;Arquiteta;Solteiro(a);Sim;1
+38;Jandira Palhares Diniz;19/09/2000;26;Largo Dom Fernando Gomes, 1994;57300-040;Arapiraca;AL;4582077995;321703536074;Erica Gama Palhares;Breno Carrasco Diniz;Branca;Veterinário;Divorciado(a);Sim;1
+39;Caciano Moreira Godoy;12/03/1985;41;Av. Epitácio Pessoa, 1927;58700-010;Patos;PB;4098934763;073123171899;Cleide Azevedo Moreira;Guto Borges Godoy;Parda;Auxiliar Técnico;Divorciado(a);Sim;13
+40;Hortencio Assis Espinosa;13/09/2005;21;Av. República do Líbano, 2747;74110-160;Goiânia;GO;1685750149;005772073254;Eneida Ribeiro Assis;Adalberto Neto Espinosa;Parda;Administrador;Solteiro(a);Não;0
+41;Derick Casanova Passos;18/08/2004;22;Av. Piauí, 2805;65631-190;Timon;MA;9932787223;083874527782;Eloá Meireles Casanova;Gilmar Nobre Passos;Parda;Jornalista;Divorciado(a);Não;0
+42;Gilson Lozano Malta;13/11/1985;41;Av. Alberto Maranhão, 2432;59600-005;Mossoró;RN;0129906452;910375775206;Graça Dantas Lozano;Flavio Paranhos Malta;Branca;Enfermeiro;União Estável;Sim;1
+43;Ivete Brito Assis;24/08/1980;46;Av. Bucar Neto, 1877;64800-000;Floriano;PI;4007558945;337260465568;Aura Moraes Brito;Helio Xavier Assis;Branca;Biólogo;Divorciado(a);Sim;1
+44;Evandro Braga Lopes;08/06/1966;60;Av. Getúlio Vargas, 2417;65900-000;Imperatriz;MA;3183992098;863252369426;Erica Cabral Braga;Douglas Mesquita Lopes;Preta;Farmacêutico;Solteiro(a);Sim;1
+45;Dinorá Furquim Cantanhede;10/10/1985;41;Av. Caxangá, 1952;50711-000;Recife;PE;3291806242;012452090595;Cleonice Montenegro Furquim;Jeremias Cardoso Cantanhede;Parda;Analista de Sistemas;União Estável;Não;0
+46;Cloé Monforte Paes;05/02/1977;49;Av. Marcelino Pires, 68;79800-001;Dourados;MS;2323107444;701362851514;Glauce Muricy Monforte;Jaime Rocha Paes;Parda;Veterinário;Casado(a);Sim;1
+47;Deise Garrido Luz;15/03/1967;59;Av. Goiás, 104;77402-010;Gurupi;TO;5266158403;106478121266;Jaqueline Freire Garrido;Apostolo Soares Luz;Parda;Professor;Divorciado(a);Sim;4
+48;Adriano Avila Barros;06/04/1965;61;Rua do Imperador, 2613;25620-000;Petrópolis;RJ;5980555244;465652167390;Emily Assuncao Avila;Januario Assis Barros;Parda;Analista de Sistemas;Solteiro(a);Sim;3
+49;Bruno Campos Dias;08/01/1976;50;Rua dos Tupinambás, 3258;30120-070;Belo Horizonte;MG;1536198648;793559210361;Camila Ferreira Campos;Jacinto Cabral Dias;Parda;Contador;União Estável;Não;0
+50;Gilberto Cabral Horta;03/06/1993;33;Rua XV de Novembro, 2113;89010-001;Blumenau;SC;3102859121;543377446218;Conceição Nogueira Cabral;Arthur Assis Horta;Parda;Fisioterapeuta;Viúvo(a);Não;0
+51;Dinorá Nascimento Girao;06/07/1992;34;Rua São Pedro, 517;63010-010;Juazeiro do Norte;CE;9171341388;603971838776;Ivonete Figueiredo Nascimento;Benicio Braga Girao;Parda;Fisioterapeuta;Casado(a);Sim;1
+52;Daniel Cabral Horta;05/03/1994;32;Av. Alfredo Nasser, 3499;72800-000;Luziânia;GO;5310318253;020183372799;Carina Cunha Cabral;Leonardo Ferreira Horta;Parda;Farmacêutico;Divorciado(a);Não;0
+53;Cordélia Bernardes Souza;04/08/1965;61;Av. São Sebastião, 1419;64204-035;Parnaíba;PI;7654985800;195193109236;Cibele Pacheco Bernardes;Felix Almeida Souza;Branca;Professor;Solteiro(a);Sim;3
+54;Ilan Lins Cordeiro;10/08/1971;55;Av. Senhor dos Passos, 2831;44002-048;Feira de Santana;BA;0880837951;036420355889;Alexia Lourenco Lins;Haroldo Pereira Cordeiro;Branca;Arquiteta;Casado(a);Não;0
+55;Eduardo Branco Ladeira;03/03/1999;27;Av. Sete de Setembro, 292;80060-000;Curitiba;PR;0851403615;916073277002;Constança Lagos Branco;Cristovao Mendes Ladeira;Preta;Advogado;União Estável;Não;0
+56;Graciela Pacheco Figueiredo;24/03/1985;41;Av. João César de Oliveira, 3019;32310-000;Contagem;MG;5979399930;758435190271;Ariane Nobrega Pacheco;Elton Cunha Figueiredo;Parda;Economista;Casado(a);Sim;3
+57;Cássia Campos Carneiro;01/12/1985;41;Av. Dr. Adhemar de Barros, 71;12245-010;São José dos Campos;SP;8184929379;627379851698;Ceres Andrade Campos;Gustavo Furquim Carneiro;Parda;Psicóloga;União Estável;Não;0
+58;Debora Belmonte Frota;09/04/1977;49;Rodovia BR-316, 889;67013-000;Ananindeua;PA;6417908127;190303819952;Irene Mello Belmonte;Dagoberto Palhares Frota;Preta;Farmacêutico;Solteiro(a);Sim;3
+59;Cacilda Barreto Mascarenhas;16/03/2007;19;Av. Bucar Neto, 1030;64800-000;Floriano;PI;6218946490;620809728203;Cícera Meireles Barreto;Breno Soares Mascarenhas;Parda;Médico Pediatra;Casado(a);Não;0
+60;Guilherme Lagos Antunes;13/09/2000;26;Av. Antônio Trajano, 3954;79601-001;Três Lagoas;MS;5351624236;332183103989;Renata Silva Lagos;Breno Girao Antunes;Branca;Auxiliar Técnico;Solteiro(a);Sim;1
+61;Cristovao Negrao Delgado;27/01/1967;59;Av. Edson da Mota Correia, 88;61600-004;Caucaia;CE;6300263163;219647815576;Maria Carrasco Negrao;Benjamin Vieira Delgado;Preta;Administrador;Casado(a);Sim;1
+62;Rodrigo Alves Godoy;04/11/1981;45;Rua Moreira César, 2685;24230-050;Niterói;RJ;2895802727;517807532094;Irene Junqueira Alves;Benjamin Inacio Godoy;Branca;Veterinário;Solteiro(a);Sim;2
+63;Amália Avila Barbosa;02/01/1989;37;Via W3 Sul, 3483;70340-000;Brasília;DF;6535420815;965430902822;Cleusa Inacio Avila;Bernard Palhares Barbosa;Parda;Professor;Solteiro(a);Sim;3
+64;Inacio Moreira Leal;17/04/1988;38;Av. Loureiro da Silva, 3120;90010-420;Porto Alegre;RS;7832615361;066009308030;Augusta Lacerda Moreira;Adilson Lucena Leal;Parda;Médico Pediatra;Viúvo(a);Sim;2
+65;Gelson Farias Coelho;04/09/2001;25;Av. Dom José, 2058;62010-290;Sobral;CE;9927701258;593414342485;Fátima Garrido Farias;Alan Nobre Coelho;Parda;Engenheiro Civil;Solteiro(a);Não;0
+66;Fabio Muricy Ladeira;27/07/1963;63;Rua dos Tupinambás, 2357;30120-070;Belo Horizonte;MG;8004530628;846370196843;Eveline Esteves Muricy;Fred Cintra Ladeira;Branca;Contador;Divorciado(a);Sim;1
+67;Ildo Moita Pamplona;11/10/1964;62;Av. Brigadeiro Everaldo Breves, 1638;59140-645;Parnamirim;RN;9975935043;739972989843;Janice Barros Moita;Anderson Fonseca Pamplona;Branca;Psicóloga;Divorciado(a);Não;0
+68;Flavio Batista Domingues;25/10/1973;53;Av. Dante Michelini, 3543;29060-235;Vitória;ES;2231768752;949641729569;Filomena Paschoal Batista;Elias Neves Domingues;Parda;Farmacêutico;Solteiro(a);Não;0
+69;Analu Fernandes Lucena;25/12/1992;34;Av. Governador Leonel Brizola, 3887;25010-001;Duque de Caxias;RJ;6191909474;413018230204;Cleonice Garrido Fernandes;Everaldo Noronha Lucena;Preta;Contador;Solteiro(a);Não;0
+70;Ingrid Casagrande Leal;15/05/1975;51;Av. Copacabana, 2042;69980-000;Cruzeiro do Sul;AC;7403893206;892125953926;Daiana Neves Casagrande;Alejandro Lago Leal;Parda;Médico Pediatra;Viúvo(a);Sim;3
+71;Brian Gimenez Passos;10/01/1991;35;Av. Ville Roy, 2076;69301-000;Boa Vista;RR;1609308623;111321055030;Eloá Gouveia Gimenez;Ivandro Andrade Passos;Parda;Biólogo;Viúvo(a);Não;0
+72;Edson Pinto Rocha;17/07/1968;58;Av. Guilherme Schell, 1951;92200-630;Canoas;RS;8227011697;418096534980;Camila Naves Pinto;Angelo Cavalcante Rocha;Branca;Fisioterapeuta;Divorciado(a);Não;0
+73;Cleusa Almeida Espinosa;11/12/1973;53;Av. Caxangá, 3640;50711-000;Recife;PE;2324940428;479688452505;Íris Malta Almeida;Elias Ortiz Espinosa;Parda;Médico Pediatra;Divorciado(a);Sim;1
+74;Candida Evangelista Holanda;18/11/1961;65;Av. Jerônimo de Albuquerque, 875;65074-199;São Luís;MA;4526162426;836017222793;Renata Mello Evangelista;Biel Marinho Holanda;Parda;Arquiteta;Solteiro(a);Não;0
+75;Helder Borges Lourenco;04/05/1966;60;Av. Ana Costa, 1518;11060-001;Santos;SP;5839017199;878412233946;Dione Lago Borges;Charles Fraga Lourenco;Preta;Contador;Solteiro(a);Sim;1
+76;Igor Luz Fernandes;20/10/2000;26;Av. IV, 512;61900-000;Maracanaú;CE;5972217691;782744655474;Mariana Gaspar Luz;Edilson Nobrega Fernandes;Parda;Arquiteta;Solteiro(a);Sim;1
+77;Cristina Carvalho Luz;18/11/1989;37;Rodovia BR-316, 3023;67013-000;Ananindeua;PA;7958039920;656352533037;Diná Pinto Carvalho;Hamilton Cordeiro Luz;Parda;Engenheiro Civil;União Estável;Não;0
+78;Analu Marcondes Vieira;21/10/1992;34;Av. Parque, 2334;69100-043;Itacoatiara;AM;2697676763;513609435591;Delia Moraes Marcondes;Elton Esteves Vieira;Branca;Administrador;Solteiro(a);Sim;4
+79;Brigite Barbosa Antunes;24/03/1968;58;Av. Senhor dos Passos, 2666;44002-048;Feira de Santana;BA;5046564208;774038855979;Dione Guerra Barbosa;Iomar Muniz Antunes;Parda;Jornalista;Divorciado(a);Não;0
+80;Afonso Frota Giacomini;25/11/1996;30;Av. Afonso Pena, 2939;79002-074;Campo Grande;MS;5943677658;984286320446;Gisela Lozano Frota;Jeremias Ferreira Giacomini;Parda;Fisioterapeuta;Viúvo(a);Sim;1
+81;Izabel Belmonte Cabral;09/07/2006;20;Av. Senhor dos Passos, 1038;44002-048;Feira de Santana;BA;4722418878;842707480351;Elba Nascimento Belmonte;Gilmar Azevedo Cabral;Preta;Advogado;Casado(a);Sim;1
+82;Aline Ribeiro Neto;15/02/1966;60;Av. Vicente Machado, 2989;84010-000;Ponta Grossa;PR;0582767041;168095333455;Érika Delgado Ribeiro;Giordano Giacomini Neto;Branca;Enfermeiro;Casado(a);Não;0
+83;Carlos Antunes Caceres;17/04/1971;55;Rua do Imperador, 410;25620-000;Petrópolis;RJ;9971735020;965856093283;Estela Pereira Antunes;Franciscano Farias Caceres;Preta;Eletricista;Divorciado(a);Sim;1
+84;Cristovao Batista Neves;26/01/1970;56;Av. Alberto Torres, 323;28040-706;Campos dos Goytacazes;RJ;4439986017;669895334490;Ivone Horta Batista;Alberto Franco Neves;Amarela;Chef de Cozinha;Divorciado(a);Não;0
+85;Elias Cavalcante Jordao;18/11/1987;39;Rua da Praia, 2513;88015-100;Florianópolis;SC;2990131869;408940421716;Aparecida Nunes Cavalcante;Derick Carvalho Jordao;Branca;Professor;Casado(a);Não;0
+86;Isabel Caldeira Firmeza;11/04/1962;64;Av. Presidente Kennedy, 2123;88101-001;São José;SC;6392745460;509513599257;Gertrudes Molina Caldeira;Inacio Passos Firmeza;Preta;Engenheiro Civil;Divorciado(a);Sim;3
+87;Clodoaldo Morais Passos;25/07/2002;24;Av. Dr. Yvens Cordeiro, 62;69375-000;Rorainópolis;RR;1491752948;358710328591;Daiane Chaves Morais;Edgar Montenegro Passos;Parda;Biólogo;Viúvo(a);Sim;1
+88;Aparicio Meneses Vieira;16/04/1969;57;Av. Amazonas, 2943;78700-050;Rondonópolis;MT;2847585264;776732801121;Angela Cintra Meneses;Felix Jesus Vieira;Parda;Contador;Viúvo(a);Não;0
+89;Mateus Martins Cavalcante;22/02/1997;29;Av. Parque, 1513;69100-043;Itacoatiara;AM;3443772997;427400214171;Dinorá Nunes Martins;Gilberto Holanda Cavalcante;Parda;Veterinário;Solteiro(a);Sim;1
+90;Carminha Bueno Almeida;02/08/1990;36;Av. Santana, 632;68925-001;Santana;AP;7784354834;416683326148;Janete Garrido Bueno;Elton Madureira Almeida;Parda;Médico Pediatra;Divorciado(a);Sim;2
+91;Fabiana Paixao Ortega;23/05/1996;30;Av. Alberto Maranhão, 359;59600-005;Mossoró;RN;5097618981;107633512883;Larissa Guerra Paixao;Claudio Baptista Ortega;Parda;Farmacêutico;Casado(a);Sim;2
+92;Aparicio Camacho Nascimento;15/02/1992;34;Av. Hermes da Fonseca, 833;59020-000;Natal;RN;4903283727;556914486397;Cícera Junqueira Camacho;Eric Passos Nascimento;Preta;Economista;União Estável;Não;0
+93;Elton Freire Mascarenhas;02/12/1967;59;Av. Paulo de Frontin, 2775;27260-120;Volta Redonda;RJ;4325168925;596393790639;Constança Assis Freire;Frederico Fonseca Mascarenhas;Parda;Eletricista;União Estável;Não;0
+94;Brigite Garrido Montenegro;28/10/1962;64;Av. Goiás, 760;75020-010;Anápolis;GO;0617817590;918104771047;Dinorá Cardoso Garrido;Federico Paschoal Montenegro;Preta;Enfermeiro;Divorciado(a);Não;0
+95;Chantal Moreira Palma;01/07/1989;37;Av. Santana, 1669;68925-001;Santana;AP;5311044852;777257216462;Cleusa Mello Moreira;Ivandro Firmeza Palma;Parda;Médico Pediatra;Casado(a);Não;0
+96;Brenda Brito Aranha;02/06/1980;46;Rua da Praia, 3057;88015-100;Florianópolis;SC;0918196294;170201580922;Arlene Cabral Brito;Demétrio Coimbra Aranha;Preta;Arquiteta;Viúvo(a);Sim;7
+97;Donizete Neto Monteiro;13/06/1994;32;Av. Teotônio Segurado, 637;77015-002;Palmas;TO;7024903313;633242323379;Aurelia Naves Neto;Adriano Girao Monteiro;Parda;Farmacêutico;União Estável;Sim;3
+98;Francine Maciel Dornelles;08/04/1994;32;Rua São Pedro, 834;63010-010;Juazeiro do Norte;CE;7343247072;458053539687;Cíntia Xavier Maciel;Guilherme Nobrega Dornelles;Branca;Enfermeiro;União Estável;Sim;1
+99;Evandro Morais Coelho;15/12/1968;58;Av. Brasil, 177;85810-001;Cascavel;PR;1605854766;064031906176;Luana Bittencourt Morais;Alexandre Paranhos Coelho;Branca;Auxiliar Técnico;União Estável;Sim;2
+100;Renata Belmonte Malta;17/03/2002;24;Av. Governador Leonel Brizola, 2014;25010-001;Duque de Caxias;RJ;6874015413;478915619807;Almerinda Gonzaga Belmonte;Federico Bittencourt Malta;Preta;Administrador;Casado(a);Sim;1
+101;Benjamin Padilha Leite;08/10/2007;19;Av. Guilherme Schell, 1378;92200-630;Canoas;RS;1869956254;902212960119;Alice Coimbra Padilha;Jefferson Freitas Leite;Parda;Professor;Solteiro(a);Sim;3
+102;Ingrid Negrao Ornellas;22/02/1985;41;Av. Hermes da Fonseca, 3094;59020-000;Natal;RN;7675805135;414836884484;Geralda Soares Negrao;Geremias Machado Ornellas;Parda;Psicóloga;Viúvo(a);Não;0
+103;Dafne Henriques Jardim;01/12/1973;53;Av. Rui Barbosa, 2226;68005-080;Santarém;PA;2212678357;555302164208;Graziela Gentil Henriques;Galdino Castro Jardim;Parda;Fisioterapeuta;União Estável;Não;0
+104;Eliezer Avila Ornellas;01/06/1980;46;Rodovia BR-316, 3194;67013-000;Ananindeua;PA;9964440359;475026651555;Astrid Lousada Avila;Cassio Oliveira Ornellas;Parda;Contador;Casado(a);Sim;2
+105;Dante Cordeiro Marques;15/05/1975;51;Av. Edson da Mota Correia, 381;61600-004;Caucaia;CE;6599632376;528806231487;Debora Ribeiro Cordeiro;Ismael Delgado Marques;Parda;Psicóloga;Divorciado(a);Não;0
+106;Juliana Gentil Vieira;15/03/1997;29;Via W3 Sul, 733;70340-000;Brasília;DF;3117781505;714306695558;Ana Filgueiras Gentil;Ildo Aranha Vieira;Parda;Engenheiro Civil;União Estável;Não;0
+107;Daniel Lucena Gama;12/09/1994;32;Av. Central, 3773;29165-000;Serra;ES;6775358428;586773602643;Dulce Coimbra Lucena;Emilio Muniz Gama;Parda;Fisioterapeuta;Casado(a);Sim;1
+108;Gilmar Jardim Moreira;13/10/1979;47;Av. Coletora A, 2483;49160-000;Nossa Senhora do Socorro;SE;4480635263;518276392312;Carla Assuncao Jardim;Dagoberto Mascarenhas Moreira;Branca;Chef de Cozinha;Divorciado(a);Não;0
+109;Djalmir Novaes Marcondes;01/01/1987;39;Rodovia BR-316, 279;67013-000;Ananindeua;PA;5764194447;842978208476;Cilene Azevedo Novaes;Cris Molina Marcondes;Preta;Designer Gráfico;Casado(a);Não;0
+110;Cassiano Souza Maciel;26/07/1962;64;Av. Loureiro da Silva, 3133;90010-420;Porto Alegre;RS;6757874583;347336973844;Fátima Lozano Souza;Amadeu Moreira Maciel;Preta;Chef de Cozinha;Divorciado(a);Não;0
+111;Jader Coelho Camacho;07/01/1995;31;Av. Constantino Nery, 2300;69050-000;Manaus;AM;6208631564;900410848732;Graciela Bello Coelho;Italo Lacerda Camacho;Amarela;Administrador;Solteiro(a);Sim;1
+112;Emanuel Pastrocinio Espinosa;28/02/1979;47;Av. Loureiro da Silva, 3607;90010-420;Porto Alegre;RS;4281970919;087141034175;Jane Brito Pastrocinio;Vitor Alves Espinosa;Preta;Médico Pediatra;Viúvo(a);Sim;1
+113;Alberto Meneses Azevedo;18/07/2001;25;Av. Fernandes Lima, 879;57050-000;Maceió;AL;6919426945;764544223680;Eleonora Chaves Meneses;Jairo Freitas Azevedo;Parda;Economista;Casado(a);Sim;1
+114;Eliseu Campos Igrejas;23/05/2000;26;Av. IV, 1020;61900-000;Maracanaú;CE;5718823472;449962996803;Aline Feitosa Campos;Fernando Passos Igrejas;Preta;Analista de Sistemas;Divorciado(a);Não;0
+115;Fabiana Palma Caldas;07/08/2006;20;Av. Cônego João Lima, 3223;77501-020;Araguaína;TO;9973223270;815116821167;Amélia Carneiro Palma;Alberto Bernardes Caldas;Parda;Auxiliar Técnico;Solteiro(a);Não;0
+116;Irene Horta Diniz;23/03/1990;36;Av. Presidente Kennedy, 1940;88101-001;São José;SC;1308314772;073837136449;Elena Muricy Horta;Hortencio Freire Diniz;Parda;Jornalista;União Estável;Sim;6
+117;Jane Coelho Palma;21/05/1977;49;Rua Setembro, 832;40060-001;Salvador;BA;2534365632;341163000645;Ariela Gama Coelho;Dario Azevedo Palma;Parda;Eletricista;Solteiro(a);Não;0
+118;Arnaldo Lacerda Meneses;09/11/1976;50;Av. Piauí, 2689;65631-190;Timon;MA;9110707842;376053057247;Eliane Cantanhede Lacerda;Giordano Nascimento Meneses;Branca;Eletricista;Viúvo(a);Não;0
+119;Artur Diniz Pastrocinio;01/07/1979;47;Av. Fernandes Lima, 1959;57050-000;Maceió;AL;6860335941;362621797306;Geovana Machado Diniz;Gisvaldo Assuncao Pastrocinio;Parda;Eletricista;Divorciado(a);Sim;2
+120;Ivandro Coelho Cardoso;13/07/1974;52;Av. Brasil, 1855;87013-000;Maringá;PR;2717236507;355301353680;Barbara Bernardes Coelho;Dario Batista Cardoso;Branca;Auxiliar Técnico;Viúvo(a);Sim;1
+121;Evandro Vieira Noval;06/11/1992;34;Av. Presidente Vargas, 1532;75901-001;Rio Verde;GO;1298340294;392260668285;Fátima Duarte Vieira;Federico Mendonca Noval;Parda;Farmacêutico;Solteiro(a);Sim;2
+122;Aparicio Jardim Feitosa;19/04/1988;38;Rua XV de Novembro, 1101;89010-001;Blumenau;SC;8774596679;695814033647;Maria Fagundes Jardim;Adriano Soares Feitosa;Branca;Economista;Solteiro(a);Sim;1
+123;Catarina Espinosa Aranha;15/07/2004;22;Av. Coronel Martiniano, 594;59300-000;Caicó;RN;0033101181;062986847743;Ione Malta Espinosa;Haroldo Medeiros Aranha;Branca;Farmacêutico;Divorciado(a);Sim;6
+124;Thiago Araujo Rodrigues;01/04/1987;39;Av. Caxangá, 779;50711-000;Recife;PE;0197926067;706193236575;Elba Pinto Araujo;Galdino Meneses Rodrigues;Parda;Arquiteta;Viúvo(a);Não;0
+125;Emerson Igrejas Franco;06/01/2002;24;Rua Marechal Deodoro, 3456;96020-000;Pelotas;RS;4422191912;368827067719;Juliana Jesus Igrejas;Benito Pastore Franco;Branca;Farmacêutico;Solteiro(a);Não;0
+126;Adilson Furquim Mendes;13/05/1990;36;Av. Paulo de Frontin, 162;27260-120;Volta Redonda;RJ;1180600728;091828071324;Cláudia Padilha Furquim;Everaldo Costa Mendes;Branca;Contador;Casado(a);Sim;1
+127;Cleide Pinto Madureira;26/10/1974;52;Av. Coletora A, 3028;49160-000;Nossa Senhora do Socorro;SE;7336540064;833462534823;Ivone Gomes Pinto;Camilo Noronha Madureira;Parda;Eletricista;União Estável;Sim;1
+128;Deise Monforte Fraga;28/06/1982;44;Av. Getúlio Vargas, 1756;64600-000;Picos;PI;8972875177;657634245044;Delia Malta Monforte;Felix Dantas Fraga;Branca;Enfermeiro;Casado(a);Não;0
+129;Denilson Dornelles Esteves;15/01/1974;52;Av. Piauí, 3210;65631-190;Timon;MA;5746816717;163086040112;Deise Teixeira Dornelles;Ilan Carneiro Esteves;Preta;Eletricista;Solteiro(a);Não;0
+130;Gisele Ortega Castello;11/12/1982;44;Av. Capitão Silvio, 2467;76873-002;Ariquemes;RO;4866406434;429693738117;Barbara Lima Ortega;Aurelio Campos Castello;Parda;Chef de Cozinha;Casado(a);Não;0
+131;Jason Borges Mello;15/10/1988;38;Av. Caxangá, 1113;50711-000;Recife;PE;4001848558;449976285471;Constança Faria Borges;Thiago Goulart Mello;Parda;Enfermeiro;Divorciado(a);Sim;1
+132;Jeane Muniz Macedo;21/10/1986;40;Av. Amazonas, 19;78700-050;Rondonópolis;MT;8782010210;188449190712;Isabel Rocha Muniz;Hortencio Passos Macedo;Parda;Auxiliar Técnico;União Estável;Sim;1
+133;Edgar Gonzaga Oliveira;01/05/1973;53;Av. Canal, 130;58400-220;Campina Grande;PB;2383785597;414908677956;Isabelle Dantas Gonzaga;Leonardo Figueiredo Oliveira;Preta;Economista;Casado(a);Sim;1
+134;Marcelo Fraga Guedes;19/08/2001;25;Av. Alfredo Nasser, 3332;72800-000;Luziânia;GO;3333472758;212377778216;Brunella Lins Fraga;Jayme Caldas Guedes;Parda;Auxiliar Técnico;Solteiro(a);Não;0
+135;Amara Cordeiro Dias;06/10/1966;60;Rua Marechal Deodoro, 1739;96020-000;Pelotas;RS;9761440442;609072597109;Araci Ortega Cordeiro;Clovis Ladeira Dias;Branca;Médico Pediatra;Solteiro(a);Não;0
+136;Ariadina Barros Nunes;24/06/2004;22;Av. Rui Barbosa, 605;68005-080;Santarém;PA;1334314370;102222189317;Vanessa Cavalcante Barros;Arthur Firmeza Nunes;Branca;Médico Pediatra;Solteiro(a);Sim;1
+137;Andrea Lopes Antunes;26/05/1962;64;Rua da Praia, 2582;88015-100;Florianópolis;SC;9655158382;877671446497;Emanuela Alves Lopes;Aurelio Machado Antunes;Branca;Veterinário;Casado(a);Sim;1
+138;David Campos Mata;25/10/1966;60;Av. Goiás, 1481;77402-010;Gurupi;TO;2149377586;294464914893;Janice Pastore Campos;Jarbas Monforte Mata;Parda;Jornalista;Divorciado(a);Não;0
+139;Fabiola Garcez Padilha;17/01/2003;23;Largo Dom Fernando Gomes, 686;57300-040;Arapiraca;AL;4869636504;232743045004;Ingrid Henriques Garcez;Adalberto Pastrocinio Padilha;Parda;Arquiteta;Viúvo(a);Não;0
+140;Leonardo Igrejas Padilha;19/01/1966;60;Av. João César de Oliveira, 2661;32310-000;Contagem;MG;3153374851;216416344838;Isadora Caldeira Igrejas;Bernard Giacomini Padilha;Branca;Analista de Sistemas;União Estável;Sim;1
+141;Jesse Dias Franco;21/01/1978;48;Av. Ana Costa, 3687;11060-001;Santos;SP;3356377344;923720108148;Alessandra Gaspar Dias;Caciano Figueira Franco;Amarela;Chef de Cozinha;União Estável;Não;0
+142;Estela Palma Luz;22/10/1987;39;Av. Brasil, 3347;85851-000;Foz do Iguaçu;PR;6227632705;162839263202;Dagmar Guedes Palma;João Casanova Luz;Branca;Auxiliar Técnico;Viúvo(a);Sim;3
+143;Fernandinho Coimbra Mangabeira;07/11/1964;62;Av. Agamenon Magalhães, 3770;55012-290;Caruaru;PE;8628368701;826988948960;Barbara Marques Coimbra;Carlos Moraes Mangabeira;Branca;Fisioterapeuta;Solteiro(a);Sim;1
+144;Elena Mendes Mata;15/10/1999;27;Av. Parque, 2635;69100-043;Itacoatiara;AM;7747083146;040896098892;Jandira Neves Mendes;Donizete Branco Mata;Parda;Farmacêutico;Viúvo(a);Sim;3
+145;Hugo Brito Laranjeira;18/02/2003;23;Rua Tancredo Neves, 3917;68920-000;Laranjal do Jari;AP;7491832063;243671360287;Izabel Pereira Brito;Alberto Camargo Laranjeira;Branca;Veterinário;Casado(a);Não;0
+146;Breno Luz Guerra;08/07/2005;21;Av. Senhor dos Passos, 1387;44002-048;Feira de Santana;BA;9172355063;516184485498;Evelyn Soares Luz;Claudio Marcondes Guerra;Parda;Eletricista;Casado(a);Sim;3
+147;Ariadina Noronha Lagos;27/03/2003;23;Av. Governador Leonel Brizola, 2188;25010-001;Duque de Caxias;RJ;6004228781;922675092772;Dalila Maciel Noronha;Frederico Dias Lagos;Preta;Engenheiro Civil;Casado(a);Não;0
+148;Edna Lacerda Pacheco;27/03/1985;41;Av. Getúlio Vargas, 1583;53030-010;Olinda;PE;5344086631;094962436598;Elisa Martins Lacerda;Isaac Moura Pacheco;Branca;Fisioterapeuta;Casado(a);Não;0
+149;Emília Branco Mendes;20/02/1982;44;Av. Loureiro da Silva, 705;90010-420;Porto Alegre;RS;5704070173;873611206534;Dafne Nobre Branco;Herculano Fontes Mendes;Branca;Eletricista;União Estável;Não;0
+150;Adalberto Brito Cabral;23/10/1995;31;Av. Piauí, 2444;65631-190;Timon;MA;8719430333;633876001048;Adriana Casanova Brito;Marcelo Godoy Cabral;Preta;Jornalista;Viúvo(a);Não;0
+151;Dóris Delgado Magalhaes;15/04/2000;26;Av. Teotônio Segurado, 676;77015-002;Palmas;TO;0868644070;455500298227;Fabiana Paes Delgado;Gledson Duarte Magalhaes;Parda;Eletricista;Viúvo(a);Sim;1
+152;Iracema Oliveira Moita;10/11/1972;54;Av. Governador Valadares, 348;32600-112;Betim;MG;2280310437;768664792490;Isabelle Cavalcante Oliveira;Apostolo Lucena Moita;Branca;Auxiliar Técnico;Casado(a);Não;0
+153;Eliana Girao Nunes;01/06/1992;34;Av. Goiás, 1795;75020-010;Anápolis;GO;1028094164;565304744035;Isabelle Pereira Girao;Felipe Mendonca Nunes;Parda;Economista;Casado(a);Sim;2
+154;Jacira Gimenez Barros;02/06/1995;31;Av. Brasil, 3404;85851-000;Foz do Iguaçu;PR;4290674401;059860149484;Dione Cunha Gimenez;Benicio Pacheco Barros;Parda;Contador;Divorciado(a);Sim;1
+155;Alana Carvalho Coimbra;12/09/1993;33;Av. Ceará, 91;69900-001;Rio Branco;AC;1604148795;343906236498;Cássia Mata Carvalho;Clovis Delgado Coimbra;Parda;Analista de Sistemas;Viúvo(a);Não;0
+156;Fabiola Almeida Horta;28/09/2003;23;Av. Alberto Maranhão, 2899;59600-005;Mossoró;RN;1236878072;407572355721;Ivone Palhares Almeida;Jayme Maciel Horta;Parda;Auxiliar Técnico;Casado(a);Não;0
+157;Djalmir Antunes Lima;16/04/1992;34;Av. Campo Grande, 1193;29146-300;Cariacica;ES;9450340928;543338984104;Adriana Freitas Antunes;Rafael Garrido Lima;Parda;Chef de Cozinha;Casado(a);Sim;1
+158;Ester Dornelles Macedo;17/02/1976;50;Av. Coletora A, 3267;49160-000;Nossa Senhora do Socorro;SE;8259266341;025747840543;Elisabete Jesus Dornelles;Jeferson Santos Macedo;Parda;Professor;Viúvo(a);Sim;1
+159;Emanuela Camacho Naves;26/07/1992;34;Av. Brasil, 1255;76900-010;Ji-Paraná;RO;3374851527;356546669547;Celina Dias Camacho;Mateus Pacheco Naves;Preta;Fisioterapeuta;União Estável;Sim;1
+160;Fernando Noval Lourenco;04/08/2002;24;Rua Tancredo Neves, 850;68920-000;Laranjal do Jari;AP;1872131695;238333153316;Sandra Lima Noval;Jandir Magalhaes Lourenco;Parda;Psicóloga;Divorciado(a);Sim;1
+161;Eliane Lima Matos;24/07/1992;34;Via W3 Sul, 485;70340-000;Brasília;DF;6989667501;554755868189;Filomena Ortiz Lima;Dante Lins Matos;Preta;Engenheiro Civil;Viúvo(a);Não;0
+162;Francine Camargo Jardim;08/04/1977;49;Av. Presidente Vargas, 1690;97015-510;Santa Maria;RS;3024254102;834058918441;Elena Campos Camargo;Ique Meireles Jardim;Preta;Médico Pediatra;União Estável;Sim;1
+163;Cristiano Silva Padilha;22/06/1974;52;Rua Moreira César, 649;24230-050;Niterói;RJ;1578685189;678116529350;Janice Santos Silva;Marcos Andrade Padilha;Preta;Farmacêutico;Viúvo(a);Sim;2
+164;Carina Henriques Brito;17/10/1962;64;Av. Dr. Yvens Cordeiro, 2269;69375-000;Rorainópolis;RR;8544042113;468590295938;Carolina Pereira Henriques;Italo Geraldo Brito;Preta;Enfermeiro;Solteiro(a);Não;0
+165;Janice Igrejas Guedes;08/03/2000;26;Rua dos Tupinambás, 2900;30120-070;Belo Horizonte;MG;4214938832;622643727266;Isaura Mascarenhas Igrejas;Ilan Moura Guedes;Parda;Fisioterapeuta;Divorciado(a);Sim;1
+166;Federico Franco Teixeira;16/09/1983;43;Rua da Praia, 1613;88015-100;Florianópolis;SC;0980716060;474751142052;Evelin Bueno Franco;Rodrigo Barros Teixeira;Preta;Veterinário;Casado(a);Sim;2
+167;Douglas Miranda Santos;21/02/1995;31;Av. Gov. José Malcher, 1165;66060-230;Belém;PA;4239219288;189938075488;Bruna Dantas Miranda;Diego Gusmao Santos;Indígena;Biólogo;Casado(a);Não;0
+168;Isadora Domingues Lago;18/04/1981;45;Av. Paulista, 597;01310-100;São Paulo;SP;3401499184;549400270920;Elisângela Filgueiras Domingues;Bruno Furquim Lago;Parda;Economista;União Estável;Sim;1
+169;Ariadina Lemos Aguiar;01/12/1977;49;Av. Dr. Adhemar de Barros, 1428;12245-010;São José dos Campos;SP;6721220773;340121986669;Anelise Mello Lemos;Angelo Fagundes Aguiar;Branca;Administrador;Solteiro(a);Sim;1
+170;Cristina Marques Guedes;13/05/2008;18;Via W3 Sul, 2065;70340-000;Brasília;DF;1443089079;730823549245;Graciela Monteiro Marques;Fabio Camargo Guedes;Parda;Engenheiro Civil;União Estável;Sim;2
+171;Jeane Lozano Gaspar;04/07/2005;21;Av. Central, 380;29165-000;Serra;ES;4595208129;932621443759;Analu Borges Lozano;Ilan Gimenez Gaspar;Branca;Eletricista;União Estável;Sim;1
+172;Rodrigo Faria Farias;26/09/1964;62;Av. Bucar Neto, 3378;64800-000;Floriano;PI;0907261516;526258947745;Isabelle Gouveia Faria;Glauco Avila Farias;Parda;Médico Pediatra;Solteiro(a);Sim;3
+173;Gaspar Branco Ortega;13/05/1966;60;Av. Dorival Cândido Luz de Oliveira, 86;94030-001;Gravataí;RS;3737952484;499500580320;Fabiana Ornellas Branco;Aldo Cardoso Ortega;Parda;Farmacêutico;Casado(a);Não;0
+174;Marcelo Ferreira Gaspar;08/05/1971;55;Av. FEB, 2805;78117-000;Várzea Grande;MT;0060886590;198505442622;Aida Casanova Ferreira;Galdino Marcondes Gaspar;Preta;Engenheiro Civil;Viúvo(a);Sim;3
+175;Biel Gusmao Ladeira;15/10/1978;48;Av. Jerônimo Gonçalves, 3403;14010-040;Ribeirão Preto;SP;0412137327;414794863401;Aparecida Maciel Gusmao;Caciano Godoy Ladeira;Branca;Professor;Divorciado(a);Não;0
+176;Erica Aguiar Firmeza;02/02/1961;65;Av. Atlântica, 3436;22021-001;Rio de Janeiro;RJ;1689921197;389167281853;Bruna Novaes Aguiar;Everaldo Pinto Firmeza;Branca;Analista de Sistemas;União Estável;Sim;2
+177;Clodoaldo Baptista Fagundes;26/03/2007;19;Av. Brigadeiro Everaldo Breves, 2498;59140-645;Parnamirim;RN;6976856336;931043421441;Ivonete Noval Baptista;Adalberto Guimaraes Fagundes;Parda;Analista de Sistemas;Solteiro(a);Não;0
+178;Arlene Camacho Andrade;06/02/1979;47;Av. Campo Grande, 2510;29146-300;Cariacica;ES;4446449340;016048732815;Dirce Coelho Camacho;Iuri Moura Andrade;Preta;Eletricista;Casado(a);Não;0
+179;Biel Machado Padilha;08/03/1986;40;Av. Ville Roy, 2528;69301-000;Boa Vista;RR;1371589434;214791966778;Sofia Costa Machado;Igor Diniz Padilha;Parda;Veterinário;Divorciado(a);Não;0
+180;Fausta Lacerda Lopes;10/08/2008;18;Av. Alberto Maranhão, 982;59600-005;Mossoró;RN;4853621409;130767027603;Doralice Gaspar Lacerda;Ilan Monteiro Lopes;Branca;Arquiteta;Divorciado(a);Não;0
+181;Eva Dantas Gomes;26/05/1971;55;Rua XV de Novembro, 2007;89010-001;Blumenau;SC;1638769265;025674395315;Dinorá Figueiredo Dantas;Hermes Caceres Gomes;Parda;Fisioterapeuta;União Estável;Sim;2
+182;Dalva Moraes Braga;17/05/1984;42;Rua Setembro, 3167;40060-001;Salvador;BA;8489755421;703163921746;Glauce Moura Moraes;Haroldo Domingues Braga;Preta;Eletricista;União Estável;Sim;5
+183;Carolina Jesus Fraga;21/12/1968;58;Av. Jorge Amado, 2140;42801-170;Camaçari;BA;7874717739;508244046918;Elza Junqueira Jesus;Gilmar Silva Fraga;Parda;Arquiteta;Viúvo(a);Não;0
+184;Dirce Avila Castro;04/04/2006;20;Av. Cônego João Lima, 2714;77501-020;Araguaína;TO;8849677771;852616261298;Diana Freitas Avila;Anselmo Meneses Castro;Preta;Analista de Sistemas;Casado(a);Não;0
+185;Fabiola Giacomini Domingues;08/10/2001;25;Av. Presidente Vargas, 322;97015-510;Santa Maria;RS;5325770925;400794404103;Filomena Brito Giacomini;Clodoaldo Costa Domingues;Parda;Psicóloga;Divorciado(a);Sim;1
+186;Evelin Geraldo Casanova;22/01/1987;39;Rua dos Tupinambás, 3740;30120-070;Belo Horizonte;MG;3523087610;899613073052;Dalila Matos Geraldo;Ilan Marinho Casanova;Parda;Eletricista;União Estável;Sim;4
+187;Érika Carvalho Castello;01/09/1986;40;Av. Dom José, 2341;62010-290;Sobral;CE;3527905961;083620696967;Irene Gimenez Carvalho;Flavio Soares Castello;Parda;Fisioterapeuta;Divorciado(a);Não;0
+188;Israel Horta Fernandes;18/02/1978;48;Av. Getúlio Vargas, 1141;64600-000;Picos;PI;8998551818;385852712699;Ingrid Casagrande Horta;Aldo Paixao Fernandes;Preta;Médico Pediatra;Casado(a);Não;0
+189;Isaias Camargo Dias;12/01/2006;20;Av. Dr. Adhemar de Barros, 357;12245-010;São José dos Campos;SP;3609889794;908652658411;Isabelle Paschoal Camargo;Helder Muricy Dias;Parda;Biólogo;União Estável;Sim;1
+190;Alan Araujo Morais;26/06/1993;33;Av. Sete de Setembro, 2105;80060-000;Curitiba;PR;7405071914;124907932777;Graciela Silva Araujo;Davi Mata Morais;Parda;Psicóloga;Solteiro(a);Não;0
+191;Dora Firmeza Machado;03/11/1998;28;Av. Guararapes, 2715;56302-000;Petrolina;PE;6512196139;348180845014;Arlene Gaspar Firmeza;Jacinto Melo Machado;Parda;Administrador;União Estável;Não;0
+192;Graça Antunes Chaves;21/07/1981;45;Av. Presidente Vargas, 3130;97015-510;Santa Maria;RS;5135164380;266856048667;Brenda Palma Antunes;Isaias Barros Chaves;Parda;Professor;Viúvo(a);Sim;6
+193;Clovis Firmeza Dantas;09/02/1973;53;Av. Jerônimo Gonçalves, 2914;14010-040;Ribeirão Preto;SP;5836073952;121461755539;Guiomar Neto Firmeza;Jairo Souza Dantas;Branca;Jornalista;Viúvo(a);Sim;2
+194;Danilo Freitas Campos;22/09/1992;34;Av. Dom José, 3242;62010-290;Sobral;CE;7234909385;862607184491;Angelina Palma Freitas;Benjamin Novaes Campos;Branca;Professor;Casado(a);Não;0
+195;Iomar Lourenco Figueiredo;12/03/1968;58;Av. Constantino Nery, 3328;69050-000;Manaus;AM;0645681183;214140350767;Amélia Maldonado Lourenco;Mateus Paranhos Figueiredo;Branca;Eletricista;Solteiro(a);Não;0
+196;Clara Moita Batista;05/03/1965;61;Av. Atlântica, 1539;22021-001;Rio de Janeiro;RJ;0766262646;348936522212;Aline Domingues Moita;Jeferson Vieira Batista;Parda;Biólogo;Solteiro(a);Não;0
+197;Everton Castello Frota;04/07/1999;27;Av. Presidente Vargas, 2746;97015-510;Santa Maria;RS;7317149993;999811418327;Conceição Vieira Castello;Francisco Faria Frota;Branca;Médico Pediatra;Casado(a);Não;0
+198;Dalmo Guerra Bello;20/01/2004;22;Av. Amazonas, 1900;69151-000;Parintins;AM;1626053647;428141930478;Damaris Meireles Guerra;Alan Ornellas Bello;Branca;Economista;Casado(a);Sim;1
+199;Geraldo Marques Chaves;22/06/2002;24;Rodovia BR-316, 663;67013-000;Ananindeua;PA;4608697686;140934523066;Bianca Moraes Marques;Aldo Caldas Chaves;Parda;Eletricista;União Estável;Não;0
+200;Galdino Branco Lins;04/04/1986;40;Av. Vicente Machado, 1501;84010-000;Ponta Grossa;PR;8908170442;973731911268;Aurelia Miranda Branco;Erasmo Duarte Lins;Parda;Eletricista;Viúvo(a);Não;0
+201;Constança Cintra Leite;06/08/1967;59;Av. Bernardo Vieira de Melo, 1001;54410-010;Jaboatão dos Guararapes;PE;7273243510;747004443469;Aida Morais Cintra;Eliseu Costa Leite;Parda;Jornalista;Casado(a);Não;0
+202;Augusto Godoy Horta;23/03/1963;63;Av. Parque, 3910;69100-043;Itacoatiara;AM;2526670539;466485838342;Barbara Marinho Godoy;Ivanilson Caldeira Horta;Preta;Administrador;Solteiro(a);Sim;1
+203;Iomar Pinto Macedo;13/11/1978;48;Largo Dom Fernando Gomes, 2580;57300-040;Arapiraca;AL;5647105460;773410258525;Irene Ladeira Pinto;Alejandro Fagundes Macedo;Branca;Economista;Solteiro(a);Não;0
+204;Edson Goulart Lopes;24/11/1987;39;Av. Copacabana, 3086;69980-000;Cruzeiro do Sul;AC;6278675137;306049286511;Gabriela Branco Goulart;Frederico Dornelles Lopes;Parda;Enfermeiro;Solteiro(a);Não;0
+205;Francisca Lourdes Camargo;23/05/2006;20;Av. Alberto Maranhão, 1222;59600-005;Mossoró;RN;2310055244;730076872607;Heloisa Garcez Lourdes;Bento Freitas Camargo;Parda;Médico Pediatra;Viúvo(a);Sim;3
+206;Danubia Feitosa Inacio;20/05/1976;50;Av. Ceará, 2894;69900-001;Rio Branco;AC;3994596105;517405255239;Alice Dias Feitosa;Donizete Henriques Inacio;Parda;Enfermeiro;Divorciado(a);Sim;1
+207;Elisângela Nobre Garcez;21/02/1974;52;Rua XV de Novembro, 2894;89010-001;Blumenau;SC;5949914867;935869494751;Ariane Carrasco Nobre;Alexandre Casanova Garcez;Branca;Biólogo;Divorciado(a);Não;0
+208;Elisa Assuncao Macedo;03/07/1990;36;Av. Alberto Torres, 942;28040-706;Campos dos Goytacazes;RJ;6965008205;971076660416;Chantal Gomes Assuncao;Emerson Duarte Macedo;Parda;Médico Pediatra;Viúvo(a);Sim;1
+209;Arlene Muniz Azevedo;05/01/1962;64;Av. Antônio Trajano, 3117;79601-001;Três Lagoas;MS;3263470776;243282154378;Eloá Gomes Muniz;Caciano Caldeira Azevedo;Parda;Chef de Cozinha;Divorciado(a);Sim;2
+210;Cleusa Assis Barreto;25/05/2006;20;Av. Antônio Trajano, 2899;79601-001;Três Lagoas;MS;2083012290;740024173972;Augusta Macedo Assis;Caio Jordao Barreto;Branca;Engenheiro Civil;Divorciado(a);Sim;3
+211;Jason Bernardes Cavalcante;28/07/1976;50;Av. Fernando Afonso Collor de Mello, 2194;57100-000;Rio Largo;AL;1424963992;376786925567;Danubia Galvao Bernardes;Caciano Molina Cavalcante;Parda;Arquiteta;Viúvo(a);Não;0
+212;Flávia Ferreira Jordao;10/05/1987;39;Av. Ana Costa, 2569;11060-001;Santos;SP;2679027066;614805927603;Patrícia Madureira Ferreira;Claudio Naves Jordao;Branca;Auxiliar Técnico;Casado(a);Não;0
+213;Derick Castello Barros;26/11/1968;58;Av. Getúlio Vargas, 1477;65900-000;Imperatriz;MA;5370078992;874051432980;Ariela Cavalcante Castello;Denilson Ornellas Barros;Preta;Professor;Divorciado(a);Não;0
+214;Alexia Mesquita Palma;24/02/1977;49;Av. Cônego João Lima, 2451;77501-020;Araguaína;TO;7916057070;004397094328;Gertrudes Furquim Mesquita;Felix Lagos Palma;Branca;Economista;União Estável;Não;0
+215;Elton Ortiz Carvalho;16/04/1994;32;Av. Historiador Rubens de Mendonça, 343;78008-000;Cuiabá;MT;9667383720;331032716359;Almerinda Moreira Ortiz;Antonio Monforte Carvalho;Parda;Auxiliar Técnico;União Estável;Sim;3
+216;Delfina Teixeira Santos;27/07/1969;57;Av. Getúlio Vargas, 2856;65900-000;Imperatriz;MA;8066866793;574033745219;Alicia Filgueiras Teixeira;Inacio Molina Santos;Preta;Fisioterapeuta;União Estável;Sim;1
+217;Damaris Paschoal Mangabeira;20/02/2004;22;Av. Epitácio Pessoa, 1787;58700-010;Patos;PB;9253471347;710359236759;Íris Giacomini Paschoal;Henrique Almeida Mangabeira;Branca;Chef de Cozinha;Solteiro(a);Não;0
+218;Eliezer Fernandes Faria;27/05/1999;27;Av. Bucar Neto, 3564;64800-000;Floriano;PI;6102118385;384305129770;Angelina Mata Fernandes;Gisvaldo Moraes Faria;Branca;Enfermeiro;Viúvo(a);Sim;2
+219;Elias Fonseca Marinho;06/07/1988;38;Rua Marechal Deodoro, 628;09710-010;São Bernardo do Campo;SP;9629965497;803677535634;Catarina Carneiro Fonseca;Gaspar Gouveia Marinho;Parda;Enfermeiro;Viúvo(a);Sim;1
+220;Edilson Domingues Meneses;14/02/1964;62;Rua Moreira César, 43;24230-050;Niterói;RJ;9042863519;810754015864;Letícia Meireles Domingues;Alberto Campos Meneses;Parda;Médico Pediatra;Divorciado(a);Não;0
+221;Almir Freitas Macedo;14/02/1985;41;Av. Brigadeiro Everaldo Breves, 3043;59140-645;Parnamirim;RN;6911299503;714224166997;Cristina Carneiro Freitas;Januario Faria Macedo;Amarela;Jornalista;Divorciado(a);Não;0
+222;Fernanda Rocha Coelho;27/06/1973;53;Av. Paulo de Frontin, 67;27260-120;Volta Redonda;RJ;9528686014;485279450030;Emily Bittencourt Rocha;Aurelio Duarte Coelho;Parda;Enfermeiro;Viúvo(a);Não;0
+223;Ceres Coimbra Araujo;26/02/1985;41;Av. Dante Michelini, 3865;29060-235;Vitória;ES;2241518926;581379025298;Dulce Coelho Coimbra;Cassiano Fagundes Araujo;Preta;Farmacêutico;Solteiro(a);Não;0
+224;Daniel Paiva Gusmao;07/08/1980;46;Av. Guilherme Schell, 2622;92200-630;Canoas;RS;6374276652;677809043526;Filomena Nascimento Paiva;Isaias Cunha Gusmao;Parda;Designer Gráfico;Divorciado(a);Sim;1
+225;Cecília Casagrande Lemos;01/08/2005;21;Av. Dorival Cândido Luz de Oliveira, 1623;94030-001;Gravataí;RS;6303178366;896220286917;Fátima Inacio Casagrande;Fernandinho Pastrocinio Lemos;Branca;Contador;Divorciado(a);Sim;3
+226;Gaston Henriques Fernandes;27/04/1965;61;Av. Ville Roy, 2580;69301-000;Boa Vista;RR;3496686959;332057841855;Heloisa Machado Henriques;Gledson Bittencourt Fernandes;Parda;Economista;Divorciado(a);Não;0
+227;Fabricio Ladeira Martins;02/12/1967;59;Av. Alberto Torres, 1568;28040-706;Campos dos Goytacazes;RJ;8051912167;903198458963;Elisabete Ortega Ladeira;David Marques Martins;Branca;Economista;Divorciado(a);Não;0
+228;Herculano Geraldo Bittencourt;06/01/1972;54;Av. Canal, 3878;58400-220;Campina Grande;PB;1652626751;539993546506;Glaucia Coimbra Geraldo;Guilherme Braga Bittencourt;Branca;Eletricista;Casado(a);Sim;1
+229;Ingrid Cardoso Pinto;27/09/1964;62;Av. Jerônimo Monteiro, 1755;29100-010;Vila Velha;ES;8731322997;358511588440;Dalila Nobrega Cardoso;Jairo Nogueira Pinto;Parda;Eletricista;Divorciado(a);Não;0
+230;Francisco Furquim Oliveira;09/03/1997;29;Av. Getúlio Vargas, 147;53030-010;Olinda;PE;6795975383;801453189952;Eveline Fontes Furquim;Gledson Nunes Oliveira;Parda;Chef de Cozinha;Divorciado(a);Não;0
+231;Carina Ortega Muricy;24/12/1973;53;Av. Amazonas, 688;78700-050;Rondonópolis;MT;8925372761;909480901292;Ariane Pastrocinio Ortega;Ildo Garcez Muricy;Branca;Farmacêutico;Viúvo(a);Não;0
+232;Francine Carneiro Jordao;24/08/2001;25;Av. Francisco Glicério, 525;13012-000;Campinas;SP;9345627899;292712171307;Inês Jardim Carneiro;Helder Almeida Jordao;Branca;Chef de Cozinha;Divorciado(a);Sim;2
+233;Damaris Cardoso Meneses;07/10/1976;50;Av. São Sebastião, 1559;64204-035;Parnaíba;PI;6890306987;271365439443;Erica Casagrande Cardoso;Cassiano Padilha Meneses;Branca;Veterinário;União Estável;Sim;3
+234;Dante Girao Camacho;07/12/1977;49;Rua XV de Novembro, 731;89010-001;Blumenau;SC;2089164494;571105741151;Inês Goulart Girao;Beto Teixeira Camacho;Preta;Jornalista;Viúvo(a);Não;0
+235;Gilson Novaes Andrade;26/03/1971;55;Av. Antônio Trajano, 2617;79601-001;Três Lagoas;MS;4896232680;090105803273;Ceres Figueiredo Novaes;Ivanilson Campos Andrade;Preta;Designer Gráfico;União Estável;Sim;1
+236;Federico Mata Frota;03/05/1989;37;Av. Bucar Neto, 3436;64800-000;Floriano;PI;0160736673;260466530420;Fernanda Rodrigues Mata;Claudio Fernandes Frota;Branca;Enfermeiro;Casado(a);Não;0
+237;Íris Filgueiras Barros;03/04/1965;61;Av. Barão do Rio Branco, 3472;36013-000;Juiz de Fora;MG;2217991527;641972254103;Eliana Noval Filgueiras;Heitor Borges Barros;Branca;Advogado;Divorciado(a);Sim;1
+238;Astrid Dornelles Marques;03/03/1969;57;Av. Nove de Julho, 2896;13208-056;Jundiaí;SP;9507762904;057799743205;Angelica Moraes Dornelles;Cristovao Bueno Marques;Preta;Jornalista;Viúvo(a);Sim;3
+239;Gilson Bernardes Matos;25/03/2000;26;Av. Getúlio Vargas, 2825;64600-000;Picos;PI;4282647428;387117153699;Ivone Pacheco Bernardes;Dagoberto Magalhaes Matos;Preta;Administrador;Casado(a);Sim;1
+240;Cristina Cabral Mendes;14/01/1962;64;Av. VP-8, 1995;68501-000;Marabá;PA;4509071484;868228235523;Agatha Feitosa Cabral;Biel Belmonte Mendes;Parda;Veterinário;Divorciado(a);Sim;1
+241;Erico Costa Monforte;12/02/1981;45;Rodovia BR-316, 802;67013-000;Ananindeua;PA;5515109527;940983386793;Cecília Assis Costa;Lucas Esteves Monforte;Parda;Administrador;Solteiro(a);Sim;1
+242;Janete Carrasco Andrade;25/11/1964;62;Av. Brasil, 1716;85810-001;Cascavel;PR;5634441104;211079986222;Graça Nobrega Carrasco;Jayme Lemos Andrade;Parda;Economista;Solteiro(a);Não;0
+243;Gisele Coimbra Araujo;26/01/2006;20;Av. Amazonas, 1195;69151-000;Parintins;AM;6493662503;897940996076;Dóris Magalhaes Coimbra;Helio Godoy Araujo;Parda;Farmacêutico;Divorciado(a);Não;0
+244;Marcos Lins Costa;06/04/1980;46;Av. Gov. José Malcher, 2285;66060-230;Belém;PA;0040850945;376561806886;Gertrudes Nascimento Lins;Jayme Meneses Costa;Preta;Engenheiro Civil;União Estável;Sim;1
+245;Claudio Paranhos Aranha;12/01/2008;18;Av. Ville Roy, 2580;69301-000;Boa Vista;RR;9798012456;031043415604;Astrid Mangabeira Paranhos;Fabiano Dornelles Aranha;Parda;Economista;Viúvo(a);Sim;1
+246;Claudio Lucena Moraes;03/01/1989;37;Av. Constantino Nery, 2468;69050-000;Manaus;AM;3868764818;700185097363;Gislaine Madureira Lucena;Thiago Neves Moraes;Preta;Enfermeiro;União Estável;Sim;1
+247;David Lagos Junqueira;14/12/1996;30;Av. Agamenon Magalhães, 504;55012-290;Caruaru;PE;7709700101;478395993841;Ana Caldeira Lagos;Clovis Malta Junqueira;Parda;Engenheiro Civil;Viúvo(a);Sim;1
+248;Cleide Firmeza Rodrigues;05/04/1992;34;Av. Senhor dos Passos, 1588;44002-048;Feira de Santana;BA;2908225919;778847711865;Brunella Esteves Firmeza;Gaspar Silva Rodrigues;Parda;Jornalista;Divorciado(a);Sim;1
+249;Angelica Filgueiras Montenegro;21/05/1961;65;Av. Amazonas, 616;69151-000;Parintins;AM;1565429857;518491594157;Sofia Giacomini Filgueiras;Eliseu Girao Montenegro;Preta;Contador;Solteiro(a);Sim;1
+250;Helena Casagrande Noval;17/08/2007;19;Av. Brasil, 1089;85851-000;Foz do Iguaçu;PR;8571589136;947793266612;Dora Mascarenhas Casagrande;Estevao Monforte Noval;Parda;Eletricista;Casado(a);Não;0
+251;Ana Madureira Azevedo;21/11/1971;55;Av. Brasil, 3504;85851-000;Foz do Iguaçu;PR;7903356443;286993801138;Cláudia Leite Madureira;Apostolo Molina Azevedo;Parda;Farmacêutico;Viúvo(a);Sim;7
+252;Chico Igrejas Melo;24/03/1999;27;Av. Canal, 3157;58400-220;Campina Grande;PB;2560593179;421495313055;Conceição Martins Igrejas;Alvaro Macedo Melo;Parda;Administrador;União Estável;Sim;3
+253;Denilson Garcez Barbosa;12/06/1988;38;Av. Dr. Adhemar de Barros, 1944;12245-010;São José dos Campos;SP;9013142448;232687444329;Conceição Maldonado Garcez;Hamilton Dias Barbosa;Parda;Fisioterapeuta;Casado(a);Sim;1
+254;Brian Ortega Ribeiro;12/06/1962;64;Av. Juracy Magalhães, 2941;45023-490;Vitória da Conquista;BA;9624776212;157337272756;Augusta Medeiros Ortega;Vitor Evangelista Ribeiro;Parda;Administrador;Divorciado(a);Sim;3
+255;Rafael Guedes Lucena;28/05/1977;49;Rua Coronel José Vicente, 1481;58800-040;Sousa;PB;6402694233;064822770480;Andrea Moreira Guedes;Edmar Nunes Lucena;Indígena;Arquiteta;Casado(a);Sim;3
+256;Isadora Fagundes Gimenez;27/03/2005;21;Av. Canal, 919;58400-220;Campina Grande;PB;8685553503;131339989830;Dagmar Nobrega Fagundes;Emanuel Godoy Gimenez;Branca;Economista;Casado(a);Não;0
+257;Alicia Farias Pastore;25/01/1979;47;Av. Alberto Torres, 1358;28040-706;Campos dos Goytacazes;RJ;5534063575;060772902901;Eliane Pereira Farias;Franciscano Pamplona Pastore;Parda;Eletricista;União Estável;Sim;1
+258;Ivete Moraes Fernandes;03/09/2006;20;Av. Frei Serafim, 684;64001-020;Teresina;PI;9544893796;685568239076;Janice Gama Moraes;André Pacheco Fernandes;Branca;Fisioterapeuta;Viúvo(a);Não;0
+259;Danilo Aguiar Guedes;12/07/1995;31;Av. Afonso Pena, 1637;38400-112;Uberlândia;MG;0198838985;283718929341;Dagmar Monteiro Aguiar;Francisco Caldas Guedes;Branca;Enfermeiro;Viúvo(a);Não;0
+260;Angelina Barreto Meneses;18/04/1965;61;Rua Moreira César, 2477;24230-050;Niterói;RJ;9715947859;403808684251;Doralice Guedes Barreto;Iuri Pamplona Meneses;Parda;Chef de Cozinha;Casado(a);Sim;1
+261;Eliezer Feitosa Gouveia;21/04/1994;32;Av. Dr. Adhemar de Barros, 1992;12245-010;São José dos Campos;SP;5699636983;504167982056;Bianca Moraes Feitosa;Bernard Carneiro Gouveia;Parda;Biólogo;Viúvo(a);Sim;2
+262;Isadora Meneses Moreira;25/10/2007;19;Av. Hermes da Fonseca, 2833;59020-000;Natal;RN;5350473395;435774574405;Cecília Machado Meneses;Cassio Farias Moreira;Branca;Fisioterapeuta;Viúvo(a);Não;0
+263;Flavio Freitas Gama;24/05/1964;62;Av. Vicente Machado, 856;84010-000;Ponta Grossa;PR;4746906680;303521891944;Cícera Guerra Freitas;Eliezer Santos Gama;Preta;Economista;Casado(a);Sim;9
+264;Agatha Melo Brito;08/09/1997;29;Av. FEB, 2508;78117-000;Várzea Grande;MT;0273741880;233500979057;Isadora Vieira Melo;Giovanni Lourdes Brito;Parda;Biólogo;Solteiro(a);Sim;2
+265;Elba Bello Guimaraes;20/07/1979;47;Av. Agamenon Magalhães, 549;55012-290;Caruaru;PE;0784438174;090598160241;Aparecida Santos Bello;Fabricio Barros Guimaraes;Preta;Médico Pediatra;Viúvo(a);Sim;3
+266;Glaucia Novaes Barreto;07/11/1984;42;Av. Teotônio Segurado, 52;77015-002;Palmas;TO;3587101451;125963672243;Inês Lacerda Novaes;Rafael Nunes Barreto;Parda;Jornalista;União Estável;Sim;2
+267;Briana Fagundes Lemos;23/12/1977;49;Av. VP-8, 400;68501-000;Marabá;PA;8256866449;710879768645;Amélia Rocha Fagundes;Demétrio Aguiar Lemos;Parda;Engenheiro Civil;Divorciado(a);Não;0
+268;João Ortega Lopes;13/09/2005;21;Av. Getúlio Vargas, 2389;64600-000;Picos;PI;3323157674;952906052021;Ivonete Monteiro Ortega;Gian Esteves Lopes;Branca;Chef de Cozinha;Viúvo(a);Não;0
+269;Ivanilson Ribeiro Mangabeira;16/12/1979;47;Rua dos Tupinambás, 3041;30120-070;Belo Horizonte;MG;8160394868;560492865949;Debora Ortiz Ribeiro;Breno Marques Mangabeira;Preta;Auxiliar Técnico;Casado(a);Sim;1
+270;Jason Naves Bueno;04/10/2007;19;Av. Paulista, 230;01310-100;São Paulo;SP;3526739095;680061540875;Graça Lopes Naves;Cristovao Melo Bueno;Preta;Advogado;Divorciado(a);Sim;3
+271;Almir Pastrocinio Camargo;24/07/1977;49;Av. Jerônimo Monteiro, 2522;29100-010;Vila Velha;ES;5073941397;556397067881;Sandra Dantas Pastrocinio;Estevao Dornelles Camargo;Parda;Médico Pediatra;União Estável;Sim;1
+272;Emanuela Teixeira Monforte;19/08/1981;45;Av. Ville Roy, 3169;69301-000;Boa Vista;RR;5497568723;726122425581;Gertrudes Antunes Teixeira;Brian Belmonte Monforte;Preta;Analista de Sistemas;Casado(a);Não;0
+273;Fabio Castello Maldonado;16/05/1989;37;Av. Paulista, 2903;01310-100;São Paulo;SP;3531223952;285318875982;Berenice Matos Castello;Franciscano Lago Maldonado;Indígena;Arquiteta;Casado(a);Não;0
+274;Ismael Jardim Ribeiro;17/02/1984;42;Av. Frei Serafim, 1639;64001-020;Teresina;PI;1798113821;774882489080;Elena Assuncao Jardim;Jasper Girao Ribeiro;Parda;Professor;Casado(a);Sim;5
+275;Glauco Figueira Lozano;03/09/1993;33;Av. Gov. José Malcher, 1934;66060-230;Belém;PA;4405778654;835518462571;Diná Cantanhede Figueira;Clovis Franco Lozano;Preta;Designer Gráfico;Solteiro(a);Não;0
+276;Janaina Esteves Paes;06/04/1975;51;Via W3 Sul, 89;70340-000;Brasília;DF;0865516743;155296565243;Berenice Barros Esteves;Helio Meireles Paes;Parda;Fisioterapeuta;Divorciado(a);Não;0
+277;Cibele Gentil Nogueira;27/04/1982;44;Av. Júlio de Castilhos, 483;95010-000;Caxias do Sul;RS;5529489196;852029257189;Almerinda Bittencourt Gentil;Jason Paixao Nogueira;Parda;Administrador;Solteiro(a);Não;0
+278;Carolina Moita Lagos;07/03/2001;25;Av. das Figueiras, 1387;78550-000;Sinop;MT;4070708025;892796445573;Carolina Muniz Moita;Gilmar Inacio Lagos;Parda;Economista;Casado(a);Sim;5
+279;Diego Muniz Miranda;18/06/1997;29;Av. Edson da Mota Correia, 838;61600-004;Caucaia;CE;7105761875;206849135237;Clarice Negrao Muniz;Arnaldo Pereira Miranda;Preta;Contador;União Estável;Não;0
+280;Aurora Cavalcante Padilha;27/09/1964;62;Av. Getúlio Vargas, 3074;65900-000;Imperatriz;MA;9134041685;378774209201;Cilene Gomes Cavalcante;Federico Mascarenhas Padilha;Parda;Engenheiro Civil;Solteiro(a);Sim;10
+281;Ariadina Pinto Chaves;11/01/1992;34;Av. Soares Lopes, 1782;45654-000;Ilhéus;BA;9197350387;392668209597;Cleide Cunha Pinto;Dagoberto Maciel Chaves;Branca;Chef de Cozinha;União Estável;Sim;2
+282;Jandira Barreto Camacho;27/06/1979;47;Av. Paulista, 1168;01310-100;São Paulo;SP;3723890215;745882898883;Constança Igrejas Barreto;Alvaro Medeiros Camacho;Parda;Psicóloga;Casado(a);Não;0
+283;Ricardo Teixeira Cardoso;05/06/1975;51;Av. Ceará, 3772;69900-001;Rio Branco;AC;8812297153;739036916020;Diná Casagrande Teixeira;Pedro Maciel Cardoso;Branca;Enfermeiro;União Estável;Não;0
+284;Francine Palhares Godoy;02/07/2008;18;Av. São Sebastião, 3682;64204-035;Parnaíba;PI;7338126564;089484246555;Brenda Campos Palhares;Hugo Malta Godoy;Branca;Engenheiro Civil;Divorciado(a);Não;0
+285;Elton Mello Pastrocinio;04/03/1973;53;Av. Agamenon Magalhães, 2854;55012-290;Caruaru;PE;3008787712;577704466439;Cora Azevedo Mello;Alan Gonzaga Pastrocinio;Branca;Engenheiro Civil;Solteiro(a);Não;0
+286;Angelica Almeida Garcez;12/01/1980;46;Av. Bernardo Vieira de Melo, 1139;54410-010;Jaboatão dos Guararapes;PE;1986230595;084889788902;Almerinda Fontes Almeida;Ives Pastore Garcez;Branca;Economista;Divorciado(a);Sim;3
+287;Gerson Faria Passos;13/08/1984;42;Av. Almirante Barroso, 1017;58013-020;João Pessoa;PB;8571370057;462963875561;Carmem Assuncao Faria;Pedro Garrido Passos;Preta;Arquiteta;União Estável;Sim;1
+288;Antonia Gimenez Cantanhede;26/12/1996;30;Rodovia BR-316, 2217;67013-000;Ananindeua;PA;1629305363;453255894679;Damaris Giacomini Gimenez;Fausto Leite Cantanhede;Preta;Analista de Sistemas;União Estável;Sim;1
+289;Thiago Xavier Naves;04/05/1972;54;Av. Paulo de Frontin, 1373;27260-120;Volta Redonda;RJ;4827512412;724942967227;Araci Dornelles Xavier;Samuel Miranda Naves;Parda;Designer Gráfico;União Estável;Não;0
+290;Dario Matos Marcondes;12/12/1964;62;Av. Central, 486;29165-000;Serra;ES;8374726455;895617498440;Evelin Palhares Matos;Edmar Fraga Marcondes;Branca;Eletricista;Casado(a);Sim;3
+291;Edmilson Palma Madureira;19/07/1986;40;Av. Izoraida Marques Peres, 306;18048-110;Sorocaba;SP;4827319503;964837117827;Íris Mello Palma;Alan Medeiros Madureira;Branca;Designer Gráfico;União Estável;Sim;1
+292;Alan Esteves Camargo;26/08/1961;65;Av. Hermes da Fonseca, 2204;59020-000;Natal;RN;9356469060;872276632661;Alicia Ladeira Esteves;Cassiano Mata Camargo;Branca;Contador;Casado(a);Sim;1
+293;Caciano Nascimento Mascarenhas;12/12/1961;65;Av. Central, 998;29165-000;Serra;ES;5210847684;802997362720;Angela Pinto Nascimento;Afonso Andrade Mascarenhas;Preta;Fisioterapeuta;Solteiro(a);Não;0
+294;Edson Matos Farias;07/10/1985;41;Av. Juracy Magalhães, 62;45023-490;Vitória da Conquista;BA;3235087477;925056351053;Bárbara Lima Matos;Gilberto Dornelles Farias;Parda;Fisioterapeuta;Divorciado(a);Não;0
+295;Apostolo Paiva Girao;14/01/1988;38;Av. Amazonas, 1887;78700-050;Rondonópolis;MT;2268248355;475277967134;Eva Delgado Paiva;Leonardo Barros Girao;Branca;Arquiteta;Divorciado(a);Sim;1
+296;Marcelo Campos Mascarenhas;09/08/1975;51;Av. Bernardo Vieira de Melo, 3174;54410-010;Jaboatão dos Guararapes;PE;0335932478;226694596086;Aida Geraldo Campos;Arthur Gouveia Mascarenhas;Parda;Arquiteta;Solteiro(a);Não;0
+297;Cris Madureira Almeida;24/06/1980;46;Av. Beira Mar, 3299;49015-000;Aracaju;SE;5648998144;601457319094;Filomena Nobre Madureira;Gilson Horta Almeida;Parda;Auxiliar Técnico;União Estável;Sim;1
+298;Glauce Giacomini Caldeira;12/04/1999;27;Av. Higienópolis, 3056;86020-080;Londrina;PR;5452161958;276462619965;Iris Molina Giacomini;Isaias Magalhaes Caldeira;Preta;Administrador;Casado(a);Não;0
+299;Elisabete Borges Camacho;17/02/1997;29;Av. Sete de Setembro, 532;80060-000;Curitiba;PR;9029787712;201909893577;Carla Domingues Borges;Domingos Melo Camacho;Parda;Auxiliar Técnico;Viúvo(a);Não;0
+300;Ester Bello Espinosa;11/12/1977;49;Av. Getúlio Vargas, 1782;53030-010;Olinda;PE;7662639988;790432986272;Camila Noronha Bello;Igor Laranjeira Espinosa;Branca;Advogado;Viúvo(a);Não;0
+301;Danilo Lourenco Bueno;05/05/2008;18;Av. Guararapes, 984;56302-000;Petrolina;PE;0655708947;710643096315;Elza Paranhos Lourenco;Eneas Moreira Bueno;Branca;Jornalista;Casado(a);Sim;6
+302;Eneas Novaes Caceres;11/01/2007;19;Av. Loureiro da Silva, 3139;90010-420;Porto Alegre;RS;5895242025;853388691532;Geovana Teixeira Novaes;Iuri Batista Caceres;Parda;Economista;Viúvo(a);Sim;1
+303;Alice Nobrega Moura;07/02/1978;48;Av. Soares Lopes, 2182;45654-000;Ilhéus;BA;3056546196;339092622633;Bianca Lourenco Nobrega;Breno Ortega Moura;Branca;Biólogo;União Estável;Não;0
+304;Alisson Montenegro Ortega;11/11/1991;35;Av. Alberto Maranhão, 2943;59600-005;Mossoró;RN;6678798688;602762083837;Anamaria Bittencourt Montenegro;Dagoberto Silva Ortega;Preta;Engenheiro Civil;União Estável;Não;0
+305;Guilhermina Jesus Neto;20/04/1966;60;Av. Fernando Afonso Collor de Mello, 1214;57100-000;Rio Largo;AL;6640122059;040913714949;Damaris Rocha Jesus;Anselmo Morais Neto;Parda;Médico Pediatra;Divorciado(a);Não;0
+306;Elaine Monteiro Ortega;12/06/2001;25;Rua Coronel José Vicente, 3471;58800-040;Sousa;PB;1156704283;546522509965;Ariadina Pamplona Monteiro;Bernardo Palma Ortega;Parda;Arquiteta;União Estável;Sim;3
+307;Damaris Moreira Garcez;22/02/1995;31;Rua Moreira César, 3964;24230-050;Niterói;RJ;3319912719;823194877351;Dirce Evangelista Moreira;Domingos Casanova Garcez;Branca;Arquiteta;União Estável;Não;0
+308;Letícia Pinto Lourdes;23/09/1972;54;Av. Getúlio Vargas, 551;53030-010;Olinda;PE;9259423431;052138490827;Cleonice Noronha Pinto;Daniel Palhares Lourdes;Preta;Médico Pediatra;Casado(a);Não;0
+309;Donizete Laranjeira Antunes;11/11/1995;31;Av. Parque, 15;69100-043;Itacoatiara;AM;8078589404;157891740315;Emanuela Farias Laranjeira;Fernandinho Cintra Antunes;Parda;Administrador;Divorciado(a);Sim;1
+310;Cíntia Paiva Lima;15/04/1997;29;Av. Guilherme Schell, 3945;92200-630;Canoas;RS;2436210469;877582295174;Brenda Molina Paiva;Dario Marcondes Lima;Preta;Analista de Sistemas;União Estável;Não;0
+311;Arthur Leal Aranha;16/12/1989;37;Av. Alfredo Nasser, 2617;72800-000;Luziânia;GO;3457059081;156266981372;Elba Faria Leal;Estevao Bueno Aranha;Parda;Chef de Cozinha;Viúvo(a);Sim;3
+312;Isabel Antunes Gimenez;02/07/1991;35;Via W3 Sul, 2967;70340-000;Brasília;DF;1069268743;808491397547;Amália Frota Antunes;Brian Carrasco Gimenez;Branca;Economista;Viúvo(a);Sim;2
+313;Herculano Guerra Cabral;02/08/1965;61;Av. Soares Lopes, 3455;45654-000;Ilhéus;BA;4972905137;285487228301;Anastacia Melo Guerra;Edmilson Batista Cabral;Branca;Administrador;Casado(a);Não;0
+314;Clodoaldo Caceres Giacomini;16/02/1994;32;Av. Goiás, 201;75020-010;Anápolis;GO;6662074707;969248398995;Conceição Fonseca Caceres;Gilson Vieira Giacomini;Branca;Psicóloga;Viúvo(a);Não;0
+315;Cibele Silva Aranha;02/01/1969;57;Av. Historiador Rubens de Mendonça, 284;78008-000;Cuiabá;MT;7074396175;674324031610;Fabiola Caceres Silva;Bernardo Assuncao Aranha;Branca;Analista de Sistemas;União Estável;Não;0
+316;Alisson Dias Mendonca;12/08/1992;34;Av. Independência, 3490;74912-420;Aparecida de Goiânia;GO;6451269669;712954456011;Beatriz Filgueiras Dias;Fabio Fontes Mendonca;Parda;Enfermeiro;Casado(a);Sim;5
+317;André Figueira Farias;26/01/1975;51;Av. Bernardo Vieira de Melo, 1943;54410-010;Jaboatão dos Guararapes;PE;0436352303;302919108153;Geovana Coimbra Figueira;Djalmir Novaes Farias;Branca;Médico Pediatra;Casado(a);Não;0
+318;Cristiano Mendes Antunes;25/10/1967;59;Av. Atlântica, 1456;22021-001;Rio de Janeiro;RJ;2489506395;764171713866;Aurora Faria Mendes;Januario Ribeiro Antunes;Branca;Fisioterapeuta;Divorciado(a);Sim;1
+319;Alisson Medeiros Pamplona;15/02/1961;65;Av. Ville Roy, 2316;69301-000;Boa Vista;RR;3266340615;015122733819;Ariela Naves Medeiros;Hamilton Almeida Pamplona;Branca;Professor;Divorciado(a);Não;0
+320;Araci Lemos Palhares;17/06/1966;60;Av. Brasil, 582;87013-000;Maringá;PR;1386637823;858211133807;Maria Barreto Lemos;Ildo Caceres Palhares;Parda;Veterinário;União Estável;Sim;6
+321;Francisco Casagrande Guimaraes;24/09/1980;46;Av. Gov. José Malcher, 1830;66060-230;Belém;PA;6049480425;264692274382;Arlene Ladeira Casagrande;Eduardo Gaspar Guimaraes;Preta;Médico Pediatra;Solteiro(a);Sim;1
+322;Jeronimo Campos Nobre;14/12/1984;42;Av. Dr. Adhemar de Barros, 2617;12245-010;São José dos Campos;SP;7878366367;073095649874;Júlia Godoy Campos;Fabricio Caldas Nobre;Parda;Psicóloga;Solteiro(a);Sim;1
+323;Jefferson Assuncao Barbosa;08/10/1991;35;Rua São Pedro, 2206;63010-010;Juazeiro do Norte;CE;4177902725;472871498245;Cacilda Jordao Assuncao;Ilan Brito Barbosa;Parda;Professor;Viúvo(a);Sim;2
+324;Gilberto Paixao Barros;27/06/2006;20;Av. Almirante Barroso, 1814;58013-020;João Pessoa;PB;8246886083;573934443085;Evelyn Costa Paixao;Elias Gentil Barros;Preta;Médico Pediatra;União Estável;Não;0
+325;Dagmar Paschoal Guerra;04/08/1967;59;Av. Afonso Pena, 3994;38400-112;Uberlândia;MG;9531285644;614077901326;Gisele Mesquita Paschoal;Ernesto Santos Guerra;Parda;Fisioterapeuta;Solteiro(a);Sim;1
+326;Cleonice Silva Gaspar;20/09/1977;49;Av. Alberto Torres, 3354;28040-706;Campos dos Goytacazes;RJ;1833786708;166345188589;Larissa Lozano Silva;Celso Oliveira Gaspar;Branca;Contador;Viúvo(a);Não;0
+327;Cesar Machado Aranha;12/05/1996;30;Av. Alberto Maranhão, 999;59600-005;Mossoró;RN;0680888713;202941521302;Juliana Cantanhede Machado;Alexandre Naves Aranha;Branca;Auxiliar Técnico;Viúvo(a);Não;0
+328;Coralina Lima Coelho;22/11/1977;49;Av. República do Líbano, 2492;74110-160;Goiânia;GO;0817315839;063087470393;Dalila Paes Lima;Baltazar Machado Coelho;Parda;Fisioterapeuta;Divorciado(a);Não;0
+329;João Fraga Santos;17/01/1984;42;Av. Júlio de Castilhos, 3858;95010-000;Caxias do Sul;RS;2862379582;640814729621;Bruna Freitas Fraga;Jamil Esteves Santos;Parda;Auxiliar Técnico;Viúvo(a);Sim;2
+330;Maria Cunha Macedo;16/01/1987;39;Av. Getúlio Vargas, 3016;64600-000;Picos;PI;7930588010;464744050843;Daiana Coimbra Cunha;Iuri Mendes Macedo;Branca;Arquiteta;Casado(a);Sim;3
+331;Alexia Magalhaes Inacio;28/06/1982;44;Av. Fab, 814;68900-073;Macapá;AP;3538920912;538834757386;Diná Paranhos Magalhaes;Ricardo Marcondes Inacio;Parda;Economista;Casado(a);Não;0
+332;Artur Alves Ferreira;18/02/2008;18;Av. Epitácio Pessoa, 3129;58700-010;Patos;PB;0362565165;575200185669;Ivete Inacio Alves;Pedro Caldeira Ferreira;Branca;Jornalista;Casado(a);Não;0
+333;Guilhermina Garrido Ladeira;05/07/1995;31;Av. Constantino Nery, 1674;69050-000;Manaus;AM;5016102960;491682119200;Dagmar Marques Garrido;Eric Bello Ladeira;Preta;Psicóloga;União Estável;Sim;3
+334;Gaspar Gama Junqueira;16/03/2000;26;Av. Constantino Nery, 1916;69050-000;Manaus;AM;7978388069;153150246356;Andrea Matos Gama;Cicero Morais Junqueira;Parda;Jornalista;Divorciado(a);Sim;3
+335;Fred Junqueira Andrade;25/09/1967;59;Av. FEB, 581;78117-000;Várzea Grande;MT;5512950081;171154190826;Inês Soares Junqueira;Cristiano Fernandes Andrade;Branca;Professor;Viúvo(a);Sim;1
+336;Camilo Coelho Giacomini;09/09/1967;59;Av. IV, 3727;61900-000;Maracanaú;CE;2196592034;721089976404;Ariadina Lacerda Coelho;Cris Brito Giacomini;Branca;Arquiteta;Viúvo(a);Sim;3
+337;Almerinda Mesquita Gouveia;13/03/1996;30;Av. Copacabana, 3261;69980-000;Cruzeiro do Sul;AC;6010921517;853697314339;Amália Evangelista Mesquita;Edvaldo Cintra Gouveia;Parda;Médico Pediatra;Casado(a);Sim;4
+338;Dario Giacomini Caldeira;05/01/1986;40;Av. FEB, 2713;78117-000;Várzea Grande;MT;1630852679;345022047529;Brenda Casagrande Giacomini;Cristiano Neto Caldeira;Preta;Jornalista;Viúvo(a);Não;0
+339;Denilson Cunha Palhares;27/01/1987;39;Av. Governador Valadares, 1145;32600-112;Betim;MG;3675065202;674673480606;Patrícia Pamplona Cunha;Eliezer Meneses Palhares;Parda;Designer Gráfico;Viúvo(a);Não;0
+340;Jesse Casagrande Nobrega;04/04/1985;41;Rua São Pedro, 3323;63010-010;Juazeiro do Norte;CE;0571211870;751536469442;Glaucia Fontes Casagrande;Cicero Pamplona Nobrega;Preta;Analista de Sistemas;União Estável;Sim;7
+341;Dóris Cantanhede Guimaraes;22/07/1971;55;Av. Barão do Rio Branco, 2512;36013-000;Juiz de Fora;MG;3118632722;230799891257;Daiana Gomes Cantanhede;Samuel Diniz Guimaraes;Preta;Enfermeiro;União Estável;Não;0
+342;Daiane Fonseca Freire;10/09/2001;25;Av. Nove de Julho, 234;13208-056;Jundiaí;SP;6775823178;000653464515;Glaucia Carneiro Fonseca;Djalma Macedo Freire;Branca;Psicóloga;Casado(a);Sim;1
+343;Jamil Garcez Andrade;19/09/1977;49;Av. Historiador Rubens de Mendonça, 1203;78008-000;Cuiabá;MT;7743444519;707785404582;Amália Lucena Garcez;Enzo Baptista Andrade;Parda;Veterinário;União Estável;Sim;3
+344;Damaris Lourdes Belmonte;08/06/1982;44;Rua Príncipe, 3995;89201-000;Joinville;SC;1366300386;865598531393;Janete Nobrega Lourdes;Ildo Borges Belmonte;Parda;Médico Pediatra;Casado(a);Não;0
+345;Adriano Ortega Neto;02/07/1974;52;Av. Goiás, 3493;75020-010;Anápolis;GO;3824924695;851874991257;Fausta Lago Ortega;Arthur Geraldo Neto;Preta;Engenheiro Civil;Casado(a);Sim;1
+346;Apostolo Bueno Avila;01/11/1976;50;Rua Moreira César, 2850;24230-050;Niterói;RJ;6762745613;830639933825;Debora Meireles Bueno;Alejandro Neto Avila;Parda;Jornalista;Divorciado(a);Sim;3
+347;Ivandro Nobrega Alves;23/08/2001;25;Av. Dante Michelini, 67;29060-235;Vitória;ES;9680338342;060435049393;Isadora Paes Nobrega;Ivan Campos Alves;Preta;Biólogo;União Estável;Não;0
+348;Edmilson Geraldo Souza;23/02/1983;43;Av. Amazonas, 1714;69151-000;Parintins;AM;0095100148;001868273862;Janaina Ornellas Geraldo;Candido Maldonado Souza;Parda;Advogado;Casado(a);Não;0
+349;Íris Camargo Morais;05/05/1962;64;Av. Epitácio Pessoa, 1130;58700-010;Patos;PB;1014998849;333727612034;Aline Molina Camargo;Hermes Firmeza Morais;Parda;Farmacêutico;União Estável;Não;0
+350;Cilene Barros Batista;28/04/2006;20;Av. Izoraida Marques Peres, 2958;18048-110;Sorocaba;SP;7960464680;896337483214;Isabel Junqueira Barros;Eric Malta Batista;Indígena;Chef de Cozinha;União Estável;Sim;1
+351;Jason Morais Melo;07/11/1969;57;Av. Frei Serafim, 2662;64001-020;Teresina;PI;9103406634;330346037031;Dafne Carvalho Morais;Chico Firmeza Melo;Branca;Arquiteta;Solteiro(a);Não;0
+352;Giordano Holanda Alves;28/12/1992;34;Av. Izoraida Marques Peres, 2253;18048-110;Sorocaba;SP;2422179439;677019270527;Celina Nogueira Holanda;Brian Pastrocinio Alves;Branca;Eletricista;União Estável;Sim;1
+353;Geraldo Muricy Gimenez;02/08/2007;19;Av. Gov. José Malcher, 2352;66060-230;Belém;PA;6387440769;379118855974;Jeane Maldonado Muricy;Cristovao Domingues Gimenez;Branca;Economista;Casado(a);Não;0
+354;Edgar Galvao Maldonado;24/09/1977;49;Av. Constantino Nery, 1850;69050-000;Manaus;AM;3440354356;145702735051;Isadora Alves Galvao;Eric Ortega Maldonado;Branca;Farmacêutico;Divorciado(a);Sim;2
+355;Cicero Evangelista Gonzaga;12/01/1984;42;Av. Santana, 2222;68925-001;Santana;AP;6716667439;054179714132;Gertrudes Feitosa Evangelista;Carlos Barbosa Gonzaga;Branca;Designer Gráfico;Viúvo(a);Não;0
+356;Euzebio Lins Negrao;05/10/1997;29;Av. Ville Roy, 3579;69301-000;Boa Vista;RR;4826631655;572009661925;Coralina Xavier Lins;Guto Machado Negrao;Branca;Advogado;Divorciado(a);Não;0
+357;Evelin Cabral Moreira;07/04/1976;50;Av. Alberto Maranhão, 176;59600-005;Mossoró;RN;9113277192;770958159084;Graça Jardim Cabral;Cesar Macedo Moreira;Branca;Arquiteta;Viúvo(a);Sim;2
+358;Hugo Miranda Melo;10/12/1968;58;Av. Fab, 1603;68900-073;Macapá;AP;5045886311;549367167451;Almerinda Mello Miranda;Edmilson Carneiro Melo;Parda;Enfermeiro;Divorciado(a);Sim;1
+359;Isabel Casanova Mascarenhas;01/01/1993;33;Av. Fernando Afonso Collor de Mello, 3711;57100-000;Rio Largo;AL;6261127241;395773456865;Aida Cunha Casanova;Jeremias Baptista Mascarenhas;Branca;Eletricista;Divorciado(a);Não;0
+360;Felícia Guimaraes Farias;18/03/1963;63;Av. Teotônio Segurado, 1678;77015-002;Palmas;TO;4596740401;522801243093;Amélia Marcondes Guimaraes;Gisvaldo Horta Farias;Parda;Designer Gráfico;Casado(a);Não;0
+361;Ivone Lourenco Pacheco;14/09/1964;62;Av. Independência, 519;74912-420;Aparecida de Goiânia;GO;7034493653;451608624390;Janice Franco Lourenco;Geraldo Delgado Pacheco;Branca;Designer Gráfico;Viúvo(a);Sim;3
+362;Irene Noronha Chaves;15/07/1987;39;Av. Teotônio Segurado, 1386;77015-002;Palmas;TO;3638179425;580764285562;Ivone Dornelles Noronha;Jesse Teixeira Chaves;Branca;Farmacêutico;Divorciado(a);Não;0
+363;Anastacia Pastrocinio Maldonado;11/06/1973;53;Av. Governador Valadares, 2333;32600-112;Betim;MG;4228051162;747832419707;Eneida Assis Pastrocinio;Jean Laranjeira Maldonado;Branca;Jornalista;União Estável;Não;0
+364;Augusta Batista Frota;24/01/1995;31;Av. Dorival Cândido Luz de Oliveira, 1983;94030-001;Gravataí;RS;7844245786;371149850007;Cilene Caldas Batista;Fred Casanova Frota;Branca;Chef de Cozinha;Solteiro(a);Sim;7
+365;Ique Pastore Garrido;14/04/1995;31;Av. Fab, 2078;68900-073;Macapá;AP;0118695323;385202046160;Geovana Filgueiras Pastore;Adilson Nascimento Garrido;Parda;Fisioterapeuta;Casado(a);Não;0
+366;Anselmo Lousada Moita;17/11/1989;37;Av. Goiás, 904;75020-010;Anápolis;GO;5370845750;294836131223;Luana Mendonca Lousada;Helio Jesus Moita;Branca;Auxiliar Técnico;Viúvo(a);Não;0
+367;Aparicio Gusmao Nobrega;28/01/1985;41;Av. Juracy Magalhães, 2905;45023-490;Vitória da Conquista;BA;0425840916;921183879731;Bruna Camargo Gusmao;Igor Leite Nobrega;Branca;Médico Pediatra;Divorciado(a);Não;0
+368;Cíntia Souza Palhares;07/02/1983;43;Av. Sete de Setembro, 2190;80060-000;Curitiba;PR;0493106008;195126848943;Cíntia Dantas Souza;Andrei Aguiar Palhares;Preta;Arquiteta;Divorciado(a);Não;0
+369;Alberto Cordeiro Girao;15/05/1987;39;Av. das Figueiras, 2095;78550-000;Sinop;MT;1028755861;314064922215;Carmem Lourenco Cordeiro;Breno Teixeira Girao;Branca;Arquiteta;Viúvo(a);Sim;6
+370;Elton Magalhaes Jordao;15/11/2007;19;Av. Parque, 3581;69100-043;Itacoatiara;AM;5834754266;891782276721;Dulce Gonzaga Magalhaes;Ernesto Andrade Jordao;Parda;Contador;Casado(a);Sim;4
+371;Gabriela Camacho Mata;16/07/1967;59;Av. Piauí, 3215;65631-190;Timon;MA;4673186653;538747448875;Dafne Chaves Camacho;Ricardo Ortega Mata;Parda;Eletricista;Viúvo(a);Sim;3
+372;Biel Ornellas Monforte;13/03/1968;58;Av. Júlio de Castilhos, 858;95010-000;Caxias do Sul;RS;5187033331;939037086090;Íris Azevedo Ornellas;Edgar Girao Monforte;Parda;Farmacêutico;União Estável;Não;0
+373;Cilene Coimbra Noval;23/06/1998;28;Av. Presidente Vargas, 1390;97015-510;Santa Maria;RS;9601070056;556172505680;Elaine Muniz Coimbra;Erico Carneiro Noval;Parda;Auxiliar Técnico;Viúvo(a);Sim;2
+374;Pedro Furquim Faria;28/05/1972;54;Av. Juracy Magalhães, 1973;45023-490;Vitória da Conquista;BA;3653106994;950490227019;Eleonora Braga Furquim;Erico Mesquita Faria;Branca;Administrador;Viúvo(a);Não;0
+375;Antonia Aranha Marcondes;23/05/1974;52;Av. Almirante Barroso, 1790;58013-020;João Pessoa;PB;3448208256;625097357684;Graciela Gimenez Aranha;Djalma Lacerda Marcondes;Branca;Professor;Casado(a);Não;0
+376;Alice Noronha Malta;11/04/1991;35;Av. Santos Dumont, 413;60150-160;Fortaleza;CE;2981627550;943314275575;Andrea Horta Noronha;Carlos Furquim Malta;Preta;Professor;Divorciado(a);Não;0
+377;Artur Paixao Paiva;10/01/1977;49;Av. Izoraida Marques Peres, 3038;18048-110;Sorocaba;SP;5309994995;638785949587;Amélia Matos Paixao;Daniel Jesus Paiva;Parda;Analista de Sistemas;Divorciado(a);Não;0
+378;Gisvaldo Fonseca Fernandes;14/04/1995;31;Av. Fab, 3140;68900-073;Macapá;AP;5633587538;230001658578;Angelica Noval Fonseca;Gabriel Cavalcante Fernandes;Branca;Farmacêutico;União Estável;Não;0
+379;Cibele Cantanhede Moreira;03/01/1994;32;Av. Alfredo Nasser, 3562;72800-000;Luziânia;GO;1421623504;865941859287;Almerinda Palhares Cantanhede;Arnaldo Evangelista Moreira;Indígena;Eletricista;Viúvo(a);Não;0
+380;Angelina Castello Bello;22/11/1971;55;Rua Príncipe, 3143;89201-000;Joinville;SC;5949563510;645164022204;Jane Machado Castello;Estevao Cunha Bello;Parda;Advogado;Solteiro(a);Sim;3
+381;Jaqueline Montenegro Nascimento;21/03/1985;41;Av. Fernando Afonso Collor de Mello, 1468;57100-000;Rio Largo;AL;1613286127;481133245337;Bianca Guimaraes Montenegro;Jairo Macedo Nascimento;Branca;Biólogo;Casado(a);Sim;3
+382;Carmem Batista Caceres;01/10/1996;30;Av. Ceará, 1141;69900-001;Rio Branco;AC;2945006423;803687404231;Érika Borges Batista;Jacinto Espinosa Caceres;Branca;Engenheiro Civil;União Estável;Sim;1
+383;Elisângela Branco Barreto;09/04/1987;39;Av. das Figueiras, 3236;78550-000;Sinop;MT;9195975415;429246156553;Analu Mesquita Branco;Clovis Lozano Barreto;Parda;Eletricista;Viúvo(a);Sim;1
+384;Gabriela Passos Montenegro;28/12/1978;48;Av. Alberto Maranhão, 1701;59600-005;Mossoró;RN;2293133998;073564747247;Dora Henriques Passos;Fausto Barreto Montenegro;Parda;Engenheiro Civil;Divorciado(a);Sim;3
+385;Elena Diniz Freitas;05/09/1980;46;Av. Cônego João Lima, 2749;77501-020;Araguaína;TO;8628465744;522096025752;Sofia Belmonte Diniz;Feliciano Faustino Freitas;Preta;Administrador;Casado(a);Não;0
+386;Ivonete Filgueiras Horta;09/07/1987;39;Av. Brigadeiro Everaldo Breves, 2517;59140-645;Parnamirim;RN;5529874239;552509584673;Felícia Martins Filgueiras;Emerson Lins Horta;Amarela;Psicóloga;Solteiro(a);Não;0
+387;Jane Monforte Henriques;11/01/2000;26;Av. Almirante Barroso, 2538;58013-020;João Pessoa;PB;2245099139;313717820913;Júlia Ornellas Monforte;Angelo Cunha Henriques;Branca;Veterinário;Solteiro(a);Sim;1
+388;Demétrio Furquim Gama;14/10/1998;28;Av. Santana, 332;68925-001;Santana;AP;1037991207;982974270571;Geralda Madureira Furquim;Iuri Horta Gama;Indígena;Contador;Divorciado(a);Sim;2
+389;Eduardo Diniz Neto;21/01/1977;49;Av. República do Líbano, 3905;74110-160;Goiânia;GO;5809136332;659350388582;Alexia Camargo Diniz;Bento Cabral Neto;Parda;Auxiliar Técnico;União Estável;Sim;2
+390;Damaris Marcondes Batista;13/10/2003;23;Av. Presidente Vargas, 343;97015-510;Santa Maria;RS;2394406280;182051702052;Fabiola Gusmao Marcondes;Gilberto Passos Batista;Parda;Biólogo;Viúvo(a);Não;0
+391;Djalma Gentil Palma;13/04/2007;19;Av. Loureiro da Silva, 1407;90010-420;Porto Alegre;RS;6018281733;772536097649;Clarice Carneiro Gentil;Felipe Geraldo Palma;Parda;Fisioterapeuta;União Estável;Não;0
+392;Ismael Paixao Cantanhede;13/01/1963;63;Av. Barão do Rio Branco, 3753;36013-000;Juiz de Fora;MG;4491579164;564584294973;Larissa Espinosa Paixao;Demétrio Horta Cantanhede;Parda;Eletricista;Viúvo(a);Sim;1
+393;Eloá Cardoso Feitosa;22/11/2002;24;Av. Amazonas, 667;78700-050;Rondonópolis;MT;9144172883;784328207288;Graciela Barreto Cardoso;Cristiano Brito Feitosa;Branca;Jornalista;Divorciado(a);Não;0
+394;Guto Moraes Fernandes;26/04/1979;47;Av. Fab, 2940;68900-073;Macapá;AP;9714189700;884355837357;Gabriela Domingues Moraes;Hamilton Moreira Fernandes;Amarela;Advogado;União Estável;Sim;1
+395;Caciano Nobre Mangabeira;28/05/1990;36;Rua do Imperador, 1671;25620-000;Petrópolis;RJ;6100020840;966428431271;Antonia Matos Nobre;Benicio Montenegro Mangabeira;Branca;Enfermeiro;União Estável;Não;0
+396;Everton Gama Nobrega;26/02/1979;47;Av. Brasil, 2797;76900-010;Ji-Paraná;RO;6720770687;412561419993;Carminha Lagos Gama;Bernardo Borges Nobrega;Branca;Jornalista;Divorciado(a);Sim;2
+397;Eliana Monteiro Baptista;03/07/1980;46;Rua Setembro, 2623;40060-001;Salvador;BA;3787303462;933301883600;Ceres Guedes Monteiro;Candido Azevedo Baptista;Branca;Economista;Divorciado(a);Não;0
+398;Cíntia Lucena Nobre;06/03/1978;48;Av. Campo Grande, 3743;29146-300;Cariacica;ES;2566921124;524919323391;Juliana Gomes Lucena;Lucas Casagrande Nobre;Branca;Médico Pediatra;Viúvo(a);Não;0
+399;Alicia Morais Baptista;02/04/2005;21;Av. Brasil, 1003;87013-000;Maringá;PR;7011548480;941015862073;Jandira Castro Morais;Ricardo Nunes Baptista;Branca;Administrador;Solteiro(a);Sim;1
+400;Baltazar Gonzaga Palma;15/07/1962;64;Av. Copacabana, 1081;69980-000;Cruzeiro do Sul;AC;4182532980;519623393694;Eveline Almeida Gonzaga;Erick Rocha Palma;Parda;Fisioterapeuta;Viúvo(a);Não;0
+401;Daniela Teixeira Mello;13/06/1982;44;Av. Getúlio Vargas, 3112;53030-010;Olinda;PE;0472701734;086163194316;Isabela Gusmao Teixeira;Helio Aranha Mello;Preta;Chef de Cozinha;Divorciado(a);Não;0
+402;Fred Costa Medeiros;28/07/1976;50;Rua Setembro, 2216;40060-001;Salvador;BA;7778040853;086512910993;Ceres Girao Costa;Brian Santos Medeiros;Parda;Veterinário;União Estável;Não;0
+403;Jesse Fagundes Nascimento;22/04/1979;47;Av. Sete de Setembro, 2477;80060-000;Curitiba;PR;4024781176;154005485831;Letícia Mello Fagundes;Chico Guimaraes Nascimento;Branca;Professor;Solteiro(a);Sim;1
+404;Jairo Lourenco Macedo;24/07/1996;30;Av. Presidente Kennedy, 317;88101-001;São José;SC;4232725797;134783572351;Arlene Assis Lourenco;Haroldo Assuncao Macedo;Parda;Analista de Sistemas;Viúvo(a);Sim;3
+405;Almerinda Casanova Teixeira;05/01/2005;21;Av. Júlio de Castilhos, 1397;95010-000;Caxias do Sul;RS;8050447834;355026113037;Ivete Borges Casanova;Franciscano Ortega Teixeira;Parda;Médico Pediatra;Viúvo(a);Sim;3
+406;Andrei Paes Pastrocinio;09/02/1997;29;Av. República do Líbano, 347;74110-160;Goiânia;GO;7387673138;189099910031;Carminha Caldas Paes;Jasper Gonzaga Pastrocinio;Parda;Administrador;União Estável;Não;0
+407;Italo Frota Bueno;09/06/1961;65;Av. Coronel Martiniano, 743;59300-000;Caicó;RN;6649977028;733281281832;Cássia Igrejas Frota;Alisson Lozano Bueno;Parda;Economista;Casado(a);Sim;10
+408;Isadora Farias Barros;11/12/1964;62;Av. Santana, 93;68925-001;Santana;AP;1794377693;423466497470;Heloísa Mesquita Farias;Cris Magalhaes Barros;Preta;Médico Pediatra;Casado(a);Não;0
+409;Cristiane Avila Jordao;24/06/1969;57;Av. Constantino Nery, 2198;69050-000;Manaus;AM;6782490904;062391766485;Coralina Carneiro Avila;Artur Girao Jordao;Preta;Jornalista;Viúvo(a);Não;0
+410;Gisvaldo Ladeira Vieira;19/10/2003;23;Av. Brasil, 1161;85851-000;Foz do Iguaçu;PR;2553216011;568124325001;Andrea Alves Ladeira;Breno Magalhaes Vieira;Preta;Auxiliar Técnico;Casado(a);Não;0
+411;Fabiola Assuncao Lozano;22/10/1975;51;Av. República do Líbano, 500;74110-160;Goiânia;GO;7556432993;556998153282;Elisa Miranda Assuncao;Aparicio Nunes Lozano;Parda;Fisioterapeuta;Solteiro(a);Sim;1
+412;Cristina Moraes Coimbra;22/01/1980;46;Av. República do Líbano, 832;74110-160;Goiânia;GO;0230077412;038060454924;Heloísa Nobre Moraes;Erasmo Guerra Coimbra;Branca;Analista de Sistemas;Viúvo(a);Sim;1
+413;Eliane Cardoso Branco;05/06/1998;28;Av. Agamenon Magalhães, 2726;55012-290;Caruaru;PE;6453067991;883750815944;Daniele Muricy Cardoso;Lucas Morais Branco;Branca;Veterinário;Divorciado(a);Sim;7
+414;Bernadete Martins Lourenco;23/02/1991;35;Av. Soares Lopes, 1830;45654-000;Ilhéus;BA;6881033208;784648185354;Gisele Muricy Martins;Danilo Barreto Lourenco;Parda;Jornalista;Solteiro(a);Não;0
+415;Flávia Fonseca Cintra;21/04/2007;19;Av. Juracy Magalhães, 3251;45023-490;Vitória da Conquista;BA;8336971243;382578310136;Izabel Melo Fonseca;Caio Jardim Cintra;Branca;Jornalista;União Estável;Não;0
+416;Jane Cardoso Mello;06/07/1995;31;Av. Jerônimo Monteiro, 68;29100-010;Vila Velha;ES;1829909678;899962251958;Andrea Monforte Cardoso;Candido Lopes Mello;Parda;Auxiliar Técnico;União Estável;Não;0
+417;Conceição Ribeiro Campos;06/04/2006;20;Av. Copacabana, 2422;69980-000;Cruzeiro do Sul;AC;4680493488;461685397641;Sofia Soares Ribeiro;Caio Batista Campos;Parda;Economista;União Estável;Não;0
+418;Aurelia Giacomini Ribeiro;05/12/1974;52;Av. Santana, 947;68925-001;Santana;AP;9928795783;960763328171;Isadora Nobrega Giacomini;Denis Medeiros Ribeiro;Branca;Chef de Cozinha;Viúvo(a);Sim;1
+419;Edmar Gomes Fraga;16/02/1981;45;Av. Alberto Torres, 2888;28040-706;Campos dos Goytacazes;RJ;2471345780;847071097513;Glória Firmeza Gomes;Arnaldo Passos Fraga;Branca;Arquiteta;Divorciado(a);Não;0
+420;Patrícia Padilha Figueira;04/05/1985;41;Av. Bernardo Vieira de Melo, 1927;54410-010;Jaboatão dos Guararapes;PE;0200667121;790320604122;Anamaria Rocha Padilha;Dario Carneiro Figueira;Parda;Psicóloga;Divorciado(a);Não;0
+421;Edilson Delgado Paixao;11/11/1968;58;Av. Júlio de Castilhos, 403;95010-000;Caxias do Sul;RS;8489194305;083360236636;Cleide Coimbra Delgado;Brian Godoy Paixao;Parda;Advogado;Viúvo(a);Não;0
+422;Jaqueline Branco Firmeza;06/04/1994;32;Av. Brigadeiro Everaldo Breves, 3785;59140-645;Parnamirim;RN;9031191443;504458734822;Cordélia Mello Branco;Beto Coimbra Firmeza;Parda;Designer Gráfico;Divorciado(a);Sim;1
+423;Delia Meneses Moraes;17/12/2008;18;Av. Getúlio Vargas, 3046;64600-000;Picos;PI;2251010402;073815546486;Aida Branco Meneses;Clodoaldo Gouveia Moraes;Parda;Veterinário;Solteiro(a);Sim;1
+424;Antonio Passos Pacheco;06/12/1989;37;Av. Alberto Maranhão, 709;59600-005;Mossoró;RN;6137931290;884489400108;Isabel Galvao Passos;Benicio Camacho Pacheco;Amarela;Biólogo;União Estável;Não;0
+425;Alencar Vieira Miranda;23/01/1973;53;Av. Rui Barbosa, 832;68005-080;Santarém;PA;4393386257;071120696968;Guilhermina Muniz Vieira;Helio Gentil Miranda;Parda;Farmacêutico;Casado(a);Não;0
+426;Jacinto Gama Pastore;12/04/1990;36;Rua do Imperador, 1174;25620-000;Petrópolis;RJ;6962074839;427836521838;Deise Matos Gama;Isaac Santos Pastore;Parda;Arquiteta;Casado(a);Sim;1
+427;Anamaria Fernandes Paiva;10/11/1983;43;Av. Alberto Maranhão, 44;59600-005;Mossoró;RN;1414093433;718614698869;Barbara Andrade Fernandes;Alejandro Xavier Paiva;Parda;Psicóloga;Solteiro(a);Não;0
+428;Brigite Cunha Filgueiras;12/06/2003;23;Av. Fernando Afonso Collor de Mello, 1781;57100-000;Rio Largo;AL;6574953580;158766492538;Edna Camargo Cunha;Jefferson Cabral Filgueiras;Parda;Chef de Cozinha;Viúvo(a);Não;0
+429;Italo Caldas Lagos;28/03/1964;62;Av. Presidente Vargas, 3539;75901-001;Rio Verde;GO;5902810041;655760427794;Brigite Gomes Caldas;Marcelo Henriques Lagos;Parda;Farmacêutico;União Estável;Não;0
+430;Carina Braga Neves;20/03/2007;19;Av. Afonso Pena, 2943;38400-112;Uberlândia;MG;6800182392;193697397764;Graciela Henriques Braga;Gilson Lourenco Neves;Preta;Economista;Solteiro(a);Sim;15
+431;Camila Noval Paranhos;16/01/1977;49;Av. Higienópolis, 1107;86020-080;Londrina;PR;5112884417;852673284006;Debora Pamplona Noval;Djalmir Marcondes Paranhos;Branca;Contador;Casado(a);Não;0
+432;Constança Junqueira Gentil;11/04/1964;62;Av. Getúlio Vargas, 1251;53030-010;Olinda;PE;4330165147;073954484859;Arlene Coelho Junqueira;Alberto Ferreira Gentil;Branca;Biólogo;Viúvo(a);Sim;3
+433;Gabriel Meneses Molina;01/03/1998;28;Rua dos Tupinambás, 729;30120-070;Belo Horizonte;MG;1884386705;640936612134;Fausta Inacio Meneses;Erasmo Aranha Molina;Parda;Engenheiro Civil;Casado(a);Não;0
+434;Frederico Souza Geraldo;24/11/1983;43;Av. Bernardo Vieira de Melo, 336;54410-010;Jaboatão dos Guararapes;PE;8060542880;415137453425;Frederica Cintra Souza;Fernandinho Passos Geraldo;Preta;Veterinário;Casado(a);Sim;3
+435;Gilberto Macedo Noronha;13/07/1980;46;Av. Capitão Silvio, 2799;76873-002;Ariquemes;RO;9270280792;706793058550;Cilene Nunes Macedo;Gilmar Paiva Noronha;Parda;Jornalista;União Estável;Sim;5
+436;Débora Jordao Assuncao;22/11/1974;52;Rua do Imperador, 2159;25620-000;Petrópolis;RJ;4087097451;111470598409;Eulália Giacomini Jordao;Gustavo Nobre Assuncao;Parda;Fisioterapeuta;Casado(a);Sim;3
+437;Alisson Casanova Barreto;08/03/1994;32;Av. Alberto Torres, 1772;28040-706;Campos dos Goytacazes;RJ;4991792341;728517663390;Aura Morais Casanova;Caciano Fagundes Barreto;Parda;Enfermeiro;Viúvo(a);Sim;1
+438;Danilo Giacomini Macedo;28/05/1970;56;Av. Brasil, 1208;85810-001;Cascavel;PR;0284177251;709753088802;Damaris Machado Giacomini;Gilmar Casagrande Macedo;Parda;Engenheiro Civil;Divorciado(a);Sim;1
+439;Eduardo Lourenco Noronha;24/03/1980;46;Av. João César de Oliveira, 2083;32310-000;Contagem;MG;7448931326;069757915813;Isabela Aguiar Lourenco;Jefferson Palhares Noronha;Parda;Farmacêutico;Divorciado(a);Não;0
+440;Gertrudes Ribeiro Pastore;11/07/1981;45;Av. Parque, 3310;69100-043;Itacoatiara;AM;3530384252;837584527628;Alexia Lousada Ribeiro;Cris Horta Pastore;Preta;Jornalista;Casado(a);Sim;3
+441;Cleusa Garcez Malta;26/05/2005;21;Av. Presidente Vargas, 3527;75901-001;Rio Verde;GO;5292555948;062540030184;Constança Lins Garcez;Jandir Montenegro Malta;Parda;Médico Pediatra;Casado(a);Sim;1
+442;Geremias Neves Avila;23/05/1976;50;Av. Copacabana, 1791;69980-000;Cruzeiro do Sul;AC;4752440096;349493457155;Guiomar Assis Neves;Clovis Azevedo Avila;Branca;Designer Gráfico;Solteiro(a);Sim;4
+443;Ariela Andrade Guimaraes;10/12/1984;42;Av. Governador Valadares, 1793;32600-112;Betim;MG;9124275891;623825529225;Jane Esteves Andrade;Ernesto Guedes Guimaraes;Preta;Advogado;Divorciado(a);Não;0
+444;Celso Nogueira Caldas;05/04/1967;59;Av. Jerônimo de Albuquerque, 3064;65074-199;São Luís;MA;8113876077;346210421463;Cássia Braga Nogueira;Amauri Machado Caldas;Parda;Advogado;Casado(a);Sim;6
+445;Eric Pacheco Assis;26/05/1963;63;Av. Independência, 108;74912-420;Aparecida de Goiânia;GO;6390812341;270337564177;Elisa Dias Pacheco;Iomar Franco Assis;Branca;Advogado;União Estável;Sim;6
+446;Ineu Ladeira Pastrocinio;02/01/1968;58;Av. Amazonas, 2985;78700-050;Rondonópolis;MT;5397693249;368658070090;Danubia Pinto Ladeira;Jesse Bueno Pastrocinio;Parda;Administrador;Viúvo(a);Não;0
+447;Catarina Assuncao Jordao;24/04/2004;22;Av. Brasil, 2315;87013-000;Maringá;PR;8051598330;814631303018;Ceres Meireles Assuncao;Gledson Barbosa Jordao;Amarela;Farmacêutico;Casado(a);Sim;2
+448;Cesar Magalhaes Pinto;10/10/1963;63;Av. Fab, 3834;68900-073;Macapá;AP;4588320313;734986457269;Cleonice Ribeiro Magalhaes;João Camacho Pinto;Preta;Jornalista;Casado(a);Não;0
+449;Aparicio Miranda Costa;14/03/1991;35;Av. Brasil, 982;87013-000;Maringá;PR;1225152632;343340711858;Sofia Oliveira Miranda;Adilson Muricy Costa;Amarela;Engenheiro Civil;Casado(a);Sim;3
+450;Constança Borges Baptista;05/07/1974;52;Av. Paulista, 1019;01310-100;São Paulo;SP;7116015377;975588545694;Janaina Maldonado Borges;Heitor Muricy Baptista;Branca;Chef de Cozinha;Divorciado(a);Não;0
+451;Denise Garrido Negrao;15/01/1976;50;Rua da Praia, 2547;88015-100;Florianópolis;SC;0762451189;067400500020;Heloísa Ferreira Garrido;Ives Lagos Negrao;Branca;Advogado;Viúvo(a);Não;0
+452;Júlia Paiva Castello;19/07/1966;60;Av. Dr. Adhemar de Barros, 101;12245-010;São José dos Campos;SP;1021966648;190279765896;Cacilda Pereira Paiva;Helder Mata Castello;Branca;Arquiteta;Viúvo(a);Sim;7
+453;Dalila Nobrega Muricy;18/01/1973;53;Av. Barão do Rio Branco, 3967;36013-000;Juiz de Fora;MG;6043618332;907473296044;Maria Marinho Nobrega;Igor Pastore Muricy;Parda;Contador;Divorciado(a);Sim;1
+454;Júlia Campos Batista;23/12/1986;40;Av. Presidente Kennedy, 118;88101-001;São José;SC;6415131201;252612606752;Eloá Pinto Campos;Emanuel Assuncao Batista;Branca;Administrador;Divorciado(a);Não;0
+455;Constança Mendes Bueno;22/08/2007;19;Av. Gov. José Malcher, 2406;66060-230;Belém;PA;2031687120;815267665810;Cleide Barros Mendes;Eduardo Baptista Bueno;Parda;Biólogo;Viúvo(a);Sim;3
+456;Heitor Santos Nogueira;18/06/1993;33;Av. Brasil, 1657;76900-010;Ji-Paraná;RO;5568935263;565181473510;Izabel Lourenco Santos;Camilo Chaves Nogueira;Branca;Médico Pediatra;Divorciado(a);Não;0
+457;Carina Jardim Pastore;14/04/1978;48;Via W3 Sul, 2347;70340-000;Brasília;DF;6006435582;362311630428;Isabel Nobrega Jardim;Caio Lopes Pastore;Preta;Eletricista;União Estável;Sim;1
+458;Estela Cabral Castello;21/12/2000;26;Av. Soares Lopes, 364;45654-000;Ilhéus;BA;1462307969;039119320274;Daiana Casanova Cabral;Edvaldo Medeiros Castello;Branca;Farmacêutico;Viúvo(a);Não;0
+459;Camila Casanova Henriques;16/09/1977;49;Av. República do Líbano, 2740;74110-160;Goiânia;GO;3828333833;908224670648;Gertrudes Lima Casanova;Anselmo Domingues Henriques;Parda;Auxiliar Técnico;Solteiro(a);Sim;1
+460;Donizete Mendonca Junqueira;11/10/1976;50;Av. Dr. Yvens Cordeiro, 1641;69375-000;Rorainópolis;RR;1821994937;656280350894;Jane Cavalcante Mendonca;Gelson Molina Junqueira;Parda;Médico Pediatra;Viúvo(a);Sim;1
+461;Andrei Neto Montenegro;20/09/1973;53;Av. Piauí, 2675;65631-190;Timon;MA;9270265676;532032012574;Alicia Lucena Neto;Fabiano Baptista Montenegro;Parda;Enfermeiro;União Estável;Não;0
+462;Gelson Maciel Paschoal;01/05/1981;45;Av. Independência, 2136;74912-420;Aparecida de Goiânia;GO;5675763828;443595195715;Denise Caldeira Maciel;Biel Paixao Paschoal;Parda;Farmacêutico;Divorciado(a);Sim;15
+463;Irene Girao Jardim;03/11/1987;39;Av. Soares Lopes, 1506;45654-000;Ilhéus;BA;6940142586;843897567481;Juliana Machado Girao;Jean Naves Jardim;Branca;Fisioterapeuta;Casado(a);Sim;1
+464;Giordano Aguiar Machado;17/10/1989;37;Rua do Imperador, 377;25620-000;Petrópolis;RJ;0498276051;511358785288;Cibele Bueno Aguiar;Adilson Fraga Machado;Preta;Economista;Divorciado(a);Não;0
+465;Alice Ribeiro Figueira;21/01/2000;26;Av. Governador Leonel Brizola, 472;25010-001;Duque de Caxias;RJ;5444664205;433900555700;Angelina Araujo Ribeiro;Chico Macedo Figueira;Parda;Analista de Sistemas;Viúvo(a);Sim;3
+466;Geraldo Braga Cabral;24/09/1961;65;Av. Piauí, 815;65631-190;Timon;MA;6470196046;895167383942;Amélia Nogueira Braga;Israel Nascimento Cabral;Amarela;Arquiteta;Viúvo(a);Não;0
+467;Gertrudes Assuncao Freire;02/02/2005;21;Av. Dom José, 1100;62010-290;Sobral;CE;2823064306;824587619480;Agatha Belmonte Assuncao;Edvaldo Barreto Freire;Preta;Enfermeiro;Solteiro(a);Sim;1
+468;Iuri Xavier Girao;16/02/1986;40;Av. Nereu Ramos, 3732;65606-010;Caxias;MA;0717723319;132210516914;Alessandra Mendes Xavier;Cassio Marinho Girao;Parda;Veterinário;Casado(a);Sim;11
+469;Estevao Bueno Delgado;18/02/1970;56;Via W3 Sul, 2368;70340-000;Brasília;DF;6003634576;723704730908;Jane Paixao Bueno;Dagoberto Branco Delgado;Parda;Advogado;Divorciado(a);Não;0
+470;Jamil Silva Caceres;19/03/1976;50;Av. Paulo de Frontin, 994;27260-120;Volta Redonda;RJ;7657105609;618677644331;Angelica Inacio Silva;Gilberto Jardim Caceres;Branca;Analista de Sistemas;Solteiro(a);Sim;1
+471;Érika Macedo Almeida;24/07/1965;61;Av. Rui Barbosa, 1614;68005-080;Santarém;PA;5343350113;593402626305;Angelina Coelho Macedo;Gian Carvalho Almeida;Branca;Jornalista;Solteiro(a);Sim;1
+472;Jeane Muricy Matos;16/06/1964;62;Av. Caxangá, 2417;50711-000;Recife;PE;6609908474;038563211222;Angelica Neto Muricy;Erico Caldas Matos;Preta;Analista de Sistemas;União Estável;Sim;2
+473;David Cavalcante Lozano;11/07/2001;25;Av. Presidente Kennedy, 1636;88101-001;São José;SC;5544347683;312879257398;Heloísa Palhares Cavalcante;Euzebio Filgueiras Lozano;Parda;Fisioterapeuta;Viúvo(a);Não;0
+474;Almerinda Franco Avila;24/09/1997;29;Av. Governador Valadares, 377;32600-112;Betim;MG;3218789694;246475168895;Ivonete Caldeira Franco;Casemiro Cantanhede Avila;Preta;Advogado;Viúvo(a);Não;0
+475;Samuel Borges Passos;01/09/1967;59;Av. Higienópolis, 1525;86020-080;Londrina;PR;7432644234;672807583910;Ester Monforte Borges;Ildo Marcondes Passos;Preta;Analista de Sistemas;Divorciado(a);Não;0
+476;Elisabete Melo Almeida;07/11/1987;39;Av. Jorge Teixeira, 3802;76804-015;Porto Velho;RO;4564761133;989744458101;Helena Lousada Melo;Hermes Lourdes Almeida;Branca;Contador;Divorciado(a);Sim;2
+477;Ilan Rodrigues Martins;22/04/1991;35;Av. Presidente Kennedy, 219;88101-001;São José;SC;0143195007;042440737364;Alana Pamplona Rodrigues;Erasmo Mesquita Martins;Parda;Auxiliar Técnico;Viúvo(a);Não;0
+478;Apostolo Moraes Leite;01/06/1983;43;Av. Independência, 414;74912-420;Aparecida de Goiânia;GO;8563209415;292676159815;Amanda Borges Moraes;Djalmir Rocha Leite;Branca;Designer Gráfico;Divorciado(a);Sim;7
+479;Douglas Lagos Moura;27/02/2003;23;Av. Brasil, 643;85851-000;Foz do Iguaçu;PR;0274484221;890190291023;Beatriz Campos Lagos;Franciscano Nobrega Moura;Branca;Professor;Viúvo(a);Não;0
+480;Giovanni Dantas Domingues;15/05/1999;27;Av. Guilherme Schell, 1849;92200-630;Canoas;RS;3086728693;158053431142;Fabiana Faustino Dantas;Dante Maldonado Domingues;Preta;Farmacêutico;União Estável;Sim;6
+481;Enzo Filgueiras Goulart;12/04/1981;45;Av. Governador Leonel Brizola, 3578;25010-001;Duque de Caxias;RJ;2292751700;152585896033;Elena Dias Filgueiras;Henrique Cabral Goulart;Parda;Eletricista;Viúvo(a);Sim;5
+482;Carla Gentil Jordao;07/02/1976;50;Av. Canal, 1530;58400-220;Campina Grande;PB;2950109743;896246187035;Gisela Molina Gentil;Helder Carrasco Jordao;Parda;Eletricista;União Estável;Sim;1
+483;Amaro Lago Pastore;07/11/2000;26;Av. Getúlio Vargas, 335;65900-000;Imperatriz;MA;8165900148;701151045343;Carmem Brito Lago;Camilo Figueiredo Pastore;Branca;Analista de Sistemas;Casado(a);Sim;1
+484;Fabio Marques Lozano;08/06/2007;19;Av. Alberto Torres, 1494;28040-706;Campos dos Goytacazes;RJ;4335954665;127466124706;Anastacia Garcez Marques;Djalma Lima Lozano;Parda;Designer Gráfico;Divorciado(a);Não;0
+485;Angelo Leite Marques;14/03/1994;32;Av. Santana, 862;68925-001;Santana;AP;2745931941;581020694478;Evelin Ferreira Leite;Ildo Braga Marques;Branca;Designer Gráfico;União Estável;Sim;1
+486;Igor Casanova Malta;22/05/1974;52;Av. Atlântica, 3758;22021-001;Rio de Janeiro;RJ;3098299330;460210587814;Alana Mesquita Casanova;Aparicio Bittencourt Malta;Parda;Analista de Sistemas;Casado(a);Sim;1
+487;Jane Lins Lima;05/02/1972;54;Av. Edson da Mota Correia, 2732;61600-004;Caucaia;CE;1680718357;581494557518;Estela Lourenco Lins;Aurelio Assuncao Lima;Preta;Médico Pediatra;União Estável;Não;0
+488;Sofia Rodrigues Castro;19/02/1978;48;Rua Príncipe, 2165;89201-000;Joinville;SC;4784857525;280988520143;Aura Feitosa Rodrigues;Benjamin Esteves Castro;Branca;Economista;Solteiro(a);Não;0
+489;Sofia Padilha Faria;25/01/1996;30;Av. Piauí, 3014;65631-190;Timon;MA;1151211825;054190390793;Dalila Mangabeira Padilha;Flavio Melo Faria;Branca;Eletricista;União Estável;Sim;1
+490;Ricardo Lopes Antunes;09/08/1971;55;Rua São Pedro, 2170;63010-010;Juazeiro do Norte;CE;4711925498;084645186614;Elisabete Alves Lopes;Ferdinando Pacheco Antunes;Preta;Administrador;Viúvo(a);Sim;1
+491;Edna Mesquita Nogueira;14/02/1996;30;Av. Francisco Glicério, 311;13012-000;Campinas;SP;8795683519;416039386417;Juliana Negrao Mesquita;Denilson Andrade Nogueira;Branca;Jornalista;Solteiro(a);Não;0
+492;Jeremias Diniz Araujo;01/04/1972;54;Av. Barão do Rio Branco, 2607;36013-000;Juiz de Fora;MG;2402986167;378763760162;Astrid Cavalcante Diniz;Adalberto Muniz Araujo;Parda;Contador;Casado(a);Não;0
+493;Adriano Faria Pereira;02/06/2002;24;Av. Goiás, 1273;75020-010;Anápolis;GO;1499188670;608790975742;Amanda Moraes Faria;Iuri Pamplona Pereira;Parda;Economista;Solteiro(a);Não;0
+494;Helena Lousada Ferreira;20/02/1979;47;Av. São Sebastião, 2045;64204-035;Parnaíba;PI;0536999532;995415826989;Júlia Macedo Lousada;Erico Pamplona Ferreira;Parda;Veterinário;Viúvo(a);Sim;1
+495;Bernardo Bittencourt Freitas;13/08/2003;23;Av. Fab, 752;68900-073;Macapá;AP;3513951042;156730559062;Janaina Maciel Bittencourt;Aldo Geraldo Freitas;Parda;Chef de Cozinha;Solteiro(a);Não;0
+496;Hermes Franco Diniz;15/05/1994;32;Rua São Pedro, 3084;63010-010;Juazeiro do Norte;CE;7332983136;576632032662;Clarice Ortega Franco;Cicero Noval Diniz;Parda;Advogado;Casado(a);Não;0
+497;Ariadina Furquim Araujo;12/02/1993;33;Via W3 Sul, 470;70340-000;Brasília;DF;4453632807;423242822947;Dafne Castro Furquim;Caio Moura Araujo;Branca;Advogado;Casado(a);Não;0
+498;Ana Alves Molina;02/01/1979;47;Av. Jorge Amado, 993;42801-170;Camaçari;BA;2356318772;731498975722;Vanessa Montenegro Alves;Fabio Henriques Molina;Branca;Engenheiro Civil;Viúvo(a);Sim;1
+499;Beatriz Moraes Frota;20/03/1997;29;Av. Afonso Pena, 82;79002-074;Campo Grande;MS;7137997305;857656865417;Eva Laranjeira Moraes;Emilio Palma Frota;Parda;Economista;Casado(a);Não;0
+500;Amália Novaes Melo;11/04/1965;61;Av. Copacabana, 38;69980-000;Cruzeiro do Sul;AC;4720704805;908209577724;Ceres Igrejas Novaes;Cesar Souza Melo;Parda;Auxiliar Técnico;Solteiro(a);Sim;4
+501;Fabricio Lago Gama;27/04/2002;24;Av. Epitácio Pessoa, 1816;58700-010;Patos;PB;4492569843;592653444038;Beatriz Mello Lago;Casemiro Barros Gama;Parda;Biólogo;União Estável;Sim;1
+502;Cássia Ferreira Alves;13/02/2008;18;Av. Parque, 1745;69100-043;Itacoatiara;AM;9925693236;405747238355;Renata Filgueiras Ferreira;Igor Andrade Alves;Parda;Eletricista;Viúvo(a);Sim;1
+503;Edilson Soares Mesquita;26/06/1996;30;Av. Barão do Rio Branco, 3348;36013-000;Juiz de Fora;MG;0521782003;989816316449;Almerinda Leal Soares;Jacinto Neto Mesquita;Branca;Advogado;União Estável;Sim;3
+504;Ivandro Casagrande Paiva;25/05/1995;31;Av. Dorival Cândido Luz de Oliveira, 3101;94030-001;Gravataí;RS;9821836587;110979683853;Ana Giacomini Casagrande;Jacinto Freitas Paiva;Preta;Psicóloga;Divorciado(a);Sim;1
+505;Elton Castro Rocha;25/07/1984;42;Av. Dr. Yvens Cordeiro, 3637;69375-000;Rorainópolis;RR;3646957775;048056580516;Cristina Campos Castro;Alfredo Domingues Rocha;Branca;Contador;Viúvo(a);Sim;1
+506;Jeane Miranda Montenegro;20/08/1973;53;Av. Marcelino Pires, 1821;79800-001;Dourados;MS;4471220588;263377327196;Briana Gusmao Miranda;Jayme Muniz Montenegro;Parda;Médico Pediatra;Casado(a);Não;0
+507;Candido Gama Palma;03/09/1975;51;Av. Cônego João Lima, 1100;77501-020;Araguaína;TO;1123072109;751896133024;Carminha Xavier Gama;Iomar Cintra Palma;Branca;Designer Gráfico;Solteiro(a);Não;0
+508;Breno Malta Camacho;26/05/2003;23;Av. Atlântica, 1962;22021-001;Rio de Janeiro;RJ;8308634427;679513663890;Frederica Lagos Malta;Israel Frota Camacho;Parda;Chef de Cozinha;Divorciado(a);Sim;1
+509;Cristiane Maldonado Nobre;08/11/1977;49;Av. São Sebastião, 522;64204-035;Parnaíba;PI;8263515960;920681649129;Angela Melo Maldonado;Jeronimo Assuncao Nobre;Branca;Arquiteta;Solteiro(a);Sim;1
+510;Angelica Frota Carneiro;01/03/1965;61;Av. Ville Roy, 3148;69301-000;Boa Vista;RR;1712466238;885174828777;Cibele Lucena Frota;Iomar Figueiredo Carneiro;Preta;Administrador;Casado(a);Não;0
+511;Cícera Garcez Morais;24/06/1974;52;Av. IV, 3873;61900-000;Maracanaú;CE;6707755130;859128789652;Angela Padilha Garcez;Gilson Mendes Morais;Branca;Biólogo;Viúvo(a);Não;0
+512;Eliseu Neto Naves;14/09/2008;18;Av. Governador Leonel Brizola, 3423;25010-001;Duque de Caxias;RJ;2226515708;914019448861;Cordélia Novaes Neto;Hermes Xavier Naves;Parda;Professor;Divorciado(a);Não;0
+513;Ione Novaes Braga;18/08/1966;60;Av. Afonso Pena, 3764;79002-074;Campo Grande;MS;5531280988;000463895316;Patrícia Ortiz Novaes;Amauri Pereira Braga;Branca;Contador;Casado(a);Não;0
+514;Emerson Neto Barros;28/12/1972;54;Av. Parque, 2053;69100-043;Itacoatiara;AM;4625701362;451896353097;Aurora Guerra Neto;Benicio Filgueiras Barros;Parda;Veterinário;Viúvo(a);Não;0
+515;Ineu Oliveira Garrido;11/07/2007;19;Av. Jorge Teixeira, 2612;76804-015;Porto Velho;RO;1771114947;997157207446;Maria Gusmao Oliveira;Anderson Cardoso Garrido;Branca;Médico Pediatra;Divorciado(a);Não;0
+516;Cleusa Camargo Filgueiras;01/03/1984;42;Av. Izoraida Marques Peres, 2657;18048-110;Sorocaba;SP;2316913562;467740423389;Augusta Paranhos Camargo;Carlos Aguiar Filgueiras;Branca;Farmacêutico;Viúvo(a);Sim;1
+517;Beto Lima Cabral;20/12/1984;42;Av. Guararapes, 205;56302-000;Petrolina;PE;4843200326;081347978408;Carolina Igrejas Lima;Ildo Molina Cabral;Parda;Veterinário;União Estável;Não;0
+518;Janice Bueno Gonzaga;26/08/1962;64;Av. Dr. Adhemar de Barros, 40;12245-010;São José dos Campos;SP;8035547502;565483383741;Barbara Lourenco Bueno;Dante Nascimento Gonzaga;Preta;Jornalista;Casado(a);Sim;3
+519;Aparecida Costa Cavalcante;15/07/1976;50;Av. Brasil, 2976;87013-000;Maringá;PR;3037828503;829637699903;Amara Rocha Costa;Edilson Lagos Cavalcante;Indígena;Arquiteta;Divorciado(a);Sim;1
+520;Samuel Malta Gonzaga;12/03/1973;53;Av. Soares Lopes, 3535;45654-000;Ilhéus;BA;5339998281;604062477215;Daniele Padilha Malta;Casemiro Macedo Gonzaga;Parda;Professor;Solteiro(a);Não;0
+521;Flavio Caceres Barros;01/06/1975;51;Av. FEB, 3642;78117-000;Várzea Grande;MT;5801740129;566638228803;Jaqueline Lemos Caceres;Chico Almeida Barros;Parda;Auxiliar Técnico;União Estável;Não;0
+522;Bernadete Barros Bello;21/05/1971;55;Av. Dom José, 3932;62010-290;Sobral;CE;0369088063;191201332740;Sandra Santos Barros;Alencar Brito Bello;Branca;Economista;Solteiro(a);Sim;1
+523;Edvaldo Lago Mello;19/05/2005;21;Av. Brasil, 3759;76900-010;Ji-Paraná;RO;4537087255;414340467758;Carina Fonseca Lago;Alvaro Passos Mello;Parda;Economista;Solteiro(a);Não;0
+524;Isaura Carrasco Novaes;14/09/1991;35;Av. Nove de Julho, 740;13208-056;Jundiaí;SP;0584677847;348378850037;Francine Neto Carrasco;Jamil Noronha Novaes;Indígena;Enfermeiro;Divorciado(a);Sim;1
+525;Anastacia Brito Moraes;04/07/1984;42;Rua Tancredo Neves, 1371;68920-000;Laranjal do Jari;AP;7293345342;337259968096;Candida Borges Brito;Pedro Henriques Moraes;Parda;Farmacêutico;Viúvo(a);Não;0
+526;Dora Leite Ortiz;16/12/2006;20;Rua Setembro, 3062;40060-001;Salvador;BA;5626510950;413761345914;Barbara Gonzaga Leite;Alejandro Aranha Ortiz;Parda;Fisioterapeuta;Divorciado(a);Não;0
+527;Mariana Henriques Belmonte;23/04/1964;62;Av. Ceará, 802;69900-001;Rio Branco;AC;4182612014;069765928752;Cilene Monteiro Henriques;Inacio Andrade Belmonte;Parda;Advogado;Casado(a);Sim;1
+528;Geovana Ribeiro Carneiro;07/01/2002;24;Av. Bucar Neto, 2165;64800-000;Floriano;PI;4648418463;485641474024;Irene Meneses Ribeiro;Rodrigo Meireles Carneiro;Parda;Enfermeiro;União Estável;Sim;3
+529;Bernardo Madureira Bueno;13/11/1984;42;Av. Brasil, 603;85810-001;Cascavel;PR;5786033405;709609400595;Adriana Mesquita Madureira;Cassiano Passos Bueno;Branca;Psicóloga;Solteiro(a);Sim;3
+530;Alejandro Montenegro Madureira;12/02/2004;22;Av. Canal, 3927;58400-220;Campina Grande;PB;3248395666;190064545001;Emily Oliveira Montenegro;Cassio Leite Madureira;Parda;Psicóloga;Viúvo(a);Sim;3
+531;Dagmar Medeiros Ortiz;03/07/2004;22;Av. Ville Roy, 641;69301-000;Boa Vista;RR;7333334395;417398935114;Célia Gama Medeiros;Alberto Melo Ortiz;Branca;Administrador;Divorciado(a);Não;0
+532;Djalma Cintra Garcez;25/06/1986;40;Av. Agamenon Magalhães, 1909;55012-290;Caruaru;PE;8012733941;021212921474;Iris Meneses Cintra;Djalma Baptista Garcez;Parda;Médico Pediatra;União Estável;Sim;1
+533;Benito Marcondes Souza;15/11/1979;47;Av. Presidente Kennedy, 236;88101-001;São José;SC;0667921916;968421450834;Carmem Giacomini Marcondes;Jefferson Mangabeira Souza;Parda;Contador;União Estável;Não;0
+534;Fausto Rodrigues Carneiro;13/12/2002;24;Rua Setembro, 2886;40060-001;Salvador;BA;6520072802;477657170262;Amanda Alves Rodrigues;Bruno Cantanhede Carneiro;Branca;Engenheiro Civil;Solteiro(a);Sim;1
+535;Diana Lago Machado;26/03/1961;65;Av. Brasil, 3229;85810-001;Cascavel;PR;4309289938;520051424594;Carminha Ribeiro Lago;Demétrio Bello Machado;Branca;Eletricista;União Estável;Sim;1
+536;Fernando Lacerda Miranda;28/01/1962;64;Av. Amazonas, 240;78700-050;Rondonópolis;MT;3269709796;628356644934;Iracema Cabral Lacerda;Elias Camargo Miranda;Parda;Designer Gráfico;União Estável;Sim;1
+537;Diná Novaes Lins;22/04/1975;51;Av. Coletora A, 2788;49160-000;Nossa Senhora do Socorro;SE;6283658724;498266471158;Edna Camargo Novaes;Gelson Lourenco Lins;Parda;Chef de Cozinha;União Estável;Não;0
+538;Elias Rodrigues Mangabeira;27/02/2005;21;Av. Presidente Vargas, 3587;97015-510;Santa Maria;RS;4434969999;972799169468;Cordélia Nobre Rodrigues;Amaro Carvalho Mangabeira;Branca;Designer Gráfico;União Estável;Não;0
+539;Ariadina Lemos Melo;08/04/2005;21;Av. Rui Barbosa, 1981;68005-080;Santarém;PA;8742443398;570363435976;Guilhermina Cavalcante Lemos;Leonardo Fraga Melo;Parda;Advogado;Solteiro(a);Sim;3
+540;Filomena Rodrigues Moura;14/04/1998;28;Av. Parque, 389;69100-043;Itacoatiara;AM;9918285886;643203873407;Diana Mangabeira Rodrigues;Jesse Monteiro Moura;Branca;Arquiteta;Casado(a);Não;0
+541;Araci Furquim Casagrande;01/11/1969;57;Av. Governador Valadares, 2493;32600-112;Betim;MG;5926057355;330669531948;Emília Lourdes Furquim;Denis Laranjeira Casagrande;Branca;Designer Gráfico;Solteiro(a);Sim;1
+542;Cristiane Faustino Morais;27/02/2004;22;Rodovia BR-316, 2841;67013-000;Ananindeua;PA;6498605851;779893756819;Eleonora Moreira Faustino;Erasmo Teixeira Morais;Branca;Engenheiro Civil;Viúvo(a);Não;0
+543;Samuel Oliveira Camacho;01/11/1995;31;Rua XV de Novembro, 1609;89010-001;Blumenau;SC;5815335668;498743918298;Evelyn Galvao Oliveira;Mateus Passos Camacho;Parda;Fisioterapeuta;Solteiro(a);Não;0
+544;Isabelle Franco Pereira;18/03/1965;61;Av. Presidente Kennedy, 1881;88101-001;São José;SC;6028859512;671322333831;Chantal Garrido Franco;Geremias Paiva Pereira;Indígena;Analista de Sistemas;Solteiro(a);Sim;1
+545;Emily Matos Lucena;19/06/2007;19;Av. Copacabana, 1147;69980-000;Cruzeiro do Sul;AC;3020603729;350999637195;Aura Jordao Matos;Everton Mendes Lucena;Preta;Biólogo;Viúvo(a);Sim;3
+546;Arlene Fraga Nogueira;09/04/1972;54;Av. Historiador Rubens de Mendonça, 3464;78008-000;Cuiabá;MT;6719113059;363183239398;Anamaria Marques Fraga;André Azevedo Nogueira;Branca;Economista;Solteiro(a);Não;0
+547;Eleonora Garrido Braga;18/08/1968;58;Av. Alberto Maranhão, 150;59600-005;Mossoró;RN;4789561025;111905029535;Diná Firmeza Garrido;Erick Diniz Braga;Branca;Economista;Viúvo(a);Não;0
+548;Anselmo Naves Moita;02/09/2001;25;Av. Goiás, 322;75020-010;Anápolis;GO;8438801876;162621852233;Conceição Pamplona Naves;Jean Avila Moita;Parda;Chef de Cozinha;Solteiro(a);Não;0
+549;Delia Moraes Bernardes;04/05/1978;48;Av. Barão do Rio Branco, 746;36013-000;Juiz de Fora;MG;5279016685;638789773241;Júlia Fraga Moraes;Edvaldo Faustino Bernardes;Parda;Designer Gráfico;Viúvo(a);Não;0
+550;Herculano Feitosa Figueiredo;01/07/2007;19;Av. Rui Barbosa, 2930;68005-080;Santarém;PA;4947912138;468127709167;Debora Paixao Feitosa;Gian Caceres Figueiredo;Parda;Engenheiro Civil;Solteiro(a);Sim;1
+551;Inacio Geraldo Ortega;05/06/2000;26;Av. Afonso Pena, 778;38400-112;Uberlândia;MG;5904589716;429520799155;Cíntia Firmeza Geraldo;Italo Gimenez Ortega;Preta;Veterinário;Casado(a);Sim;3
+552;Elaine Matos Cardoso;09/09/1990;36;Av. Santana, 3401;68925-001;Santana;AP;9770393902;750078365512;Gabriela Cunha Matos;Derick Carrasco Cardoso;Parda;Auxiliar Técnico;União Estável;Não;0
+553;Cilene Ortega Naves;27/03/1993;33;Av. Goiás, 2879;77402-010;Gurupi;TO;9205035269;826425154634;Carolina Magalhaes Ortega;Cristiano Santos Naves;Parda;Veterinário;Divorciado(a);Não;0
+554;Damaris Lousada Faria;15/11/1977;49;Av. Barão do Rio Branco, 76;36013-000;Juiz de Fora;MG;8220279904;769937673806;Briana Dantas Lousada;Claudio Carvalho Faria;Parda;Jornalista;União Estável;Sim;1
+555;Ricardo Moura Gusmao;05/09/1983;43;Av. Brasil, 1171;85851-000;Foz do Iguaçu;PR;3657527138;126055133093;Ariane Fagundes Moura;Amaro Castello Gusmao;Parda;Farmacêutico;Casado(a);Não;0
+556;Ariadina Bittencourt Dias;23/10/1974;52;Av. Dr. Yvens Cordeiro, 1483;69375-000;Rorainópolis;RR;5646228950;356534107045;Amara Costa Bittencourt;Biel Borges Dias;Preta;Contador;União Estável;Sim;3
+557;Brigite Lourenco Ferreira;06/08/1991;35;Av. Barão do Rio Branco, 2216;36013-000;Juiz de Fora;MG;9623923500;973771093431;Aline Fraga Lourenco;Demétrio Figueiredo Ferreira;Branca;Enfermeiro;União Estável;Não;0
+558;Larissa Assuncao Horta;17/02/1968;58;Av. Alfredo Nasser, 1772;72800-000;Luziânia;GO;6198960134;562305326990;Aline Xavier Assuncao;Dalmo Leite Horta;Parda;Professor;Casado(a);Não;0
+559;Eliseu Casagrande Oliveira;04/04/1988;38;Av. Paulo de Frontin, 271;27260-120;Volta Redonda;RJ;7775988654;293207795637;Camila Pinto Casagrande;Domingos Costa Oliveira;Parda;Professor;Viúvo(a);Não;0
+560;Gabriel Camargo Delgado;24/01/2007;19;Av. Júlio de Castilhos, 1576;95010-000;Caxias do Sul;RS;7430113531;962944310080;Carla Campos Camargo;Cesar Moraes Delgado;Branca;Médico Pediatra;Solteiro(a);Não;0
+561;Italo Espinosa Cintra;07/08/1972;54;Av. Brasil, 2746;85810-001;Cascavel;PR;9376634748;393575748424;Aurora Vieira Espinosa;Gabriel Mangabeira Cintra;Branca;Contador;Solteiro(a);Não;0
+562;Gustavo Belmonte Batista;17/11/1994;32;Av. Guararapes, 359;56302-000;Petrolina;PE;7772793115;919311379663;Amélia Freire Belmonte;Gilson Melo Batista;Amarela;Arquiteta;Solteiro(a);Sim;1
+563;Fabiola Frota Bernardes;07/10/1977;49;Av. Coronel Martiniano, 1603;59300-000;Caicó;RN;5223094073;205345462431;Alexia Gimenez Frota;Antonio Coimbra Bernardes;Parda;Economista;Divorciado(a);Sim;9
+564;Alfredo Evangelista Costa;27/05/2008;18;Av. Izoraida Marques Peres, 434;18048-110;Sorocaba;SP;2836225969;793652013746;Larissa Melo Evangelista;Elias Coelho Costa;Indígena;Designer Gráfico;União Estável;Sim;1
+565;João Meneses Aguiar;10/03/1982;44;Av. Presidente Vargas, 2443;75901-001;Rio Verde;GO;8009740723;287293170182;Alicia Moita Meneses;João Xavier Aguiar;Parda;Designer Gráfico;Solteiro(a);Sim;1
+566;Fausta Paschoal Lagos;14/04/1999;27;Av. Afonso Pena, 1028;79002-074;Campo Grande;MS;9028326416;562849590346;Ester Andrade Paschoal;Cassiano Machado Lagos;Parda;Administrador;Casado(a);Não;0
+567;Dora Alves Meneses;09/02/1961;65;Av. Campo Grande, 2303;29146-300;Cariacica;ES;9477487182;597134087625;Camila Monteiro Alves;Israel Cunha Meneses;Preta;Engenheiro Civil;Solteiro(a);Sim;1
+568;Conceição Lozano Nobrega;11/10/1985;41;Av. Presidente Vargas, 607;75901-001;Rio Verde;GO;0071305320;223532687295;Renata Almeida Lozano;Israel Morais Nobrega;Branca;Auxiliar Técnico;Viúvo(a);Não;0
+569;Renata Monteiro Batista;16/12/1982;44;Av. Guararapes, 3059;56302-000;Petrolina;PE;6535427232;813907710192;Almerinda Frota Monteiro;Arthur Nobrega Batista;Parda;Jornalista;Viúvo(a);Não;0
+570;Dirce Miranda Carrasco;13/09/1971;55;Av. Coletora A, 3233;49160-000;Nossa Senhora do Socorro;SE;0372941002;778171472034;Eleonora Passos Miranda;Felix Leal Carrasco;Amarela;Professor;Divorciado(a);Sim;1
+571;Fabiana Gentil Assis;03/11/1961;65;Av. Dom José, 2979;62010-290;Sobral;CE;0215281290;749275818320;Cleonice Costa Gentil;Gilberto Caldas Assis;Branca;Administrador;União Estável;Não;0
+572;Inacio Marcondes Naves;14/03/2002;24;Av. Bucar Neto, 792;64800-000;Floriano;PI;0289223629;154301314392;Eneida Ortega Marcondes;Fred Godoy Naves;Parda;Engenheiro Civil;Casado(a);Sim;1
+573;Graça Muniz Galvao;10/03/1983;43;Av. Capitão Silvio, 1898;76873-002;Ariquemes;RO;6242676518;651094432766;Cecília Assis Muniz;Heitor Marcondes Galvao;Parda;Biólogo;Solteiro(a);Não;0
+574;Flavio Rodrigues Inacio;22/08/1962;64;Av. Júlio de Castilhos, 1389;95010-000;Caxias do Sul;RS;3487654298;009777410566;Eliana Paschoal Rodrigues;Felix Junqueira Inacio;Branca;Fisioterapeuta;União Estável;Sim;2
+575;Ester Casagrande Espinosa;10/12/1971;55;Av. Presidente Kennedy, 3476;88101-001;São José;SC;2895013180;280586424934;Edna Fernandes Casagrande;Hermes Lourdes Espinosa;Parda;Designer Gráfico;União Estável;Não;0
+576;Ingrid Junqueira Alves;18/05/2005;21;Av. Jorge Teixeira, 22;76804-015;Porto Velho;RO;4833374620;004346484299;Eva Fraga Junqueira;Marcos Marinho Alves;Parda;Chef de Cozinha;União Estável;Sim;6
+577;Bianca Fraga Lopes;07/09/1979;47;Av. Fernandes Lima, 69;57050-000;Maceió;AL;3217037561;321437939095;Glaucia Girao Fraga;Bruce Delgado Lopes;Parda;Médico Pediatra;Casado(a);Sim;3
+578;Jandir Horta Passos;24/04/1976;50;Av. Barão do Rio Branco, 2694;36013-000;Juiz de Fora;MG;2296597381;518773955292;Arlene Negrao Horta;Gabriel Rodrigues Passos;Branca;Eletricista;Viúvo(a);Não;0
+579;Alicia Moraes Luz;14/08/1986;40;Av. Governador Valadares, 2016;32600-112;Betim;MG;1233109110;038941014776;Briana Jesus Moraes;Thiago Meireles Luz;Branca;Auxiliar Técnico;Casado(a);Sim;1
+580;Dalmo Cardoso Domingues;08/06/1969;57;Av. Santos Dumont, 2485;60150-160;Fortaleza;CE;4227929132;712287711926;Analu Gaspar Cardoso;Jairo Lemos Domingues;Parda;Enfermeiro;Casado(a);Sim;1
+581;Douglas Noval Vieira;21/06/1985;41;Av. Ville Roy, 1450;69301-000;Boa Vista;RR;7330055898;996116762729;Guilhermina Filgueiras Noval;Eduardo Guerra Vieira;Parda;Economista;Solteiro(a);Sim;3
+582;Inês Mendonca Figueiredo;01/12/2005;21;Av. Presidente Vargas, 438;75901-001;Rio Verde;GO;6823717576;400887297256;Glauce Inacio Mendonca;Lucas Mata Figueiredo;Branca;Economista;Viúvo(a);Sim;2
+583;Galdino Pinto Mendes;11/02/1989;37;Av. Guilherme Schell, 2898;92200-630;Canoas;RS;0810739078;088468211452;Guiomar Aguiar Pinto;Fausto Garcez Mendes;Parda;Auxiliar Técnico;Viúvo(a);Não;0
+584;Bruna Freitas Marinho;07/12/1963;63;Av. Cônego João Lima, 3787;77501-020;Araguaína;TO;8660783240;218064720854;Alice Nobrega Freitas;Clovis Aranha Marinho;Parda;Arquiteta;Viúvo(a);Não;0
+585;Dagoberto Nobrega Paschoal;22/06/2005;21;Av. Canal, 3527;58400-220;Campina Grande;PB;5279202123;749727041861;Anelise Cardoso Nobrega;Edmilson Gonzaga Paschoal;Parda;Fisioterapeuta;Viúvo(a);Não;0
+586;Geraldo Cintra Andrade;06/03/1974;52;Av. Caxangá, 3944;50711-000;Recife;PE;2997676907;188867883298;Débora Jordao Cintra;Ildo Marcondes Andrade;Parda;Biólogo;Viúvo(a);Sim;1
+587;Dafne Caldeira Braga;13/08/1965;61;Av. Jerônimo Monteiro, 1513;29100-010;Vila Velha;ES;5068908050;880915421703;Íris Melo Caldeira;Thiago Campos Braga;Parda;Farmacêutico;União Estável;Sim;1
+588;Eduardo Guimaraes Paes;24/01/1973;53;Av. Juracy Magalhães, 778;45023-490;Vitória da Conquista;BA;4746647473;683172282036;Catarina Paiva Guimaraes;Hermes Moura Paes;Parda;Contador;Casado(a);Sim;2
+589;Brunella Lemos Monforte;19/04/1997;29;Av. Afonso Pena, 1332;38400-112;Uberlândia;MG;3390717930;039625732305;Angelina Feitosa Lemos;Ique Nobrega Monforte;Amarela;Economista;Solteiro(a);Não;0
+590;Cecília Macedo Gentil;15/10/1988;38;Av. Jorge Teixeira, 613;76804-015;Porto Velho;RO;6338201149;391910565659;Elisa Filgueiras Macedo;Jaime Firmeza Gentil;Parda;Professor;Divorciado(a);Não;0
+591;Cordélia Garcez Maldonado;23/09/1976;50;Av. Frei Serafim, 2085;64001-020;Teresina;PI;6917783181;226408138119;Augusta Fonseca Garcez;Iuri Jardim Maldonado;Branca;Fisioterapeuta;Solteiro(a);Não;0
+592;Juliana Aguiar Bernardes;28/05/1990;36;Av. Ville Roy, 2;69301-000;Boa Vista;RR;9359729074;336960257002;Erica Macedo Aguiar;Anderson Batista Bernardes;Parda;Veterinário;Casado(a);Sim;2
+593;Bernardo Campos Padilha;21/02/1973;53;Rua Tancredo Neves, 2063;68920-000;Laranjal do Jari;AP;6123705373;268439289817;Delia Maciel Campos;Alejandro Molina Padilha;Parda;Jornalista;Solteiro(a);Não;0
+594;Adriano Matos Paes;14/11/1977;49;Av. Bernardo Vieira de Melo, 3743;54410-010;Jaboatão dos Guararapes;PE;6541338394;112094029598;Ingrid Faustino Matos;Gilberto Furquim Paes;Parda;Biólogo;Solteiro(a);Sim;1
+595;Aida Dornelles Neto;10/02/1978;48;Av. Fernandes Lima, 3567;57050-000;Maceió;AL;8757379586;272492288988;Deise Borges Dornelles;Charles Antunes Neto;Preta;Psicóloga;Viúvo(a);Sim;1
+596;Helder Moreira Mendonca;10/08/1963;63;Av. Canal, 2372;58400-220;Campina Grande;PB;0191202503;342839418035;Graça Xavier Moreira;Jader Lucena Mendonca;Branca;Auxiliar Técnico;Divorciado(a);Sim;1
+597;Caciano Borges Palma;08/04/1978;48;Av. Marcelino Pires, 1154;79800-001;Dourados;MS;4170091483;732439838959;Jandira Pastore Borges;Erick Freitas Palma;Branca;Médico Pediatra;Solteiro(a);Sim;1
+598;Ineu Aguiar Lourenco;02/04/1977;49;Av. Nereu Ramos, 843;65606-010;Caxias;MA;3835577811;580409351219;Cora Cardoso Aguiar;Gledson Moura Lourenco;Parda;Contador;Viúvo(a);Sim;3
+599;Fernandinho Mello Paiva;28/11/1973;53;Av. Barão do Rio Branco, 2640;36013-000;Juiz de Fora;MG;7561634394;739241600777;Carmem Melo Mello;Hermes Gentil Paiva;Branca;Enfermeiro;União Estável;Não;0
+600;Jarbas Castro Delgado;05/11/2001;25;Av. Brasil, 3817;85810-001;Cascavel;PR;6774934472;213020055281;Erica Esteves Castro;Bento Meireles Delgado;Parda;Médico Pediatra;Casado(a);Não;0
+601;Ismael Meneses Cantanhede;10/09/1992;34;Av. Governador Valadares, 3369;32600-112;Betim;MG;8133891820;690023722302;Berenice Azevedo Meneses;Hortencio Fonseca Cantanhede;Parda;Engenheiro Civil;Viúvo(a);Sim;1
+602;Benito Gaspar Paes;18/03/1964;62;Av. Capitão Silvio, 2016;76873-002;Ariquemes;RO;7426932578;771927070288;Aida Lima Gaspar;Anselmo Farias Paes;Branca;Analista de Sistemas;Viúvo(a);Sim;1
+603;Damaris Fernandes Leite;13/07/2002;24;Largo Dom Fernando Gomes, 2276;57300-040;Arapiraca;AL;6878753239;386626986877;Amélia Pinto Fernandes;Dario Godoy Leite;Parda;Enfermeiro;Casado(a);Não;0
+604;Amara Carrasco Avila;09/02/1989;37;Av. Fab, 1442;68900-073;Macapá;AP;4620842355;365935450291;Aurora Lourenco Carrasco;Eliseu Gonzaga Avila;Parda;Enfermeiro;Casado(a);Sim;1
+605;Mariana Noronha Coelho;25/06/1987;39;Av. Brasil, 2590;85851-000;Foz do Iguaçu;PR;3082058293;364192393089;Dirce Carneiro Noronha;Anselmo Jesus Coelho;Parda;Economista;Divorciado(a);Não;0
+606;Aura Gentil Malta;16/10/1996;30;Via W3 Sul, 1560;70340-000;Brasília;DF;4720667789;403188530387;Clarice Barros Gentil;Samuel Nobre Malta;Parda;Professor;Divorciado(a);Sim;6
+607;Conceição Inacio Nogueira;17/07/1994;32;Via W3 Sul, 2503;70340-000;Brasília;DF;5682536069;639198643870;Cilene Caldas Inacio;Gisvaldo Girao Nogueira;Parda;Enfermeiro;Viúvo(a);Sim;14
+608;Casemiro Jesus Batista;02/11/1984;42;Av. Brigadeiro Everaldo Breves, 3798;59140-645;Parnamirim;RN;8536451328;508562942246;Evelyn Galvao Jesus;Elias Mangabeira Batista;Parda;Contador;União Estável;Não;0
+609;Erico Bueno Ladeira;24/10/2002;24;Av. Ville Roy, 2267;69301-000;Boa Vista;RR;5150434563;620242002119;Agatha Delgado Bueno;Jason Galvao Ladeira;Parda;Advogado;Solteiro(a);Sim;1
+610;Arlene Almeida Moura;23/01/1965;61;Av. Copacabana, 1065;69980-000;Cruzeiro do Sul;AC;5965045175;928545247874;Elisabete Mesquita Almeida;André Meireles Moura;Branca;Engenheiro Civil;Viúvo(a);Sim;1
+611;Gabriela Novaes Ortiz;26/08/1977;49;Av. Amazonas, 2984;69151-000;Parintins;AM;3525611740;616901563840;Anamaria Teixeira Novaes;Fabiano Miranda Ortiz;Parda;Contador;Solteiro(a);Sim;4
+612;Amara Assis Barbosa;11/12/1983;43;Largo Dom Fernando Gomes, 1277;57300-040;Arapiraca;AL;7661996014;401416809403;Janete Furquim Assis;Hermes Casanova Barbosa;Parda;Fisioterapeuta;Casado(a);Sim;1
+613;Evelin Mendonca Goulart;01/09/1977;49;Av. Nereu Ramos, 2803;65606-010;Caxias;MA;8273168096;170925585960;Heloísa Pereira Mendonca;Fernando Palhares Goulart;Preta;Arquiteta;Viúvo(a);Não;0
+614;Helio Miranda Maciel;26/02/2002;24;Rua Príncipe, 2071;89201-000;Joinville;SC;5837500892;438537365848;Ariela Henriques Miranda;Euzebio Alves Maciel;Parda;Biólogo;Viúvo(a);Não;0
+615;Carolina Paiva Igrejas;10/06/1968;58;Av. Juracy Magalhães, 2764;45023-490;Vitória da Conquista;BA;2086615605;361436684002;Arlene Farias Paiva;Adilson Caldeira Igrejas;Preta;Economista;União Estável;Não;0
+616;Domingos Horta Almeida;09/02/1969;57;Rua Coronel José Vicente, 2405;58800-040;Sousa;PB;0812153868;084769462506;Cleusa Rocha Horta;Alejandro Melo Almeida;Branca;Enfermeiro;Viúvo(a);Sim;2
+617;Edmilson Gonzaga Almeida;20/11/1965;61;Av. Historiador Rubens de Mendonça, 1741;78008-000;Cuiabá;MT;7720230878;073504194220;Felícia Lagos Gonzaga;Almir Cavalcante Almeida;Parda;Veterinário;Divorciado(a);Não;0
+618;Daiana Guedes Padilha;10/09/1998;28;Av. Getúlio Vargas, 1474;65900-000;Imperatriz;MA;9419650174;295347859989;Aura Marinho Guedes;Giovanni Muniz Padilha;Parda;Contador;Solteiro(a);Sim;1
+619;Helena Carneiro Marinho;23/07/1977;49;Av. Almirante Barroso, 131;58013-020;João Pessoa;PB;3960979740;691089331205;Anamaria Franco Carneiro;Haroldo Barbosa Marinho;Parda;Enfermeiro;Casado(a);Sim;1
+620;Gaston Giacomini Pastore;27/09/2005;21;Av. Almirante Barroso, 3281;58013-020;João Pessoa;PB;6673325059;185150272888;Elba Carrasco Giacomini;Dagoberto Ortiz Pastore;Parda;Farmacêutico;Casado(a);Não;0
+621;Douglas Lagos Leal;11/12/1966;60;Av. Nereu Ramos, 2767;65606-010;Caxias;MA;2184039414;359775263048;Barbara Ortiz Lagos;Gilson Xavier Leal;Amarela;Professor;Viúvo(a);Não;0
+622;Cleonice Frota Oliveira;06/02/2008;18;Av. Getúlio Vargas, 88;64600-000;Picos;PI;8331795354;543970152018;Helena Marcondes Frota;Angelo Maciel Oliveira;Parda;Enfermeiro;Casado(a);Sim;1
+623;Djalmir Mendes Paes;18/02/1979;47;Rua Tancredo Neves, 1457;68920-000;Laranjal do Jari;AP;3801997911;098184064526;Antonia Antunes Mendes;Aldo Casanova Paes;Parda;Farmacêutico;Casado(a);Não;0
+624;Fausta Duarte Brito;22/02/2007;19;Av. Getúlio Vargas, 755;64600-000;Picos;PI;6957441830;887325649886;Clarissa Andrade Duarte;Claudio Fraga Brito;Branca;Engenheiro Civil;União Estável;Sim;7
+625;Feliciano Feitosa Moraes;20/06/1990;36;Av. Senhor dos Passos, 267;44002-048;Feira de Santana;BA;5172288020;751364051045;Cora Neves Feitosa;Emanuel Monforte Moraes;Amarela;Chef de Cozinha;Viúvo(a);Sim;2
+626;Guilherme Noronha Cordeiro;23/08/1988;38;Av. Ceará, 2747;69900-001;Rio Branco;AC;3593334721;462586848466;Gisela Montenegro Noronha;Gustavo Holanda Cordeiro;Parda;Médico Pediatra;Viúvo(a);Não;0
+627;Everaldo Teixeira Ornellas;07/02/1962;64;Av. Governador Valadares, 2195;32600-112;Betim;MG;4270680712;075142408929;Jaqueline Melo Teixeira;Chico Figueira Ornellas;Branca;Médico Pediatra;Divorciado(a);Não;0
+628;Francisco Cavalcante Matos;27/04/1963;63;Rua Marechal Deodoro, 341;96020-000;Pelotas;RS;3519166026;399314516292;Carolina Guerra Cavalcante;Eliezer Evangelista Matos;Parda;Auxiliar Técnico;Divorciado(a);Não;0
+629;Breno Lemos Igrejas;07/08/1989;37;Av. Teotônio Segurado, 208;77015-002;Palmas;TO;5867874832;799723934293;Emily Bueno Lemos;Cristiano Nascimento Igrejas;Branca;Biólogo;Viúvo(a);Sim;1
+630;Fausta Mendes Moreira;06/06/1980;46;Av. Campo Grande, 701;29146-300;Cariacica;ES;8840529238;497808037605;Eveline Geraldo Mendes;Edilson Oliveira Moreira;Parda;Jornalista;Viúvo(a);Não;0
+631;Jasper Bernardes Cordeiro;14/03/2006;20;Av. Campo Grande, 121;29146-300;Cariacica;ES;0233483082;648795039554;Geovana Ortega Bernardes;João Meneses Cordeiro;Branca;Analista de Sistemas;Viúvo(a);Sim;3
+632;Beto Cantanhede Chaves;17/01/1961;65;Av. Brasil, 3213;87013-000;Maringá;PR;9263441914;421947261270;Sofia Xavier Cantanhede;Edmar Barros Chaves;Preta;Médico Pediatra;Solteiro(a);Não;0
+633;Henrique Guimaraes Jordao;18/07/1997;29;Av. Fab, 3709;68900-073;Macapá;AP;2850984454;125401181980;Jane Molina Guimaraes;Fausto Cabral Jordao;Branca;Arquiteta;União Estável;Sim;3
+634;Brunella Lemos Luz;26/08/1976;50;Av. VP-8, 1885;68501-000;Marabá;PA;5300039455;369857281612;Helena Pastrocinio Lemos;Geremias Paes Luz;Branca;Enfermeiro;Solteiro(a);Sim;1
+635;Damaris Maldonado Lima;12/09/1999;27;Av. Nove de Julho, 454;13208-056;Jundiaí;SP;6886040658;215317203744;Eliane Cintra Maldonado;Ismael Noval Lima;Preta;Auxiliar Técnico;Solteiro(a);Sim;1
+636;Catarina Gama Giacomini;02/12/1974;52;Rua Moreira César, 3475;24230-050;Niterói;RJ;2116323832;786532689153;Cilene Leite Gama;Celso Casanova Giacomini;Branca;Economista;Viúvo(a);Sim;3
+637;Emanuela Gentil Esteves;22/05/1963;63;Av. Dante Michelini, 2313;29060-235;Vitória;ES;0239999702;900433908953;Cássia Igrejas Gentil;Jefferson Cavalcante Esteves;Branca;Economista;União Estável;Não;0
+638;Jesse Fraga Lourenco;05/07/2001;25;Av. Copacabana, 3818;69980-000;Cruzeiro do Sul;AC;9321533682;658353522704;Clarissa Freire Fraga;Aldo Dornelles Lourenco;Preta;Psicóloga;Casado(a);Não;0
+639;Eloá Filgueiras Cunha;08/01/1985;41;Av. Brasil, 1068;87013-000;Maringá;PR;4147235695;250477718529;Júlia Caldas Filgueiras;Jesse Lourdes Cunha;Parda;Professor;União Estável;Não;0
+640;Edvaldo Pastrocinio Fonseca;05/10/1974;52;Av. Juracy Magalhães, 3720;45023-490;Vitória da Conquista;BA;5255317594;924344293963;Isadora Laranjeira Pastrocinio;Caio Jardim Fonseca;Parda;Contador;Casado(a);Sim;2
+641;Flávia Carvalho Caldeira;15/02/1999;27;Av. Brigadeiro Everaldo Breves, 1789;59140-645;Parnamirim;RN;1425034220;526686775205;Ivete Baptista Carvalho;Guilherme Lozano Caldeira;Branca;Professor;Divorciado(a);Não;0
+642;Dora Farias Melo;02/09/1990;36;Av. Vicente Machado, 3275;84010-000;Ponta Grossa;PR;3500292476;677278457238;Amanda Brito Farias;Feliciano Caldas Melo;Preta;Administrador;Solteiro(a);Sim;3
+643;Isadora Cabral Cunha;05/12/1963;63;Av. Ceará, 1117;69900-001;Rio Branco;AC;5640959090;101952109960;Janice Nobre Cabral;Fred Igrejas Cunha;Preta;Veterinário;Viúvo(a);Sim;1
+644;Flavio Noval Souza;01/11/1999;27;Rodovia BR-316, 1668;67013-000;Ananindeua;PA;5868201698;500715684334;Daiana Araujo Noval;Rafael Meireles Souza;Preta;Economista;Divorciado(a);Não;0
+645;Frederica Jesus Lacerda;03/09/2001;25;Av. Jerônimo Monteiro, 128;29100-010;Vila Velha;ES;8301994710;675451559210;Jaqueline Evangelista Jesus;Cesar Figueiredo Lacerda;Branca;Jornalista;Viúvo(a);Sim;2
+646;Amara Machado Mata;01/06/2007;19;Av. Coletora A, 847;49160-000;Nossa Senhora do Socorro;SE;1796210068;281905836469;Emília Domingues Machado;Aldo Palhares Mata;Parda;Engenheiro Civil;Viúvo(a);Sim;1
+647;David Branco Barros;12/03/1986;40;Av. Campo Grande, 439;29146-300;Cariacica;ES;4415664137;672469001133;Astrid Molina Branco;Frederico Lourdes Barros;Preta;Farmacêutico;Casado(a);Sim;2
+648;Clarice Ortega Naves;20/09/1985;41;Av. Bucar Neto, 3801;64800-000;Floriano;PI;5926110391;839303809807;Iolanda Jesus Ortega;Jamil Lacerda Naves;Parda;Jornalista;Solteiro(a);Não;0
+649;Íris Cintra Geraldo;10/10/1972;54;Av. Santana, 2279;68925-001;Santana;AP;6260187635;449565303607;Gabriela Magalhaes Cintra;Helder Caldas Geraldo;Parda;Analista de Sistemas;Solteiro(a);Sim;1
+650;Carminha Godoy Firmeza;07/08/1977;49;Av. Jerônimo Monteiro, 1653;29100-010;Vila Velha;ES;7992997743;711975970789;Sofia Bello Godoy;Ismael Teixeira Firmeza;Preta;Jornalista;Casado(a);Não;0
+651;Baltazar Luz Aguiar;13/09/1989;37;Av. Historiador Rubens de Mendonça, 2844;78008-000;Cuiabá;MT;7766660145;664910050338;Jane Pastrocinio Luz;Ismael Maciel Aguiar;Parda;Arquiteta;Divorciado(a);Sim;1
+652;Eliseu Pereira Figueira;11/04/1983;43;Av. Antônio Trajano, 715;79601-001;Três Lagoas;MS;0340250324;282709173597;Beatriz Bernardes Pereira;Cris Fraga Figueira;Parda;Analista de Sistemas;Solteiro(a);Sim;1
+653;Anamaria Mascarenhas Nobre;10/01/1964;62;Av. Independência, 590;74912-420;Aparecida de Goiânia;GO;1694314780;368101348037;Guilhermina Muniz Mascarenhas;Francisco Ornellas Nobre;Preta;Advogado;Viúvo(a);Não;0
+654;Debora Firmeza Moura;24/05/1973;53;Av. Nove de Julho, 3245;13208-056;Jundiaí;SP;5246845714;782764174163;Jaqueline Gomes Firmeza;Clovis Freitas Moura;Branca;Administrador;Divorciado(a);Não;0
+655;Camila Teixeira Brito;08/09/1988;38;Av. Nove de Julho, 3167;13208-056;Jundiaí;SP;2829312383;120497830428;Andrea Martins Teixeira;João Andrade Brito;Branca;Fisioterapeuta;Casado(a);Não;0
+656;Augusto Coimbra Dantas;11/01/1987;39;Av. Jerônimo Monteiro, 3944;29100-010;Vila Velha;ES;4418659819;605981303703;Graciela Ferreira Coimbra;Biel Noronha Dantas;Parda;Jornalista;Solteiro(a);Sim;1
+657;Eleonora Caldeira Barreto;20/05/1985;41;Av. Amazonas, 1571;78700-050;Rondonópolis;MT;1688913782;181779376982;Amanda Aranha Caldeira;Guilherme Costa Barreto;Preta;Analista de Sistemas;Divorciado(a);Não;0
+658;Gisvaldo Leite Martins;11/07/2007;19;Av. Alberto Maranhão, 1927;59600-005;Mossoró;RN;8120530529;548348560457;Aurora Lemos Leite;Carlos Borges Martins;Parda;Economista;Divorciado(a);Não;0
+659;Cacilda Santos Aranha;06/12/1961;65;Av. Sete de Setembro, 516;80060-000;Curitiba;PR;4288149652;288997736166;Celina Junqueira Santos;Helio Caceres Aranha;Branca;Eletricista;Divorciado(a);Sim;1
+660;Francisco Pereira Nobrega;01/02/2003;23;Av. Copacabana, 703;69980-000;Cruzeiro do Sul;AC;9228648544;495977101878;Chantal Branco Pereira;Emanuel Mesquita Nobrega;Parda;Fisioterapeuta;União Estável;Sim;1
+661;Francine Pamplona Miranda;01/09/2007;19;Av. Presidente Kennedy, 621;88101-001;São José;SC;3908371406;985762065857;Coralina Moraes Pamplona;Ricardo Figueiredo Miranda;Parda;Chef de Cozinha;União Estável;Não;0
+662;Beto Ferreira Henriques;03/01/1981;45;Rua Setembro, 2048;40060-001;Salvador;BA;6290066034;723922788067;Izabel Figueiredo Ferreira;Eduardo Miranda Henriques;Parda;Farmacêutico;Solteiro(a);Não;0
+663;Ivete Giacomini Gusmao;07/05/1969;57;Av. Independência, 3810;74912-420;Aparecida de Goiânia;GO;6267774817;585026403483;Eveline Xavier Giacomini;Elias Caceres Gusmao;Preta;Enfermeiro;Viúvo(a);Sim;1
+664;Flavio Pacheco Xavier;27/07/1992;34;Av. Paulo de Frontin, 646;27260-120;Volta Redonda;RJ;1312162542;533307937488;Eulália Belmonte Pacheco;Jeronimo Esteves Xavier;Branca;Auxiliar Técnico;Casado(a);Sim;1
+665;Benjamin Cardoso Avila;22/07/1972;54;Av. Governador Leonel Brizola, 2285;25010-001;Duque de Caxias;RJ;9474714520;866196924569;Fausta Maldonado Cardoso;Gian Furquim Avila;Parda;Biólogo;Casado(a);Sim;1
+666;Almir Matos Bello;10/04/1992;34;Rua Coronel José Vicente, 3365;58800-040;Sousa;PB;1817891818;374652091768;Daniela Neves Matos;Clovis Lozano Bello;Parda;Designer Gráfico;União Estável;Sim;1
+667;Evelyn Jordao Guimaraes;08/03/1972;54;Av. Barão do Rio Branco, 455;36013-000;Juiz de Fora;MG;3804117191;031515777933;Daniele Delgado Jordao;Ernesto Dantas Guimaraes;Parda;Professor;União Estável;Sim;1
+668;Alana Ladeira Pacheco;06/01/1968;58;Av. Frei Serafim, 2056;64001-020;Teresina;PI;7890887657;170501160869;Emília Inacio Ladeira;Israel Cantanhede Pacheco;Parda;Designer Gráfico;Viúvo(a);Não;0
+669;Hermes Marcondes Luz;06/03/1970;56;Av. Santos Dumont, 190;60150-160;Fortaleza;CE;1070504970;663001737571;Jandira Inacio Marcondes;Beto Cabral Luz;Branca;Eletricista;Viúvo(a);Sim;7
+670;Emilio Belmonte Castro;12/05/1972;54;Av. Amazonas, 3083;78700-050;Rondonópolis;MT;6076703950;911586925755;Constança Morais Belmonte;Cristovao Carvalho Castro;Parda;Enfermeiro;Casado(a);Sim;1
+671;Adilson Padilha Cintra;06/06/1981;45;Rua Setembro, 1923;40060-001;Salvador;BA;7583577262;224068463253;Cleusa Cunha Padilha;Alfredo Coelho Cintra;Parda;Médico Pediatra;Casado(a);Sim;2
+672;Denise Macedo Furquim;22/11/1971;55;Av. Júlio de Castilhos, 1013;95010-000;Caxias do Sul;RS;0655237194;991900819447;Gisela Andrade Macedo;Angelo Galvao Furquim;Parda;Advogado;Divorciado(a);Não;0
+673;Fausto Caldas Camargo;14/06/2008;18;Av. Brasil, 1079;76900-010;Ji-Paraná;RO;2441171253;162120253365;Felícia Chaves Caldas;Amauri Lopes Camargo;Parda;Chef de Cozinha;União Estável;Sim;1
+674;Gisele Mascarenhas Moura;20/11/1994;32;Av. Amazonas, 3957;78700-050;Rondonópolis;MT;4167557323;415742805376;Camila Franco Mascarenhas;Bento Bittencourt Moura;Branca;Psicóloga;Casado(a);Sim;1
+675;Ariane Holanda Mascarenhas;25/10/1976;50;Av. Loureiro da Silva, 1910;90010-420;Porto Alegre;RS;2213276414;633087120924;Dora Fraga Holanda;Angelo Galvao Mascarenhas;Parda;Engenheiro Civil;Viúvo(a);Sim;1
+676;Dora Almeida Lacerda;12/11/1999;27;Av. Getúlio Vargas, 864;65900-000;Imperatriz;MA;7287566265;114635467772;Daiana Faria Almeida;Alexandre Freitas Lacerda;Preta;Jornalista;Solteiro(a);Não;0
+677;Emilio Lima Cabral;23/01/1977;49;Av. Alfredo Nasser, 2817;72800-000;Luziânia;GO;7361076956;048317333535;Fausta Evangelista Lima;Hamilton Alves Cabral;Parda;Professor;Viúvo(a);Sim;7
+678;Diná Machado Cardoso;21/03/1967;59;Av. Deputado Esteves Rodrigues, 1478;39400-215;Montes Claros;MG;4498279545;013053696627;Gisela Paes Machado;Dalmo Passos Cardoso;Branca;Jornalista;União Estável;Não;0
+679;Carolina Godoy Henriques;04/07/1983;43;Rua do Imperador, 1437;25620-000;Petrópolis;RJ;7513204396;678100313645;Elisângela Pastrocinio Godoy;Federico Noronha Henriques;Preta;Eletricista;União Estável;Sim;7
+680;Estela Souza Feitosa;01/06/1993;33;Av. Rui Barbosa, 1708;68005-080;Santarém;PA;9918564612;214673660352;Eliane Brito Souza;Jesse Holanda Feitosa;Parda;Contador;Solteiro(a);Sim;1
+681;Aparecida Pastore Figueiredo;09/11/1978;48;Av. Senhor dos Passos, 3806;44002-048;Feira de Santana;BA;5404024464;299125741328;Renata Dias Pastore;Aparicio Lousada Figueiredo;Branca;Administrador;Solteiro(a);Sim;1
+682;Celina Caceres Avila;18/03/1989;37;Av. Fernandes Lima, 2395;57050-000;Maceió;AL;6322879441;791421395698;Aline Moraes Caceres;Gilson Bittencourt Avila;Preta;Advogado;Viúvo(a);Não;0
+683;Renata Coelho Carrasco;01/07/2005;21;Rua Moreira César, 2822;24230-050;Niterói;RJ;2836079798;826302512043;Gabriela Cardoso Coelho;André Mata Carrasco;Branca;Economista;Solteiro(a);Sim;1
+684;Dafne Palma Muricy;16/03/2002;24;Av. Brasil, 358;85810-001;Cascavel;PR;9992529964;478937127567;Jandira Cabral Palma;Casemiro Lago Muricy;Parda;Auxiliar Técnico;Divorciado(a);Não;0
+685;Emanuela Freitas Muricy;13/11/1995;31;Av. Amazonas, 125;78700-050;Rondonópolis;MT;7656626039;225549253694;Cora Aguiar Freitas;Djalma Diniz Muricy;Parda;Jornalista;Casado(a);Sim;2
+686;Amaro Montenegro Franco;13/10/1980;46;Av. FEB, 2729;78117-000;Várzea Grande;MT;4752251991;662017085149;Celina Caceres Montenegro;Jarbas Leite Franco;Branca;Eletricista;Viúvo(a);Não;0
+687;Heloisa Barros Giacomini;10/06/1985;41;Av. Governador Valadares, 2717;32600-112;Betim;MG;6825075048;062667863652;Ione Rodrigues Barros;Eliseu Padilha Giacomini;Branca;Enfermeiro;União Estável;Sim;1
+688;Amélia Padilha Paschoal;17/07/1985;41;Av. Jerônimo Monteiro, 3031;29100-010;Vila Velha;ES;7785878935;342285408590;Jacira Branco Padilha;Amaro Esteves Paschoal;Parda;Contador;União Estável;Não;0
+689;Isadora Nogueira Miranda;24/12/1988;38;Av. Cônego João Lima, 1850;77501-020;Araguaína;TO;0116097297;216283156621;Eunice Baptista Nogueira;Edvaldo Moita Miranda;Branca;Arquiteta;Viúvo(a);Sim;2
+690;Jair Cabral Nobrega;08/07/1973;53;Av. Soares Lopes, 266;45654-000;Ilhéus;BA;1686480505;808585534444;Cordélia Costa Cabral;Gelson Novaes Nobrega;Parda;Jornalista;Casado(a);Sim;1
+691;Gabriela Barros Pereira;13/07/2007;19;Av. Higienópolis, 2126;86020-080;Londrina;PR;3290467862;623582082092;Francisca Dias Barros;Charles Montenegro Pereira;Amarela;Auxiliar Técnico;União Estável;Não;0
+692;Graziela Furquim Paixao;04/09/1974;52;Rua da Praia, 3782;88015-100;Florianópolis;SC;7993027482;169355393149;Alana Xavier Furquim;Edilson Coimbra Paixao;Branca;Psicóloga;União Estável;Não;0
+693;Januario Paiva Jordao;05/04/1981;45;Av. Parque, 1574;69100-043;Itacoatiara;AM;8531611916;246278182061;Ana Garcez Paiva;Gabriel Geraldo Jordao;Parda;Advogado;Divorciado(a);Sim;2
+694;Glaucia Teixeira Domingues;27/03/2000;26;Rodovia BR-316, 3521;67013-000;Ananindeua;PA;2424376929;177554088985;Chantal Assuncao Teixeira;Ernesto Delgado Domingues;Parda;Engenheiro Civil;Casado(a);Sim;1
+695;Cora Guimaraes Nobrega;02/08/1979;47;Largo Dom Fernando Gomes, 2501;57300-040;Arapiraca;AL;8000874415;807240734896;Dalva Caceres Guimaraes;Jandir Girao Nobrega;Branca;Engenheiro Civil;União Estável;Sim;2
+696;Pedro Nogueira Martins;16/06/1980;46;Av. Higienópolis, 1262;86020-080;Londrina;PR;3276647785;668345225213;Arlene Marques Nogueira;Chico Jardim Martins;Preta;Biólogo;Divorciado(a);Não;0
+697;Cacilda Moita Brito;19/04/1987;39;Av. Nove de Julho, 2928;13208-056;Jundiaí;SP;5058471277;817671987992;Inês Monteiro Moita;Clovis Franco Brito;Branca;Veterinário;União Estável;Sim;1
+698;Gaston Meireles Firmeza;18/02/1966;60;Rua Marechal Deodoro, 118;96020-000;Pelotas;RS;2491228604;432494137132;Eveline Paranhos Meireles;Eduardo Freitas Firmeza;Parda;Administrador;Solteiro(a);Sim;1
+699;Graça Machado Gomes;15/05/2001;25;Rua XV de Novembro, 1899;89010-001;Blumenau;SC;6059762193;387980059961;Eleonora Medeiros Machado;Thiago Silva Gomes;Branca;Jornalista;Divorciado(a);Não;0
+700;Maria Carneiro Laranjeira;27/07/1975;51;Av. Amazonas, 2972;69151-000;Parintins;AM;7633013758;929880605014;Ariadina Jordao Carneiro;Francisco Madureira Laranjeira;Parda;Designer Gráfico;Viúvo(a);Sim;1
+701;Igor Meireles Moura;24/12/2001;25;Av. Getúlio Vargas, 30;65900-000;Imperatriz;MA;9481260950;498898411018;Elisabete Monteiro Meireles;Edmar Miranda Moura;Branca;Engenheiro Civil;Viúvo(a);Sim;1
+702;Elaine Meneses Lago;19/04/1997;29;Av. Cônego João Lima, 224;77501-020;Araguaína;TO;0113651635;373530615510;Isabel Goulart Meneses;Carlos Gaspar Lago;Amarela;Biólogo;Viúvo(a);Sim;4
+703;Eneida Girao Moreira;19/06/1967;59;Av. Ville Roy, 2207;69301-000;Boa Vista;RR;7951216204;676532454426;Ivonete Garcez Girao;Artur Cavalcante Moreira;Branca;Contador;União Estável;Sim;1
+704;Heitor Diniz Camargo;01/09/1965;61;Via W3 Sul, 565;70340-000;Brasília;DF;1555567379;287233207097;Érika Assis Diniz;Amadeu Nascimento Camargo;Parda;Médico Pediatra;Viúvo(a);Sim;3
+705;Daniel Assuncao Franco;08/03/1995;31;Av. Higienópolis, 3373;86020-080;Londrina;PR;7031785997;561460547237;Renata Martins Assuncao;Fred Brito Franco;Parda;Chef de Cozinha;União Estável;Sim;2
+706;Juliana Cavalcante Mendes;06/06/1995;31;Av. Deputado Esteves Rodrigues, 3308;39400-215;Montes Claros;MG;3763006663;010057757712;Diná Medeiros Cavalcante;Geraldo Barreto Mendes;Parda;Auxiliar Técnico;Casado(a);Não;0
+707;Filomena Dornelles Bueno;02/03/1996;30;Av. Governador Valadares, 3061;32600-112;Betim;MG;3647697992;233080895755;Eulália Magalhaes Dornelles;Beto Assuncao Bueno;Parda;Contador;União Estável;Não;0
+708;Emerson Gimenez Fagundes;22/02/1989;37;Av. Fernandes Lima, 684;57050-000;Maceió;AL;5434738777;960552653276;Anamaria Cunha Gimenez;Gelson Mello Fagundes;Amarela;Eletricista;Solteiro(a);Não;0
+709;Dirce Jardim Cintra;07/08/1971;55;Av. Dr. Adhemar de Barros, 98;12245-010;São José dos Campos;SP;1214589411;219602561775;Coralina Casagrande Jardim;Leonardo Paschoal Cintra;Branca;Professor;Viúvo(a);Sim;1
+710;Andrea Azevedo Lucena;01/03/1978;48;Av. Beira Mar, 2845;49015-000;Aracaju;SE;5532531230;226375779290;Anelise Pinto Azevedo;Israel Muniz Lucena;Parda;Administrador;União Estável;Sim;1
+711;Eleonora Gentil Lozano;09/10/1969;57;Av. Fernando Afonso Collor de Mello, 536;57100-000;Rio Largo;AL;9835444601;237347585415;Glória Belmonte Gentil;Geremias Delgado Lozano;Branca;Eletricista;Casado(a);Não;0
+712;Heloisa Coelho Magalhaes;06/02/1975;51;Av. Amazonas, 3211;69151-000;Parintins;AM;2541631532;838062902444;Ivete Neves Coelho;Helder Cordeiro Magalhaes;Parda;Médico Pediatra;Divorciado(a);Sim;3
+713;Fernanda Paixao Guimaraes;19/07/1980;46;Av. Agamenon Magalhães, 498;55012-290;Caruaru;PE;1853761431;156335870908;Erica Borges Paixao;Fabiano Horta Guimaraes;Parda;Economista;Divorciado(a);Não;0
+714;Aida Farias Lopes;22/09/2001;25;Rua Setembro, 3230;40060-001;Salvador;BA;4427925263;822553369090;Isabelle Negrao Farias;Andrei Fraga Lopes;Parda;Analista de Sistemas;Viúvo(a);Não;0
+715;Dario Baptista Cunha;23/04/2008;18;Av. João César de Oliveira, 1481;32310-000;Contagem;MG;3251313449;399075155642;Eliane Carvalho Baptista;Eric Rodrigues Cunha;Parda;Enfermeiro;União Estável;Não;0
+716;Jefferson Firmeza Caldeira;17/07/1981;45;Av. Dom José, 579;62010-290;Sobral;CE;9100523052;017574149951;Emília Gama Firmeza;Domingos Avila Caldeira;Branca;Biólogo;Viúvo(a);Não;0
+717;Ana Evangelista Carrasco;23/08/1998;28;Av. Senhor dos Passos, 256;44002-048;Feira de Santana;BA;6253018209;486016390688;Cloé Lemos Evangelista;Alexandre Soares Carrasco;Parda;Médico Pediatra;Solteiro(a);Não;0
+718;Jeferson Pereira Brito;09/11/1969;57;Av. Presidente Vargas, 1801;75901-001;Rio Verde;GO;9485710195;598270005555;Adriana Fagundes Pereira;Celso Nascimento Brito;Parda;Farmacêutico;Divorciado(a);Sim;3
+719;Pedro Lozano Silva;22/06/1988;38;Av. Frei Serafim, 2153;64001-020;Teresina;PI;4280852747;249965863458;Daiane Noronha Lozano;Cassiano Neto Silva;Parda;Eletricista;Viúvo(a);Não;0
+720;Beatriz Mascarenhas Garrido;08/02/1999;27;Av. Governador Valadares, 1123;32600-112;Betim;MG;9495714084;283919260787;Celina Palhares Mascarenhas;Hugo Cintra Garrido;Parda;Auxiliar Técnico;União Estável;Sim;3
+721;Ariela Moita Rodrigues;22/06/1967;59;Av. VP-8, 2273;68501-000;Marabá;PA;1260339916;599769497901;Augusta Matos Moita;Estevao Magalhaes Rodrigues;Parda;Administrador;Solteiro(a);Não;0
+722;Chico Guimaraes Lima;07/04/1986;40;Av. Edson da Mota Correia, 1041;61600-004;Caucaia;CE;7755209459;080588981297;Cássia Mascarenhas Guimaraes;Lucas Casanova Lima;Preta;Médico Pediatra;Solteiro(a);Sim;2
+723;Debora Pereira Carneiro;23/12/1992;34;Av. Alberto Maranhão, 1642;59600-005;Mossoró;RN;8210917831;996942510398;Daiane Gouveia Pereira;Cristovao Coelho Carneiro;Preta;Veterinário;Viúvo(a);Não;0
+724;Edilson Chaves Gaspar;26/01/1991;35;Av. Jorge Teixeira, 1019;76804-015;Porto Velho;RO;9740995233;394002220596;Glaucia Luz Chaves;Gledson Macedo Gaspar;Parda;Eletricista;Casado(a);Sim;1
+725;Ariela Geraldo Araujo;19/08/1961;65;Av. Edson da Mota Correia, 1363;61600-004;Caucaia;CE;6671718317;458643030201;Amara Palma Geraldo;Daniel Paiva Araujo;Branca;Analista de Sistemas;União Estável;Sim;1
+726;Alice Santos Cardoso;19/07/1975;51;Av. Soares Lopes, 3431;45654-000;Ilhéus;BA;3889184291;182748588889;Elena Faria Santos;Alan Guerra Cardoso;Indígena;Engenheiro Civil;Solteiro(a);Sim;3
+727;Dulce Evangelista Paixao;22/04/1970;56;Rua Coronel José Vicente, 2569;58800-040;Sousa;PB;1520435419;478053651772;Isabelle Carneiro Evangelista;Evandro Pacheco Paixao;Parda;Jornalista;Solteiro(a);Sim;2
+728;Gerson Pamplona Marques;24/02/1987;39;Av. VP-8, 888;68501-000;Marabá;PA;4932125802;560328092809;Dinorá Furquim Pamplona;Henrique Lago Marques;Parda;Analista de Sistemas;Divorciado(a);Sim;1
+729;Emília Camargo Guerra;05/05/1991;35;Av. Deputado Esteves Rodrigues, 3729;39400-215;Montes Claros;MG;3584620350;729147030677;Isabel Coimbra Camargo;Dario Almeida Guerra;Branca;Chef de Cozinha;União Estável;Não;0
+730;Iolanda Guerra Braga;21/09/2001;25;Av. Jorge Teixeira, 2736;76804-015;Porto Velho;RO;1376989576;922436766737;Mariana Assuncao Guerra;Pedro Rodrigues Braga;Preta;Psicóloga;Casado(a);Sim;2
+731;Jeferson Camacho Andrade;17/07/1987;39;Av. Santana, 1005;68925-001;Santana;AP;9810394691;743883823156;Ivete Igrejas Camacho;Augusto Gomes Andrade;Parda;Psicóloga;União Estável;Não;0
+732;Jason Caceres Miranda;24/02/1981;45;Av. República do Líbano, 1750;74110-160;Goiânia;GO;2185460241;902129190901;Carina Teixeira Caceres;Anselmo Faustino Miranda;Parda;Auxiliar Técnico;Solteiro(a);Sim;2
+733;Anderson Geraldo Moura;11/05/1973;53;Av. Historiador Rubens de Mendonça, 2943;78008-000;Cuiabá;MT;7486535678;722363037664;Cora Assis Geraldo;Haroldo Souza Moura;Branca;Auxiliar Técnico;União Estável;Sim;1
+734;Cícera Lucena Gonzaga;20/02/2000;26;Av. Jerônimo Monteiro, 1655;29100-010;Vila Velha;ES;7906275610;727354132256;Camila Moraes Lucena;Jayme Neto Gonzaga;Parda;Professor;Solteiro(a);Não;0
+735;Jarbas Farias Marcondes;15/02/2002;24;Av. Marcelino Pires, 2470;79800-001;Dourados;MS;9240339313;588732833195;Guiomar Diniz Farias;Ivanilson Fraga Marcondes;Branca;Veterinário;Solteiro(a);Sim;3
+736;Henrique Geraldo Ortega;05/03/1988;38;Av. Presidente Kennedy, 436;88101-001;São José;SC;6206468483;010294390546;Cícera Neto Geraldo;Cassio Batista Ortega;Parda;Fisioterapeuta;Solteiro(a);Sim;1
+737;Fernandinho Montenegro Coelho;16/02/1981;45;Rua Príncipe, 285;89201-000;Joinville;SC;6826545264;293650900627;Fabiola Mascarenhas Montenegro;Bento Horta Coelho;Preta;Jornalista;Viúvo(a);Sim;1
+738;Elisa Henriques Montenegro;12/07/2001;25;Av. Ceará, 230;69900-001;Rio Branco;AC;2059842146;998794120125;Andressa Morais Henriques;Eneas Girao Montenegro;Parda;Médico Pediatra;Solteiro(a);Não;0
